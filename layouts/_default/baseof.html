@@ -1,0 +1,8 @@
+{{ partial "layout/head" . }}
+
+<body>
+  {{ partial "layout/header" . }}
+
+  {{ block "main" .}}{{ end }}
+
+  {{ partial "layout/footer" . }}

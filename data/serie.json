@@ -1,0 +1,61 @@
+[{
+  "id": "1",
+  "name": "2 Broke Girls",
+  "category": "Comedy",
+  "description": "Two young women waitressing at a greasy spoon diner strike up an unlikely friendship in the hopes of launching a successful business - if only they can raise the cash.",
+  "imdb": "https://www.imdb.com/title/tt1845307/"
+}, {
+  "id": "2",
+  "name": "Alf",
+  "category": "Comedy",
+  "description": "A furry alien wiseguy comes to live with the Tanner family after crashing into their garage.",
+  "imdb": "https://www.imdb.com/title/tt0090390/"
+}, {
+  "id": "3",
+  "name": "Becker",
+  "category": "Comedy",
+  "description": "Dr. John Becker goes through his daily routine of being a doctor, stopping at his favorite diner, and other various situations, all the while hating life and everything around him.",
+  "imdb": "https://www.imdb.com/title/tt0174378/"
+}, {
+  "id": "4",
+  "name": "The Persuaders!",
+  "category": "Action",
+  "description": "Two worlds collide when the titled Englishman, Lord Brett Sinclair, and the Bronx-raised, self-made American Danny Wilde, reluctantly join forces to right wrongs, and to protect the innocent.",
+  "imdb": "https://www.imdb.com/title/tt0066701/"
+}, {
+  "id": "5",
+  "name": "Hogans Heros",
+  "category": "Comedy",
+  "description": "The inmates of a German World War II prisoner of war camp conduct an espionage and sabotage campaign right under the noses of their warders.",
+  "imdb": "https://www.imdb.com/title/tt0058812/"
+}, {
+  "id": "6",
+  "name": "Leverage",
+  "category": "Crime",
+  "description": "A crew of high-tech crooks attempt to steal from wealthy criminals and corrupt businessmen.",
+  "imdb": "https://www.imdb.com/title/tt1103987/"
+}, {
+  "id": "7",
+  "name": "Orange Is the New Black",
+  "category": "Crime",
+  "description": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life changing prison can really be.",
+  "imdb": "https://www.imdb.com/title/tt2372162/"
+}, {
+  "id": "8",
+  "name": "Supernatural",
+  "category": "Drama",
+  "description": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
+  "imdb": "https://www.imdb.com/title/tt0460681/"
+}, {
+  "id": "9",
+  "name": "Star Wars: The Clone Wars",
+  "category": "Animation",
+  "description": "Yoda, Mace Windu, Obi-Wan Kenobi, Anakin Skywalker and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+  "imdb": "https://www.imdb.com/title/tt0458290/"
+}, {
+  "id": "10",
+  "name": "Star Wars: Rebels",
+  "category": "Animation",
+  "description": "A brave and clever ragtag starship crew stands up against the evil Empire as it tightens its grip on the galaxy and hunts down the last of the Jedi Knights.",
+  "imdb": "https://www.imdb.com/title/tt2930604/"
+}]

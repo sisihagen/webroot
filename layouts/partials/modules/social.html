@@ -1,0 +1,15 @@
+    <!-- social network stuff -->
+    <meta property="og:title" content="Silvio Siefke">
+    {{ if .Params.shorttext }}<meta property="og:description" content="{{ .Params.shorttext }}">{{ else }}<meta property="og:description" content="{{ .Site.Params.description }}">{{ end }}
+    <meta property="og:type" content="blog">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="https://silviosiefke.com/static/img/layout/fblogo.png">
+    <meta property="og:locale" content="{{ .Site.Language }}">
+    <meta property="fb:admins" content="100001135576994">
+    <meta property="article:publisher" content="https://facebook.com/silvio1979">
+    <meta property="article:author" content="https://facebook.com/silvio1979">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@silviosiefke">
+    <meta name="twitter:creator" content="@silviosiefke">
+    <meta name="twitter:image:src" content="https://silviosiefke.com/static/img/layout/twlogo.png">
+    <meta name="twitter:url" content="{{ .Permalink }}">

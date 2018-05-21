@@ -1,0 +1,43 @@
+// define color map
+$color-white: #f6f6f6 !default;
+$color-silver: #cccbca !default;
+$color-gray: #808080 !default;
+$color-black: #1e1916 !default;
+$color-aqua: #7fdbff !default;
+$color-blue: #006da6 !default;
+$color-navy: #002b42 !default;
+$color-light-gray: #a19f9e !default;
+$color-light-blue: #80b6d3 !default;
+$color-medium-blue: #006da6 !default;
+$color-medium-gray: #433f3c !default;
+$color-dark-blue: #002b42 !default;
+$color-dark-black: #0c0a08 !default;
+$color-dark-gray: #2a2a2a !default;
+$color-darker-gray: #1a1918 !default;
+$color-body: $color-black !default;
+$color-text: $color-light-gray !default;
+
+// define color for elements
+.one {
+  background: lighten($color-dark-black, 10%);
+}
+
+.two {
+  background: lighten($color-dark-black, 20%);
+}
+
+.three {
+  background: lighten($color-dark-black, 30%);
+}
+
+.four {
+  background: lighten($color-dark-black, 40%);
+}
+
+.five {
+  background: lighten($color-dark-black, 50%);
+}
+
+.article-header .icon {
+  fill: white;
+}

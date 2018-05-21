@@ -1,0 +1,28 @@
+<section class="three">
+  <div class="film padding">
+    <h4>Film</h4>
+    {{ range $.Page.Site.Data.film }}
+      <a href="{{ .imdb }}" title="{{ .name }}">
+        {{ .name }}
+      </a>
+    {{ end }}
+  </div>
+
+  <div class="serie padding">
+    <h4>TV-Show</h4>
+    {{ range $.Page.Site.Data.serie }}
+      <a href="{{ .imdb }}" title="{{ .name }}">
+        {{ .name }}
+      </a>
+    {{ end }}
+  </div>
+
+  <div class="books padding">
+    <h4>Books</h4>
+    {{ range $.Page.Site.Data.books }}
+      <a href="{{ .imdb }}" title="{{ .name }}">
+        {{ .name }}
+      </a>
+    {{ end }}
+  </div>
+</section>

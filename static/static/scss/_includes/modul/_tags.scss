@@ -1,0 +1,29 @@
+.tags {
+    text-align: center;
+
+    @include rwd('regular') {
+        margin: 0 1em;
+    }
+
+
+    a {
+        color: $color-light-gray;
+        padding-right: 1em;
+        text-decoration: none;
+        font-family: "hack";
+
+        &:last-child {
+            padding-right: 0;
+        }
+
+        &:hover {
+              color: darken($color-white, 10%);
+              transition: background-color 500ms linear 100ms;
+              background-color: darken($color-blue, 40%);
+        }
+
+        @include rwd('regular') {
+            display: block;
+        }
+    }
+}

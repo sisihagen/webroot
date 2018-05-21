@@ -1,0 +1,17 @@
+<div class="pagination">
+  <h4 class="margin-top">Pagination</h4>
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+  {{ range $pag.Pagers }}
+    {{ if eq . $pag }}
+      <a href="{{ .URL }}" class="btn btn-brand btn-outline padding-1/2">
+        {{ .PageNumber }}
+      </a>
+    {{ else }}
+      <a href="{{ .URL }}" class="btn btn-brand btn-outline margin-bottom padding-1/2">
+        {{ .PageNumber }}
+      </a>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</div>

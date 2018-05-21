@@ -1,0 +1,28 @@
+<section class="home-section blog one grid grid-center grid-compact-stack padding no-margin">
+{{ .Content }}
+{{ range first 3 (where .Site.Pages "Type" "blog") }}
+  <article class="blog-card grid-item 1/4 compact-1/1 margin compact-no-margin">
+    <a href="{{ .Permalink }}" title="{{ .Title }}">
+      <div class="icon-{{ .Params.cover }}"></div>
+      <div class="card-header">
+        <h4 class="text-center"> {{ .Title }} </h4>
+      </div>
+
+      <div class="card-content padding-1/2">
+        <p>
+          {{ .Params.shorttext }}
+        </p>
+      </div>
+
+      <div class="card-footer padding-1/2">
+        <time class="text-micro text-light" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+          <svg class="icon-clock2">
+            <use xlink:href="/static/img/symbol-defs.svg#icon-clock2"></use>
+          </svg>
+          {{ .Date.Format "02.01.2006" }}
+        </time>
+      </div>
+    </a>
+  </article>
+{{ end }}
+</section>

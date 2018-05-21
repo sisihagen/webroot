@@ -1,0 +1,58 @@
+enableRobotsTXT = false
+pygmentsCodeFences = true
+pygmentsStyle = "vim"
+publishDir = "public/build"
+
+
+[permalinks]
+    blog = "/blog/:year/:month/:day/:title"
+
+[taxonomies]
+    tag = "tags"
+    category = ""
+
+[blackfriday]
+    angledQuotes = true
+    hrefTargetBlank = true
+
+[related]
+  threshold = 80
+  includeNewer = false
+  toLower = false
+
+  [[related.indices]]
+    name  = "tags"
+    weight = 10
+
+  [[related.indices]]
+    name  = "date"
+    weight = 100
+    pattern = "2006"
+
+[languages]
+    [languages.de]
+        baseURL = "http://silviosiefke.de"
+        DefaultContentLanguage = "de"
+        weight = 1
+
+        [languages.de.params]
+            title = "Silvio Siefke"
+            description = "Eine weitere private Site wo man Meinungen anderer liest ..."
+
+    [languages.en]
+        baseURL = "http://silviosiefke.com"
+        DefaultContentLanguage = "en"
+        weight = 2
+
+        [languages.en.params]
+            title = "Silvio Siefke"
+            description = "Again a private website with a meaning of other ..."
+
+    [languages.fr]
+        baseURL = "http://silviosiefke.fr"
+        DefaultContentLanguage = "fr"
+        weight = 3
+
+        [languages.fr.params]
+            title = "Silvio Siefke"
+            description = "Encore un site privé avec un sens d'autres ..."

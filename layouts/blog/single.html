@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+<main>
+  <div class="cover">
+    <picture>
+      <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
+      <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">
+      <img src="/static/img/cover/{{.Params.cover}}.jpg" alt="Cover">
+    </picture>
+      <div class="article-header text-center">
+        <h1 class="no-margin no-padding"> {{ .Title }}</h1>
+        <time class="text-micro margin-right compact-block compact-no-margin" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+          <svg class="icon icon-clock2">
+            <use xlink:href="/static/img/symbol-defs.svg#icon-clock2"></use>
+          </svg>
+          {{ .Date.Format "02.01.2006" }}
+        </time>
+        <span class="text-micro margin-right compact-block compact-no-margin">
+          <svg class="icon icon-user">
+            <use xlink:href="/static/img/symbol-defs.svg#icon-user"></use>
+          </svg>
+          Silvio Siefke
+        </span>
+        <span class="text-micro text-lowercase margin-right compact-block compact-no-margin">
+          <svg class="icon icon-tags">
+            <use xlink:href="/static/img/symbol-defs.svg#icon-tags"></use>
+          </svg>
+          #{{ .Params.tags }}
+        </span>
+      </div>
+  </div>
+
+  <div class="article-wrapper grid grid-flat compact-grid-stack">
+    <div class="one grid-item 1/4 compact-hidden"></div>
+
+    <article class="two post padding grid-item 2/4 compact-1/1">
+        {{ .Content }}
+    </article>
+
+    <aside class="three post grid-item 1/4 compact-1/1">
+      <div class="linklist padding hidden">
+        <h4>Quellen</h4>
+      </div>
+
+      <div class="gallery padding hidden">
+        <h4>Galerie</h4>
+      </div>
+
+      <div class="tags padding-1/2">
+        <h4>Tags</h4>
+      {{ range $.Site.Taxonomies.tags.ByCount }}
+      {{ if gt .Count 1 }}
+        <a class="text-capitalize text-small margin-1/2 padding-1/2  btn btn-brand btn-outline" href="/tags/{{ .Name }}"> {{ .Name }} <span>({{ .Count }})</span></a>
+      {{ end }}
+      {{ end }}
+      </div>
+    </aside>
+  </div>
+</main>
+
+{{ end }}

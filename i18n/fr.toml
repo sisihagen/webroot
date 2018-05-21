@@ -1,0 +1,41 @@
+[more]
+other = "Lire"
+
+[new]
+other = "Récent"
+
+[old]
+other = "Ancien"
+
+[fail]
+other = "Le lien ne fonctionne plus ..."
+
+[nav-title-home]
+other = "Retour au début ..."
+
+[nav-title-about]
+other = "Informations sur le site ..."
+
+[nav-title-blog]
+other = "Mon stupide publié ..."
+
+[nav-title-twitter]
+other = "Suivez-moi sur Twitter ..."
+
+[nav-title-github]
+other = "La vue historique du site ..."
+
+[nav-link-home]
+other = "Début"
+
+[nav-link-about]
+other = "A propos"
+
+[nav-link-blog]
+other = "Blog"
+
+[lastheader]
+other = "Derniers messages"
+
+[newquote]
+other = "Nouvelle"

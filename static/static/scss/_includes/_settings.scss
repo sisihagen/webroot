@@ -1,0 +1,25 @@
+body {
+    font-family: "opensans";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "roboto";
+}
+
+blockquote {
+    font-family: "hackregular";
+    font-size: 0.7em;
+}
+
+img {
+  max-width: 100%;
+
+    @include rwd('compact') {
+      width: 100%;
+    }
+}
+
+.nostyle {
+  color: inherit;
+  text-decoration: none;
+}

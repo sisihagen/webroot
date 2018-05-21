@@ -1,0 +1,37 @@
+.quote-box {
+    border-radius: 3px;
+    position: relative;
+    margin: 8% auto auto auto;
+    padding: 2rem 3rem;
+    overflow: hidden;
+
+    button {
+        position: relative;
+        top: 0;
+        right: 0;
+    }
+
+    .btn {
+        cursor: pointer;
+        opacity: 1;
+        background: #4c7fa7;
+        color: #fff;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 20px;
+        border-radius: 3px;
+        border: none;
+        outline: none;
+
+        &:hover {
+            opacity: 0.8;
+        }
+    }
+}
+
+#quote {
+    overflow: hidden;
+    margin-bottom: 20px;
+    opacity: 1;
+    transition: all 0.8s cubic-bezier(0.44, 1.13, 0.58, 1);
+}

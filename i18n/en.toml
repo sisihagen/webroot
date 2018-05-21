@@ -1,0 +1,41 @@
+[more]
+other = "Read"
+
+[new]
+other = "New"
+
+[old]
+other = "Old"
+
+[fail]
+other = "The link doesn't work anymore ..."
+
+[nav-title-home]
+other = "Back to entry ..."
+
+[nav-title-about]
+other = "Information about the Website ..."
+
+[nav-title-blog]
+other = "My stupid meaning ..."
+
+[nav-title-twitter]
+other = "Follow me on Twitter ..."
+
+[nav-title-github]
+other = "The historical Website view"
+
+[nav-link-home]
+other = "Home"
+
+[nav-link-about]
+other = "About"
+
+[nav-link-blog]
+other = "Blog"
+
+[lastheader]
+other = "Last Posts"
+
+[newquote]
+other = "New"

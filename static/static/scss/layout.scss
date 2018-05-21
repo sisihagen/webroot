@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+// settings before hocus pocus
+@import "_includes/color";
+
+$rwd-map: (
+  'compact': 320px 767px,
+  'regular': 768px
+);
+
+// https://github.com/bkzl/hocus-pocus
+@import "../../../bower_components/hocus-pocus/hocus-pocus";
+@import "_includes/fonts";
+@import "_includes/settings";
+@import "_includes/cover";
+
+// own layout
+@import "_includes/layout/article";
+@import "_includes/layout/aside";
+@import "_includes/layout/footer";
+@import "_includes/layout/header";
+@import "_includes/layout/main";
+@import "_includes/layout/nav";
+@import "_includes/layout/section";
+
+// modules
+@import "_includes/modul/cards";
+@import "_includes/modul/pagination";
+@import "_includes/modul/tags";
+@import "_includes/modul/twitter";
+@import "_includes/modul/svg";

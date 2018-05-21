@@ -1,0 +1,14 @@
+<!--
+
+<picture>
+  <source srcset="img/awesomeWebPImage.webp" type="image/webp">
+  <source srcset="img/creakyOldJPEG.jpg" type="image/jpeg">
+  <img src="img/creakyOldJPEG.jpg" alt="Alt Text!">
+</picture>
+-->
+
+<picture>
+  <source srcset="{{ .Get "srcwebp" }}" type="image/webp">
+  <source srcset="{{ .Get "srcalt" }}" type="image/jpeg">
+  <img src="{{ .Get "srcalt" }}" alt="{{ .Get "title" }}">
+</picture>

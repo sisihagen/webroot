@@ -1,0 +1,20 @@
+    <aside>
+      {{ .Inner }}
+        {{ if or (.Get "link") (.Get "image") (.Get "linktitle") }}
+          <div class="linklist">
+          {{ if .Get "link" }}
+            <a href="{{ .Get "link" }}">
+                {{ if .Get "linktitle" }}
+                  {{ .Get "linktitle" }}
+                {{ end }}
+            </a>
+          {{ end }}
+          </div>
+
+          <div class="gallery">
+          {{ if .Get "image" }}
+            <img src="{{ .Get "image" }}" alt="image">
+          {{ end }}
+          </div>
+        {{ end }}
+    </aside>
