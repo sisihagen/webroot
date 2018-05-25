@@ -43,3 +43,7 @@ exit 0
 #### policing
 
 You have certainly heard of Cookie, advertising, and Tracker. All of these techniques I do not use. I run a purely private site that contain my thoughts, opinions and descriptions. I follow no commercial interests and desires. This site is a hobby, a hobby funded self or let it.
+
+#### privacy 
+
+The Privacy Doc you find [here](http://silviosiefke.com/imprint "Privacy")

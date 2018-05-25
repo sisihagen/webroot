@@ -55,7 +55,6 @@ section {
         transition: color 500ms linear 100ms;
         color: lighten($color-blue, 40%);
         text-decoration: underline;
-        font-size: 1.4rem;
       }
     }
 
@@ -69,7 +68,6 @@ section {
         transition: color 500ms linear 100ms;
         color: lighten($color-blue, 80%);
         text-decoration: underline dotted;
-        font-size: 1.8rem;
       }
     }
   }

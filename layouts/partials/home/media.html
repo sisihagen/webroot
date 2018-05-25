@@ -2,7 +2,7 @@
   <div class="film padding">
     <h4>Film</h4>
     {{ range $.Page.Site.Data.film }}
-      <a href="{{ .imdb }}" title="{{ .name }}">
+      <a href="{{ .imdb }}" title="{{ .description }}">
         {{ .name }}
       </a>
     {{ end }}
@@ -11,7 +11,7 @@
   <div class="serie padding">
     <h4>TV-Show</h4>
     {{ range $.Page.Site.Data.serie }}
-      <a href="{{ .imdb }}" title="{{ .name }}">
+      <a href="{{ .imdb }}" title="{{ .description }}">
         {{ .name }}
       </a>
     {{ end }}

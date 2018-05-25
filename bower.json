@@ -2,7 +2,7 @@
   "name": "silviosiefke.com",
   "description": "Private Website",
   "main": "index.js",
-  "version": "0.0.5",
+  "version": "0.0.2",
   "authors": [
     "Silvio Siefke <siefke@mail.ru> (http://www.silviosiefke.com)"
   ],
@@ -24,9 +24,12 @@
   ],
   "devDependencies": {
     "jquery": "^3.3.1",
-    "jquery-backstretch": "^2.1.16",
-    "Font-Awesome": "fontawesome#^5.0.10",
-    "hocus-pocus": "^0.3.5"
+    "svgxuse": "^1.2.6",
+    "wikiquotes-api": "git://github.com/natetyler/wikiquotes-api.git",
+    "flexibility": "^2.0.1",
+    "modernizr": "^3.6.0",
+    "picturefill": "^3.0.3",
+    "twitterfeed": "https://tomelliott.com/demos/jquery-twitter-feed/js/twitterfeed.js"
   },
   "dependencies": {
     "jquery": "^3.3.1",

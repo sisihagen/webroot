@@ -36,4 +36,13 @@ nav {
       }
     }
   }
+
+  .icon-info-circle,
+  .icon-paragraph-justify,
+  .icon-twitter,
+  .icon-github {
+    &:hover {
+      fill: lighten($color-blue, 40%);
+    }
+  }
 }

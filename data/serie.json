@@ -58,4 +58,22 @@
   "category": "Animation",
   "description": "A brave and clever ragtag starship crew stands up against the evil Empire as it tightens its grip on the galaxy and hunts down the last of the Jedi Knights.",
   "imdb": "https://www.imdb.com/title/tt2930604/"
+}, {
+  "id": "11",
+  "name": "The Practice",
+  "category": "Crime",
+  "description": "We follow the exploits and cases of defense attorneys of a Boston law firm. Bobby Donnell is the senior defense attorney and founder of the firm.",
+  "imdb": "https://www.imdb.com/title/tt0118437/"
+}, {
+  "id": "12",
+  "name": "Auf Achse",
+  "category": "Adventure",
+  "description": "The adventures of a group of German truckers on jobs all over the world.",
+  "imdb": "https://www.imdb.com/title/tt0076980/"
+}, {
+  "id": "13",
+  "name": "Law & Order",
+  "category": "Crime",
+  "description": "TFollows a crime, usually adapted from current headlines, from two separate vantage points, the police investigation and the prosecution in court.",
+  "imdb": "https://www.imdb.com/title/tt0098844/"
 }]

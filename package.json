@@ -1,10 +1,10 @@
 {
   "name": "silviosiefke.com",
-  "version": "0.0.5",
+  "version": "0.0.2",
   "description": "Private Website ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "./node_modules/.bin/bower install"
   },
   "repository": {
     "type": "git",
@@ -14,6 +14,7 @@
     "Hugo",
     "Hocus Pocus",
     "Normalize",
+    "static-site",
     "Sass"
   ],
   "author": "Silvio Siefke <siefke@mail.ru> (http://www.silviosiefke.com)",
@@ -36,6 +37,7 @@
     "gulp-htmlmin": "^4.0.0",
     "gulp-htmltidy": "^0.2.4",
     "gulp-imagemin": "^4.1.0",
+    "gulp-jsonminify": "^1.1.0",
     "gulp-postcss": "^7.0.1",
     "gulp-prompt": "^1.0.1",
     "gulp-rename": "^1.2.3",

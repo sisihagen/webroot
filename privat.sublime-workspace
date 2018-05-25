@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"lang",
+				"LANG"
+			],
+			[
+				"t",
+				"TITLE"
+			],
+			[
 				"pic",
 				"picture"
 			],
@@ -52,16 +60,20 @@
 		"selected_items":
 		[
 			[
+				"hugo",
+				"Hugofy : New Post"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
 				"scss",
 				"Set Syntax: SCSS"
 			],
 			[
 				"snippe",
 				"Snippet: imagepicture"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"remove",
@@ -117,29 +129,62 @@
 	},
 	"expanded_folders":
 	[
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com"
 	],
 	"file_history":
 	[
+		"/home/siefke/Downloads/index.html",
+		"/home/siefke/Downloads/make.conf",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/imprint.de.md",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/imprint/index.de.md",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/index.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/about/imprint/index.md",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/dies-ist-ein-test.de.md",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/dies-ist-ein-test.de.md",
+		"/home/siefke/.config/sublime-text-3/Packages/User/hugofy.sublime-settings",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/Silvio Siefke/content/silviosiefke.de",
+		"/home/siefke/.config/sublime-text-3/Packages/Hugofy/hugofy.sublime-settings",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/C:\\Users\\amitm\\OneDrive\\Documents\\Projects\\hugo\\mySite/MyFirstsite/content/die ist ein test",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_nav.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/modul/_top.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/layout/nav.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/layout.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/js/quote.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/_fonts.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/js/app.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/twitter.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/_default/list.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_article.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/media.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_section.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/modul/_cards.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulpfile.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/release.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/data/serie.json",
+		"/home/siefke/Downloads/new.sh",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bower.json",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/package.json",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/.gitignore",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/CHANGELOG.md",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/php/twitter.php",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/modul/_pagination.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/blog.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/modules/pagination.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/modules/tags.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/modul/_tags.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_aside.scss",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public/dest/silviosiefke.de/htdocs/about/index.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/_default/single.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulpfile.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/imagemin.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/sass.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/javascript.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_article.scss",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_section.scss",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/media.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/blog.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/index.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/data/books.json",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/film.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/data/serie.json",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/data/film.json",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/config.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/layout/head.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/blog/single.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/js/site.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/layout.scss",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/_cover.scss",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/fallujah-under-siege-again.en.md",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/schubladen.de.md",
@@ -151,15 +196,12 @@
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/arabie-saoudite-et-de-l-iran.fr.md",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/bonne-et-mauvaise.fr.md",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/anarchismus-und-verganismus.de.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/js/app.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/twitter.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/modul/_twitter.scss",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/js/picturefill.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/js/picturefill.min.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_main.scss",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_header.scss",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/_color.scss",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_aside.scss",
 		"/home/siefke/Dokumente/projects/privatesites/webroot-0.0.4/static/static/scss/_includes/layout/_nav.scss",
 		"/home/siefke/Dokumente/projects/privatesites/webroot-0.0.4/static/static/scss/_includes/layout/_header.scss",
 		"/home/siefke/Dokumente/projects/privatesites/webroot-0.0.4/layouts/partials/layout/nav.html",
@@ -218,36 +260,7 @@
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/google-dont-be-evil.de.md",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/fuck-you-israel-2.de.md",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/die-seele-geschichte.de.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/die-gruenen.de.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/der-deutsche-heuchler.de.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/das-unsoziale-einkaufen.de.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/gut-und-bose.de.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/shortcodes/image.html",
-		"/home/siefke/.config/sublime-text-3/Packages/User/imagepicture.sublime-snippet",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/html.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/hugo.sh",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/modules/js.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/folder.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/hugo.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/shortcodes/youtube.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/the-tor-network.en.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/brother-mfc-7320-gentoo.fr.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/brother-mfc-7320-gentoo.en.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_nav.scss",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/modul/_cards.scss",
-		"/home/siefke/Downloads/1.md",
-		"/home/siefke/.config/sublime-text-3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/shortcodes/aside.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/about/single.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/404.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/_default/list.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/_default/error.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/_default/baseof.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/modules/nav.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/_settings.scss",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/config.toml",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/i18n/fr.toml",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/i18n/en.toml"
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/die-gruenen.de.md"
 	],
 	"find":
 	{
@@ -265,6 +278,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img/svg",
+			"guote",
 			"</li>",
 			"    <li>",
 			"filter",
@@ -281,6 +296,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"img",
 			"",
 			"- ",
 			"Netzwerk",

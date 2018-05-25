@@ -24,7 +24,7 @@ gulp.task('bump-version', function() {
 
 gulp.task('git-add',[], function() {
     return gulp.src('./*')
-      .pipe(git.add({args: '-f -i -p'}));
+      .pipe(git.add());
 });
 
 gulp.task('commit-changes', function() {
@@ -76,6 +76,5 @@ gulp.task('release', function(callback) {
         'git-add',
         'commit-changes',
         'push-changes',
-        'create-new-tag',
         callback);
 });

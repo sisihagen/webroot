@@ -53,7 +53,7 @@ module.exports = {
     bout: assets + '/img/cover'
   },
   webp: {
-    src: assets + '/img/**/*.{jpg,png}',
+    src: assets + '/img/**/*.webp',
     out: static + '/img',
     options: {}
   }

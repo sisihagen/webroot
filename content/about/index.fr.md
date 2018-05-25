@@ -43,3 +43,8 @@ exit 0
 #### surveillance
 
 Je mets les cookies de suivi et la publicité est pas un. Ce site est un passe-temps. Il est financé par moi.
+
+
+#### confidentialité
+
+Les trucs de vie privée que vous trouvez [ici](https://silviosiefke.fr/imprint).

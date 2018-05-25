@@ -44,3 +44,7 @@ exit 0
 #### Überwachung
 
 Die Website ist ein privates Projekt, ein Hobby. Es erfolgt kein Tracking, keine Cookies und Werbung nutze ich nicht. Hobbys sollte man selbst finanzieren, Ihr Adblocker sollte nichts finden, Ublock könnte den Link zu Twitter löschen.
+
+#### Datenschutz
+
+Die Datenschutzerklärung finden Sie [hier](https://silviosiefke.de/imprint/ "Datenschutzerklärung").

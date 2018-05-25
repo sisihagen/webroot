@@ -6,7 +6,6 @@
 // https://www.sitepoint.com/how-to-use-postcss-with-gulp/
 // https://webdesign.tutsplus.com/series/postcss-deep-dive--cms-889
 // https://github.com/kogakure/hugo-stefanimhoff.de
-// https://stefanimhoff.de/2014/gulp-tutorial-1-intro-setup/
 
 var gulp         = require('gulp'),
     requireDir   = require('require-dir')('./gulp-tasks'),
@@ -20,7 +19,7 @@ gulp.task('default', [], function () {
 });
 
 // gulp managed the assets tasks
-gulp.task('static', ['image', 'prod-css', 'prod-js', 'fonts'], function() {});
+gulp.task('static', ['image', 'json', 'prod-css', 'prod-js', 'fonts'], function() {});
 
 // gulp complete run
 gulp.task('build', function(callback) {

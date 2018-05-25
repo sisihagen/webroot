@@ -30,4 +30,29 @@ $(document).ready(function() {
   // if javascript active remove hidden class for linklist and gallery in aside of article
   $('.linklist').removeClass('hidden');
   $('.gallery').removeClass('hidden');
+
+    // to top  button include
+  var back_to_top_button = ['<a href="#top" class="back-to-top"><svg class="icon icon-arrow-up" style="fill:black;width:2rem;height:2rem;"><use xlink:href="/static/img/symbol-defs.svg#icon-arrow-up"></use></svg></a>'].join("");
+  $("body").append(back_to_top_button)
+
+  // hide the button
+  $(".back-to-top").hide();
+
+  // scolling
+  $(function () {
+    $(window).scroll(function () {
+      if ($(this).scrollTop() > 100) { // Wenn 100 Pixel gescrolled wurde
+        $('.back-to-top').fadeIn();
+      } else {
+        $('.back-to-top').fadeOut();
+      }
+    });
+
+    $('.back-to-top').click(function () { // Klick auf den Button
+      $('body,html').animate({
+        scrollTop: 0
+      }, 800);
+      return false;
+    });
+  });
 });
