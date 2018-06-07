@@ -1,7 +1,7 @@
 ---
 title: "Acta"
 date: 2012-05-05
-tags: Staat"
+tags: "Staat"
 keywords: "Acta, Medien, Verlage, Urheberrecht, Content, Adblock, Zensur, Kontrolle, Wirtschaft"
 shorttext: "Acta zeigt die westliche Demokratie und deren Korruption und Verbundenheit zur Wirtschaft und auf der anderen Seite haben wir das getretene Volk..."
 cover: "repression"
@@ -9,7 +9,7 @@ draft: false
 lang: de
 ---
 
-Was ist ACTA? Die Abkürzung ACTA steht für das geplante plurilaterale Handelsabkommen Anti-Counterfeiting Trade Agreement . Die teilnehmenden Nationen bzw. "Staat"enbünde geben an, damit den Kampf gegen Produktpiraterie verbessern zu wollen. Das angeblich wachsende Problem der Fälschungen und der Piraterie soll mit dem Abkommen besser bekämpft werden können. Die geheimen Verhandlungen liefen zwischen 2008 und 2011. Die teilnehmenden Parteien sind die Schweiz, die USA, die EU, Kanada, Japan, Korea, Singapur, Australien, Neuseeland, Mexiko, Jordanien, Marokko und die Vereinigten Arabischen Emirate.
+Was ist ACTA? Die Abkürzung ACTA steht für das geplante plurilaterale Handelsabkommen Anti-Counterfeiting Trade Agreement . Die teilnehmenden Nationen bzw. Staatenbünde geben an, damit den Kampf gegen Produktpiraterie verbessern zu wollen. Das angeblich wachsende Problem der Fälschungen und der Piraterie soll mit dem Abkommen besser bekämpft werden können. Die geheimen Verhandlungen liefen zwischen 2008 und 2011. Die teilnehmenden Parteien sind die Schweiz, die USA, die EU, Kanada, Japan, Korea, Singapur, Australien, Neuseeland, Mexiko, Jordanien, Marokko und die Vereinigten Arabischen Emirate.
 
 -- Mangel an “demokratischer“ Glaubwürdigkeit!
 -- Gefahren für die Meinungsfreiheit und den Zugang zu Kultur
@@ -38,7 +38,7 @@ h) Auch die nicht-gewerbliche Nutzung ist kostenpflichtig. Es ist kein rein gewe
 
 i) Die Umgehung von Schutzmaßnahmen ist unzulässig; es gibt ein Technologiekontrollrecht.
 
-j) Zensur, wie beispielsweise gegen The Pirate Bay nicht nur in vielen "Staat"en und von vielen Providern sondern auch vielen Diensten wie Windows Live Messenger, Mastercard, Visa und Paypal.
+j) Zensur, wie beispielsweise gegen The Pirate Bay nicht nur in vielen Staaten und von vielen Providern sondern auch vielen Diensten wie Windows Live Messenger, Mastercard, Visa und Paypal.
 
 k) Kein Erschöpfungsgrundsatz: Dem Konsumenten können Lizenzbedingungen auferlegt/unter-geschoben werden. Dadurch erwirbt er mit einem Kauf nicht sämtliche Rechte sondern nur ein eingeschränktes Nutzungsrecht.
 
@@ -48,7 +48,7 @@ m) Keine klare Beschränkung, so das auch simple Bildideen geschützt sein könn
 
 n) Keine einklagbaren Zwangslizenzen. Das Eigentum verpflichtet (§14 GG) gilt für einfache Urheber praktisch nicht.
 
-o) Es ist kein reines Zivilrecht sondern auch ein Strafrecht, so das der für den Auftraggeber kostenlose Anwalt, der "Staat"sanwalt, gegen Verstöße losgeschickt werden kann und ein Verletzer nicht nur Unterlassen und Zahlen muss sondern auch mit Gefängnisstrafen sanktioniert werden kann.
+o) Es ist kein reines Zivilrecht sondern auch ein Strafrecht, so das der für den Auftraggeber kostenlose Anwalt, der Staatsanwalt, gegen Verstöße losgeschickt werden kann und ein Verletzer nicht nur Unterlassen und Zahlen muss sondern auch mit Gefängnisstrafen sanktioniert werden kann.
 
 p) Urheber können kostengünstig und einfach vor einfachen Zivilgerichten klagen. Sie müssen nicht spezielle sowie teure Gerichte wie Patentgerichte anrufen und sie benötigen keine teuren Spezialisten wie einen Patentanwalt.
 

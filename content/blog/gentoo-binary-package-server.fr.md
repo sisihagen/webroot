@@ -8,9 +8,11 @@ lang: fr
 draft: false
 ---
 
+Trouvez mes [packages] (http://gentoo.silviosiefke.com/SystemD/ "paquets binaires ") et les paramètres [paramètres] (http://gentoo.silviosiefke.com/etc/Portage/ "/etc/portage").
+
 ~~~ bash
 siefke $  cat /etc/portage/make.conf | grep PORTAGE_BINHOST
-PORTAGE_BINHOST="http://gentoo.silviosiefke.com/packages/"
+PORTAGE_BINHOST="http://gentoo.silviosiefke.com/systemd/"
 ~~~
 
 ~~~ bash
@@ -18,7 +20,7 @@ siefke $  cat /etc/portage/make.conf | grep FEATURES
 FEATURES="distcc ccache buildpkg parallel-fetch getbinpkg -preserve-libs"
 ~~~
 
-Avec ces réglages, les dépenses sont réduites au minimum Shell ...
+Limited la sortie Shell ...
 
 ~~~bash
 siefke $  cat /etc/portage/make.conf | grep EMERGE

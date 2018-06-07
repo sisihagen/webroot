@@ -1,5 +1,5 @@
-var gulp = require('gulp');
-var fs = require('fs');
+var gulp = require('gulp'),
+    fs   = require('fs');
 
 
 gulp.task('folder', ['cd'], () => {

@@ -11030,6 +11030,16 @@ $(document).ready(function () {
   });
 
 $(document).ready(function() {
+  // cookie overlay
+
+  if(document.cookie.indexOf('hidecookiedingsbums=1') != -1){
+    jQuery('#cookiedingsbums').hide();
+  }
+  else{
+    jQuery('#cookiedingsbums').prependTo('body');
+    jQuery('#cookiedingsbumsCloser').show();
+  }
+
   // image and links to aside
   $("article a").each(function (idx, ele) {
       var newele = $(ele).clone();
@@ -11072,14 +11082,14 @@ $(document).ready(function() {
   // scolling
   $(function () {
     $(window).scroll(function () {
-      if ($(this).scrollTop() > 100) { // Wenn 100 Pixel gescrolled wurde
+      if ($(this).scrollTop() > 300) {
         $('.back-to-top').fadeIn();
       } else {
         $('.back-to-top').fadeOut();
       }
     });
 
-    $('.back-to-top').click(function () { // Klick auf den Button
+    $('.back-to-top').click(function () {
       $('body,html').animate({
         scrollTop: 0
       }, 800);

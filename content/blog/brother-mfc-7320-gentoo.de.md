@@ -48,3 +48,8 @@ siefke $ i686: ln -s /usr/lib/cups/filter/brlpdwrapperMFC7320 .
 siefke $ x86_64: ln -s /usr/lib64/cups/filter/brlpdwrapperMFC7320 .
 siefke $ udevadm control --reload-rules
 ~~~
+
+
+{{< image srcwebp="/static/img/content/2013/brother_mfc.webp" srcalt="/static/img/content/2013/brother_mfc.jpg" title="Brother MFC-7320" >}}
+
+{{< image srcwebp="/static/img/content/2013/cups.webp" srcalt="/static/img/content/2013/cups.png" title="Cups" >}}

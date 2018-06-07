@@ -1,7 +1,7 @@
 ---
 title: "Reich durch Harz4"
 date: 2015-08-08
-tags: "Gesellschaft"
+tags: Gesellschaft
 keywords: "ALG2, Harz 4, Buch, Repression, Faulheit, Propaganda, Wirtschaft, Lobbyismus, Sozialabbau, Sozialleistungen, Soziale Verantwortung, Reichtum, Armut, Reich, Arm, Bildungsfern, Massnahmen"
 shorttext: "Eine Buchrezension, Reich durch Harz4 von Rita Knobel-Ulrich. Die Autorin versucht Dinge zu erklären, die sicher jeder in Minuten selbst googlen kann und stellt Betroffene, Sozialarbeiter, Jobcenter und Arbeitsagentur als unfähig hin."
 cover: "society"
@@ -10,9 +10,9 @@ lang: de
 ---
 
 ### Buchinhalt
-Es werden Massnahmen als unnötigt entlarvt, die Betroffenen als faul gestempelt und die Mitarbeiter von Jobcenter und Arbeitsagentur haben sowieso keine Ahnung. Die Politikwissenschaftlerin hat den Druchblick, obwohl diese in jeden der Absätze Inkompetenz beweisst, kein Wunder hat ja Politik studiert und die enden meistens als Firmensprecher mit so wunderbaren Statements "Ihr habt kein Recht auf einen konstanten Meeresspiegel", also große Reden schwingen ja, Kompetenz, Wissen, Sozial- und "Gesellschaft"skompetenz findet man selten. 
+Es werden Massnahmen als unnötigt entlarvt, die Betroffenen als faul gestempelt und die Mitarbeiter von Jobcenter und Arbeitsagentur haben sowieso keine Ahnung. Die Politikwissenschaftlerin hat den Druchblick, obwohl diese in jeden der Absätze Inkompetenz beweisst, kein Wunder hat ja Politik studiert und die enden meistens als Firmensprecher mit so wunderbaren Statements "Ihr habt kein Recht auf einen konstanten Meeresspiegel", also große Reden schwingen ja, Kompetenz, Wissen, Sozial- und Gesellschaftskompetenz findet man selten. 
 
-> Denn trotz Eurokrise und "Staat"sverschuldung wird eine Hartz-IV-Industrie am Leben gehalten, die viel kassiert, aber wenig Nutzen stiftet – am allerwenigsten denen, die echte Unterstützung brauchen.
+> Denn trotz Eurokrise und Gesellschaftsverschuldung wird eine Hartz-IV-Industrie am Leben gehalten, die viel kassiert, aber wenig Nutzen stiftet – am allerwenigsten denen, die echte Unterstützung brauchen.
 
 
 Wer hat von der Eurokrise profitiert und diese ermöglicht? Unfähige Politiker, gekauft von Lobbyisten, unkontrollierte Banken und die Geldgier. Das hat nichts, absolut nichts mit sozialer Verantwortung zu tun. Folgen dieser Entwicklung sieht man in Griechenland, in Irland, in Spanien und Italien. Die Besserverdiener, die Autorin in Schutz nimmt, sind dort die Gläubiger und leben auf Kosten der kleinen, normalen Arbeiter die nicht mit Beträgen zocken deren Realität längst in Ideologie übergegangen ist.
@@ -28,7 +28,7 @@ Das allein beweist die soziale Inkompetenz der Autorin, hetzen ja, aber Betroffe
 
 > Bildungsträger kümmern sich um sie und machen so ein Milliardengeschäft.
 
-Warum gibt es die Bildungsträger wohl? Der "Staat", wie die "Gesellschaft" verschließen die Augen vor der Verantwortung und wollen mit Meldungen wie "Die Arbeitslosen sind unter drei Millionen" verwöhnt werden. Der "Staat" soll sich raushalten, soll sich aber gleichzeitig bemühen und das am besten für wenig Geld. Der "Staat" hat den Vorbild Wirtschaft gefolgt, outsourcing von Verantwortung und verramschen für das Wohl der Statistik. 
+Warum gibt es die Bildungsträger wohl? Der Gesellschaft, wie die Gesellschaft verschließen die Augen vor der Verantwortung und wollen mit Meldungen wie "Die Arbeitslosen sind unter drei Millionen" verwöhnt werden. Der Gesellschaft soll sich raushalten, soll sich aber gleichzeitig bemühen und das am besten für wenig Geld. Der Gesellschaft hat den Vorbild Wirtschaft gefolgt, outsourcing von Verantwortung und verramschen für das Wohl der Statistik. 
 
 
 > Es gibt Strickseminare, Supermärkte mit Gummieiern, Theaterkurse und Telefonausbildungen
@@ -46,16 +46,16 @@ Wieder die typisch liberale Aussage. Kleiner Mensch hat sich gefälligst den sta
 
 > Ein typisch deutsches Problem? Ja, könnte man sagen, denn ganz anders sieht es beispielsweise im Nachbarland Holland aus. Nach radikalen Reformen sank dort im Jahr 2008 die Arbeitslosenquote zeitweilig auf drei Prozent, bis 2011 lag sie bei vier Prozent und stieg infolge der Finanzkrise auf fünf Prozent an.
 
-Das [System Niederlande](http://www.niederlande-wegweiser.de/niederlandenews_1109werleistungwill.html "Wer Leistung vom "Staat" will, muss leistungswillig sein") ist sicher ein Fortschritt, aber das System hat genau den gleichen Misserfolg wie ALG2. Wie sollte es auch sein, ohne Angebot kein Zuschlag, weshalb die <a href="http://de.statista.com/statistik/daten/studie/17321/umfrage/arbeitslosenquote-in-den-niederlanden/" title="Niederlande: Arbeitslosenquote von 2004 bis 2015" class="external">Quote seit 2005 in den Niederlanden</a> ohne erkennbaren Aufschwung steigt. Das gemeinnütziges arbeiten in Deutschland durch ein Euro Jobs ebenmfalls ermöglicht wird, verschweigt die Autorin wie auch das höhere Geld in den Niederland was man als arbeitsloser erhält. 
+Das [System Niederlande](http://www.niederlande-wegweiser.de/niederlandenews_1109werleistungwill.html "Wer Leistung vom Gesellschaft will, muss leistungswillig sein") ist sicher ein Fortschritt, aber das System hat genau den gleichen Misserfolg wie ALG2. Wie sollte es auch sein, ohne Angebot kein Zuschlag, weshalb die <a href="http://de.statista.com/statistik/daten/studie/17321/umfrage/arbeitslosenquote-in-den-niederlanden/" title="Niederlande: Arbeitslosenquote von 2004 bis 2015" class="external">Quote seit 2005 in den Niederlanden</a> ohne erkennbaren Aufschwung steigt. Das gemeinnütziges arbeiten in Deutschland durch ein Euro Jobs ebenmfalls ermöglicht wird, verschweigt die Autorin wie auch das höhere Geld in den Niederland was man als arbeitsloser erhält. 
 
 >  Die demografische Uhr tickt.
 
 
 Das typisch liberal dumme Gelabber, was jeden als inkompetent entlarvt. Das Märchen der [Alterung](http://www.nachdenkseiten.de/?p=185 "Das Märchen von den schlechten demographischen Verhältnissen"). Das Märchen des [Fachkräftemangel](http://www.nachdenkseiten.de/?cat=92 "Fachkräftemangel"). Beides wurde unzählige Male wiederlegt und nachgewiesen das es kein Argument, sondern eine Schutzbehauptung ist.
 
-> Der "Staat" darf nicht länger nur ein Umverteiler von Geldern sein, denn sonst ersticken wir an der Schuldenlawine, die uns bereits überrollt haben
+> Der Gesellschaft darf nicht länger nur ein Umverteiler von Geldern sein, denn sonst ersticken wir an der Schuldenlawine, die uns bereits überrollt haben
 
-Der "Staat" ist kein Umverteiler, er ist Schiedsrichter der die schwachen vor den starken schützen soll. Soll, muss man hier betonen es ist ja nicht die Realität. 
+Der Gesellschaft ist kein Umverteiler, er ist Schiedsrichter der die schwachen vor den starken schützen soll. Soll, muss man hier betonen es ist ja nicht die Realität. 
 
 > Frage nicht, was dein Land für dich tun kann, sondern was du für dein Land tun kannst!
 
@@ -71,7 +71,7 @@ Warum wohl? Die 1970 waren der Anfang vom Ende. die Menschen haben verstanden da
 
 > 3500 Erntehelfer auf seinen Salat- und Kohlfeldern beschäftigt, darunter trotz drei Millionen Arbeitsloser nicht ein einziger Deutscher
 
-Das ist auch ein Märchen, wie die alternde "Gesellschaft" und Fachkräftemangel. Diese Erntehelfer werden speziell aus dem Ausland heran geschafft, damit der Landwirt wenig Kosten hat und so seinen Profit maximieren. Daran ist natürlich der Verbraucher schuld, der nur billige Waren will und entsprechend muss man sich jedes mal die wiederholten Nachrichten anhören, nicht neu Politik ist eben nur Stillstand, statt Fortschritt. Übrigens gehören die Erntehelfer zu denen die [nicht einmal vom Mindestlohn](http://www.rbb-online.de/was/archiv/20150225_2215/preise.html "Preisentwicklung seit Mindestlohn in der Landwirtschaft") profitieren. 
+Das ist auch ein Märchen, wie die alternde Gesellschaft und Fachkräftemangel. Diese Erntehelfer werden speziell aus dem Ausland heran geschafft, damit der Landwirt wenig Kosten hat und so seinen Profit maximieren. Daran ist natürlich der Verbraucher schuld, der nur billige Waren will und entsprechend muss man sich jedes mal die wiederholten Nachrichten anhören, nicht neu Politik ist eben nur Stillstand, statt Fortschritt. Übrigens gehören die Erntehelfer zu denen die [nicht einmal vom Mindestlohn](http://www.rbb-online.de/was/archiv/20150225_2215/preise.html "Preisentwicklung seit Mindestlohn in der Landwirtschaft") profitieren. 
 
 > Ich fuhr zusammen mit dem Kamerateam zu Suppenküchen und fand viele Kinder vor, deren Eltern nicht arm, aber überfordert waren.
 
@@ -94,13 +94,13 @@ Das ist am ganzen Buch der beste Absartz. Sie wiederspricht damit all den Mensch
 > 80 Prozent der Einnahmen aus der Lohn- und Einkommensteuer stammen vom oberen Drittel der Steuerbürger.
 
 
-Ein interessanter Artikel, zum lernen der Autorin <a href="http://blog.zeit.de/herdentrieb/2013/09/13/die-wahrheit-uber-die-steuerlast-der-oberen-50-prozent_6503" title="Die Wahrheit über die Steuerlast der oberen 50 Prozent" class="external">hier</a>, <a href="http://www.zeit.de/2011/50/Steuern-Reichtum" title="Das Märchen von den Reichen" class="external">hier</a> und die Autorin spricht von Sozialausgaben, die zu 2/3 aus der Sozialversicherung stammen und wie die Lüge mit der Einkommenssteuer, verschweigt Autorin einmal mehr die Beitragsbemessungsgrenze, die Besserverdiener vor der Sozialen Verantwortung schützt und das schon mit Einkommen von 40.000 €. Die milde Gabe des "Staat"es ist im Vergleich mit anderen Ländern geringer und in diesen Ländern regt sich keiner darüber auf, sondern sieht es als Selbstverständlichkeit. 
+Ein interessanter Artikel, zum lernen der Autorin <a href="http://blog.zeit.de/herdentrieb/2013/09/13/die-wahrheit-uber-die-steuerlast-der-oberen-50-prozent_6503" title="Die Wahrheit über die Steuerlast der oberen 50 Prozent" class="external">hier</a>, <a href="http://www.zeit.de/2011/50/Steuern-Reichtum" title="Das Märchen von den Reichen" class="external">hier</a> und die Autorin spricht von Sozialausgaben, die zu 2/3 aus der Sozialversicherung stammen und wie die Lüge mit der Einkommenssteuer, verschweigt Autorin einmal mehr die Beitragsbemessungsgrenze, die Besserverdiener vor der Sozialen Verantwortung schützt und das schon mit Einkommen von 40.000 €. Die milde Gabe des Gesellschaftes ist im Vergleich mit anderen Ländern geringer und in diesen Ländern regt sich keiner darüber auf, sondern sieht es als Selbstverständlichkeit. 
 
 ![Sozialquoten](/static/img/content/2015/sozialschutzquoten.png "Sozialquoten")
 
 [Quelle](http://www.sozialpolitik-aktuell.de/tl_files/sozialpolitik-aktuell/_Politikfelder/Europa-Internationales/Datensammlung/PDF-Dateien/abbII5.pdf "Sozialpolitik Aktuell Datensammlung international")
 
-> Dabei gibt der "Staat" jährlich rund 160 Milliarden Euro für Sozialleistungen aus. Das ist mehr als die Hälfte des gesamten Bundeshaushalts.
+> Dabei gibt der Gesellschaft jährlich rund 160 Milliarden Euro für Sozialleistungen aus. Das ist mehr als die Hälfte des gesamten Bundeshaushalts.
 
 
 2012 waren es insgesamt 126 Mrd, 2013 waren es 119 Mrd, 2014 waren es 121 Mrd und 2015 sollen es 125 Mrd. sein. Man kann das [hier](http://www.bundeshaushalt-info.de "Bundeshaushalt") schön nachlesen. Übrigens sind es Summen für alle sozialen Aushaben, Rente und soziale Sicherungen. Die Ausgaben für ALG2 Leistungen sind gesunken und in Ihrer Propaganda sind auch die Kosten für SGB3 enthalten, also die Aufstockung der Rente, weil neoliberale Stundenlöhne nicht für eine Rente im Alter ausreichht, von der man leben kann. 
@@ -145,17 +145,17 @@ Die werden schon immer geschützt, der kleine zahlt die Rechnung. Selbst ALG2 Em
 > 1. Wer arbeitet, darf nicht mehr der Dumme sein
 
 
-Mit einem Mindestlohn von 8,50 €, dass entsprechende Gesetz mit mehr Löchern als Käse, mit Gewerkschaften die näher am Arbeitgeber als am Mitglied sind und ein "Staat" der die Macht von Gewerkschaften am liebsten komplett verbieten würde, den <a href="http://de.reuters.com/article/domesticNews/idDEKBN0E30C420140523" title="OECD warnt vor wachsendem Niedriglohnsektor in Deutschland" class="external">Niedriglohnsektor</a> als Wachstumsträumerei, ist jeder Arbeiter sowieso ein Dummer. Nein, einen Mindestlohn von mindestens 12 €, flächendeckend und ohne Einschränkung um im Alter ohne Grundsicherung zur Rente leben zu können, wie auch eine Sozialversicherung ohne Beitragsbemessungsgrenze und mit der Pflicht das jeder von seinen Einkommen in diese Systeme einzahlen muss.
+Mit einem Mindestlohn von 8,50 €, dass entsprechende Gesetz mit mehr Löchern als Käse, mit Gewerkschaften die näher am Arbeitgeber als am Mitglied sind und ein Gesellschaft der die Macht von Gewerkschaften am liebsten komplett verbieten würde, den <a href="http://de.reuters.com/article/domesticNews/idDEKBN0E30C420140523" title="OECD warnt vor wachsendem Niedriglohnsektor in Deutschland" class="external">Niedriglohnsektor</a> als Wachstumsträumerei, ist jeder Arbeiter sowieso ein Dummer. Nein, einen Mindestlohn von mindestens 12 €, flächendeckend und ohne Einschränkung um im Alter ohne Grundsicherung zur Rente leben zu können, wie auch eine Sozialversicherung ohne Beitragsbemessungsgrenze und mit der Pflicht das jeder von seinen Einkommen in diese Systeme einzahlen muss.
 
-> 2. Der "Staat" muss mehr Gegenleistung verlangen
+> 2. Der Gesellschaft muss mehr Gegenleistung verlangen
 
 
-Fördern und Fordern ist die Idee der ALG2 Gesetze. Davon übrig ist nur fordern. Leistungen, Vertrauen, Sicherheit bekommt man nicht durch Sklaverei, dass führt zur Revolution und nicht umsonst arbeiten heute <a href="http://www.shz.de/lokales/quickborner-tageblatt/uebergriffe-security-im-jobcenter-id3467911.html" title="Übergriffe im Jobcenter" class="external">Hilfs Sheriffs</a> in den Jobcentern. Der "Staat" soll die Verantwortung ernst nehmen und nicht auslagern. 
+Fördern und Fordern ist die Idee der ALG2 Gesetze. Davon übrig ist nur fordern. Leistungen, Vertrauen, Sicherheit bekommt man nicht durch Sklaverei, dass führt zur Revolution und nicht umsonst arbeiten heute <a href="http://www.shz.de/lokales/quickborner-tageblatt/uebergriffe-security-im-jobcenter-id3467911.html" title="Übergriffe im Jobcenter" class="external">Hilfs Sheriffs</a> in den Jobcentern. Der Gesellschaft soll die Verantwortung ernst nehmen und nicht auslagern. 
 
 > 3. Mehr Geld ist keine Lösung#
 
 
-Direkt ist es wenig hilfreich, aber indirekt eingesetzt und als Motivation wäre es sicher nichts verkehrtes. Mehr Freiheit bei Nebenjobs, Minijobs und Halbtagsjobs wäre sicher ein Gewinn. In einer "Gesellschaft" wo Geld das Leben höher gestellt ist, wirkt es nicht motivieren wenn Empfänger selbst mit kleinen Jobs keinen Mehrgewinn hat. 
+Direkt ist es wenig hilfreich, aber indirekt eingesetzt und als Motivation wäre es sicher nichts verkehrtes. Mehr Freiheit bei Nebenjobs, Minijobs und Halbtagsjobs wäre sicher ein Gewinn. In einer Gesellschaft wo Geld das Leben höher gestellt ist, wirkt es nicht motivieren wenn Empfänger selbst mit kleinen Jobs keinen Mehrgewinn hat. 
 
 > 4. Die Zumutbarkeitskriterien sind zu ändern
 
@@ -176,7 +176,7 @@ Was sagte das Gericht? <a href="http://www.caritas.de/neue-caritas/heftarchiv/ja
 > 7. Daten müssen kontinuierlich abgeglichen werden 
 
 
-Denunziantentum beschreibe ich mkt einen Wort. Asozial. Jemand der es fordert, unterstützt und es selbst tut gehört der "Gesellschaft" verwiesen. Selbst in Gefängnissen bekommt jeder dieser Assis richtig Ärger und muss zur Sicherheit oftmals verlegt werden. Das sollte man mit der Autorin auch machen, am besten auf eine Insel wo die nie wieder herunter kommt. Übrigens sollte man sich einmal anschauen was die heute schon dürfen, Kontenabruf, Kontrollen der Steuererklärungen und Grundbuchamt, Versicherungsabfragen usw. 
+Denunziantentum beschreibe ich mkt einen Wort. Asozial. Jemand der es fordert, unterstützt und es selbst tut gehört der Gesellschaft verwiesen. Selbst in Gefängnissen bekommt jeder dieser Assis richtig Ärger und muss zur Sicherheit oftmals verlegt werden. Das sollte man mit der Autorin auch machen, am besten auf eine Insel wo die nie wieder herunter kommt. Übrigens sollte man sich einmal anschauen was die heute schon dürfen, Kontenabruf, Kontrollen der Steuererklärungen und Grundbuchamt, Versicherungsabfragen usw. 
 
 > 8. Die heimliche Macht der Helfer muss erkannt und deren Interessen müssen offengelegt werden 
 
@@ -206,4 +206,4 @@ Ich habe nur Anfang und Ende gelesen, die Mitte kann man sich in wenigen Minuten
 
 Aber am schlimmsten, am unglaubwürdigsten an dieser Person finde ich den eigenen Lebenslauf, der auf Wikipedia veröffentlicht ist. Sie arbeitet für das öffentliche Fernsehen, diese Frau lebt selbst auf Kosten der Beitragszahler, Steuerzahler der dieses System gegen sein Willen aufgezwungen bekommt und der Widerstand gefühlt um das hundertfache höher ist. Sie meckert über die Industrie die vom System ALG2 profitiert, aber selbst schreibt Sie das Buch und hat die ein oder andere Dokumentation veröffentlicht um selbst vom System ALG2 zu profitieren. Sie meckert über die Menschen die Ihr Konzept des Nehmen kopiert haben und bringt selbst nicht einmal etwas von gesellschaftlichen oder wirtschaftlichen Wert. 
 
-Das Buch kann man sich sparen, außer man gehört zu Hetz und Hassfraktion obwohl man von der Materie nicht einmal Ahnung hat. Wie die Autorin kennen die meisten nicht einmal den Unterschied zwischen sozialer Verantwortung und sozialen Ausgleiches. Wir können ein Sozialstaat sein, oder wie andere "Staat"en insbesondere das Vorbild USA folgen und dadruch über Leben, Gefängnisse, Eingliederungen von Haftentlassenen ein weitaus höheren Betrag zahlen. Das muss sich am Ende jeder selbst überlegen, aber es gibt ein Unterschied zu vielen anderen "Staat"en, auch den Niederlanden. Dort wird nicht die Arbeit als das Soziale heraus gestellt, sondern das handeln und denken der Menschen als sozial betrachtet. In den Niederlanden zum Beispiel wird ein Penner nicht beschimpft und missachtet, nein die Menschen sorgen mit kleinen Spenden nicht nur persönlicher Natur. Wie in vielen sogenannten dritten Welt Ländern die ich besucht habe, wird dort das soziale und gesellschaftliche Leben durch Gegenseitigkeit und Hilfe gelebt. Der Deutsche ist wie die Autorin selbst sagt, mit einen einmaligen System beschenkt, aber nicht durch das System sondern durch die fehlende Menschlichkeit, dem Hass und der Ablehnung des Menschen der niedriger als man selbst ist. 
+Das Buch kann man sich sparen, außer man gehört zu Hetz und Hassfraktion obwohl man von der Materie nicht einmal Ahnung hat. Wie die Autorin kennen die meisten nicht einmal den Unterschied zwischen sozialer Verantwortung und sozialen Ausgleiches. Wir können ein Sozialstaat sein, oder wie andere Gesellschaften insbesondere das Vorbild USA folgen und dadruch über Leben, Gefängnisse, Eingliederungen von Haftentlassenen ein weitaus höheren Betrag zahlen. Das muss sich am Ende jeder selbst überlegen, aber es gibt ein Unterschied zu vielen anderen Gesellschaften, auch den Niederlanden. Dort wird nicht die Arbeit als das Soziale heraus gestellt, sondern das handeln und denken der Menschen als sozial betrachtet. In den Niederlanden zum Beispiel wird ein Penner nicht beschimpft und missachtet, nein die Menschen sorgen mit kleinen Spenden nicht nur persönlicher Natur. Wie in vielen sogenannten dritten Welt Ländern die ich besucht habe, wird dort das soziale und gesellschaftliche Leben durch Gegenseitigkeit und Hilfe gelebt. Der Deutsche ist wie die Autorin selbst sagt, mit einen einmaligen System beschenkt, aber nicht durch das System sondern durch die fehlende Menschlichkeit, dem Hass und der Ablehnung des Menschen der niedriger als man selbst ist. 

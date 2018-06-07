@@ -1,10 +1,10 @@
-var gulp = require('gulp'),
+var gulp                  = require('gulp'),
     conventionalChangelog = require('gulp-conventional-changelog'),
-    bump = require('gulp-bump'),
-    git = require('gulp-git'),
-    fs = require('fs'),
-    runSequence = require('run-sequence'),
-    prompt = require('gulp-prompt');
+    bump                  = require('gulp-bump'),
+    git                   = require('gulp-git'),
+    prompt                = require('gulp-prompt'),
+    fs                    = require('fs'),
+    runSequence           = require('run-sequence');
 
 gulp.task('changelog', function() {
     return gulp.src('CHANGELOG.md', {
@@ -23,7 +23,7 @@ gulp.task('bump-version', function() {
 });
 
 gulp.task('git-add',[], function() {
-    return gulp.src('./*')
+    return gulp.src('./')
       .pipe(git.add());
 });
 

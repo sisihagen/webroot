@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<main class="grid compact-grid-stack no-margin no-padding">
+<main class="grid compact-grid-stack no-margin no-padding" itemscope itemtype="http://schema.org/Blog">
   <section class="one grid-item 3/4 compact-1/1 no-margin no-padding">
     <section class="grid grid-center compact-grid-stack no-margin padding">
     {{ .Content }}
@@ -12,7 +12,7 @@
           <div class="icon-{{.Params.cover}}"></div>
           {{ end }}
           <div class="card-header">
-            <h4 class="text-center">{{ .Title }}</h4>
+            <h4 class="text-center" itemprop="headline">{{ .Title }}</h4>
           </div>
           <div class="card-content padding-1/2 margin-bottom">
             {{ .Params.shorttext }}
@@ -21,7 +21,7 @@
             <svg class="icon icon-clock2">
               <use xlink:href="/static/img/symbol-defs.svg#icon-clock2"></use>
             </svg>
-            <time class="text-light text-micro" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+            <time class="text-light text-micro" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
               {{ .Date.Format "02.01.2006" }}
             </time>
           </div>

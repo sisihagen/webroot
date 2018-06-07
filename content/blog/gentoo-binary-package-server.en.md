@@ -8,9 +8,11 @@ lang: en
 draft: false
 ---
 
+Find my [packages](http://gentoo.silviosiefke.com/systemd/ "Binary Packages") and the [settings](http://gentoo.silviosiefke.com/etc/portage/ "/etc/portage").
+
 ~~~ bash
 siefke $  cat /etc/portage/make.conf | grep PORTAGE_BINHOST
-PORTAGE_BINHOST="http://gentoo.silviosiefke.com/packages/"
+PORTAGE_BINHOST="http://gentoo.silviosiefke.com/systemd/"
 ~~~
 
 ~~~ bash
@@ -18,7 +20,7 @@ siefke $  cat /etc/portage/make.conf | grep FEATURES
 FEATURES="ccache distcc buildpkg parallel-fetch getbinpkg -preserve-libs"
 ~~~
 
-Limited the shell echo...
+Limited the shell output ...
 
 ~~~bash
 siefke $  cat /etc/portage/make.conf | grep EMERGE

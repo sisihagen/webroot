@@ -19,7 +19,7 @@ Das ist selbstverständlich, Deutschland ist drittgrößter Waffenlieferant, pro
 
 #### Pflicht zur Integration
 
-Das ist eine dumme Forderungen die einmal mehr die Lücke in der Bildung reflektiert. Man kann niemanden zur Integration verpflichten, dass sieht man an deutschen Touristen die sich wie versoffene Rudeltiere ohne Rücksicht auf Kultur und Brauch aufführen. Unsere ausländischen Mitbürger kommen aus Not, Verfolgung, Verlockungen durch Politik nach Deutschland und vermissen die eigene Heimat und Familien. Aus diesem Grund haben die Menschen die eigene Kultur auch mitten in Deutschland, was nachvollziehbar und die Stärke einer multikulturellen "Gesellschaft" ist. Es bedarf nur ein Blick in ausländische deutsche Siedlungen, die halten auch an Ihren Bräuchen fest. Wieder eine Forderung mit fehlenden Vorbild. 
+Das ist eine dumme Forderungen die einmal mehr die Lücke in der Bildung reflektiert. Man kann niemanden zur Integration verpflichten, dass sieht man an deutschen Touristen die sich wie versoffene Rudeltiere ohne Rücksicht auf Kultur und Brauch aufführen. Unsere ausländischen Mitbürger kommen aus Not, Verfolgung, Verlockungen durch Politik nach Deutschland und vermissen die eigene Heimat und Familien. Aus diesem Grund haben die Menschen die eigene Kultur auch mitten in Deutschland, was nachvollziehbar und die Stärke einer multikulturellen Gesellschaft ist. Es bedarf nur ein Blick in ausländische deutsche Siedlungen, die halten auch an Ihren Bräuchen fest. Wieder eine Forderung mit fehlenden Vorbild. 
 
 #### Dezentrale Unterbringung für Kriegsflüchtlinge
 
@@ -49,7 +49,7 @@ Das wird niemals passieren, Gesetze sind die Machenschaften von Eliten um die ei
 
 #### Null-Toleranz gegenüber straffällig gewordenen Asylbewerbern und Migranten
 
-Verbrechen lasse auf gesellschaftliche Missstände deuten. Es fehlt an Gehör, Betreuung und ein Miteinander. Diese Forderung beweist wieder einmal Unwissenheit eurer Seite und beweist gleichzeitig das fehlende miteinander. Ich kenne es aus eigener Erfahrung, ich sage nicht umsonst das die sogenannte erste Welt in Wahrheit die dritte Welt ist. Jemand der diese Forderung stellt, ist wie unsere heutigen Politiker nur noch ein Statist im Moment des jetzt. Ihr kennt keine Ausgrenzung, Beleidigung, Mobbing (das was Ihr mit eurer Veranstaltung beweist), Krieg, Angst, Unsicherheit, Hoffnungslosigkeit und Hunger. Menschen sind keine Verbrecher, das System ist der Verbrecher, die "Gesellschaft" ist der Verbrecher und Ihr seid verantwortlich für Menschen die zum Verbrecher werden. Verantwortung abzuschieben ist eine Beleidigung gegenüber dem Menschenrecht. 
+Verbrechen lasse auf gesellschaftliche Missstände deuten. Es fehlt an Gehör, Betreuung und ein Miteinander. Diese Forderung beweist wieder einmal Unwissenheit eurer Seite und beweist gleichzeitig das fehlende miteinander. Ich kenne es aus eigener Erfahrung, ich sage nicht umsonst das die sogenannte erste Welt in Wahrheit die dritte Welt ist. Jemand der diese Forderung stellt, ist wie unsere heutigen Politiker nur noch ein Statist im Moment des jetzt. Ihr kennt keine Ausgrenzung, Beleidigung, Mobbing (das was Ihr mit eurer Veranstaltung beweist), Krieg, Angst, Unsicherheit, Hoffnungslosigkeit und Hunger. Menschen sind keine Verbrecher, das System ist der Verbrecher, die Gesellschaft ist der Verbrecher und Ihr seid verantwortlich für Menschen die zum Verbrecher werden. Verantwortung abzuschieben ist eine Beleidigung gegenüber dem Menschenrecht. 
 
 #### Frauenfeindliche, gewaltbereite politische Ideologie
 

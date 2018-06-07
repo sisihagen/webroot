@@ -1,16 +1,15 @@
-var gulp = require('gulp'),
-    exec = require('gulp-exec'),
-    postcss = require('gulp-postcss'),
-    sass = require('gulp-sass'),
+var gulp       = require('gulp'),
+    exec       = require('gulp-exec'),
+    postcss    = require('gulp-postcss'),
+    sass       = require('gulp-sass'),
     sourcemaps = require('gulp-sourcemaps'),
-    cleanDest = require('gulp-clean-dest'),
-    webpcss = require("gulp-webpcss"),
-    cssnext = require('postcss-cssnext'),
-    flex = require('postcss-flexibility'),
-    shortcss = require('postcss-short'),
-    opacity = require('postcss-opacity'),
-    cssnano = require('cssnano'),
-    config = require('./config');
+    webpcss    = require("gulp-webpcss"),
+    cssnext    = require('postcss-cssnext'),
+    flex       = require('postcss-flexibility'),
+    shortcss   = require('postcss-short'),
+    opacity    = require('postcss-opacity'),
+    cssnano    = require('cssnano'),
+    config     = require('./config');
 
 // sass for production task
 gulp.task('prod-sass', [], function() {
@@ -27,13 +26,15 @@ gulp.task('prod-css', ['prod-sass'], function() {
         flex,
         opacity,
         cssnext({
-          warnForDuplicates: false
+          warnForDuplicates: false,
+          browsers: ['last 5 version']
         }),
         cssnano
     ];
     return gulp.src(config.css.src)
-        .pipe(cleanDest(config.css.out))
+        .pipe(sourcemaps.init())
         .pipe(postcss(plugins))
+        .pipe(sourcemaps.write('.'))
         .pipe(gulp.dest(config.css.out));
 });
 

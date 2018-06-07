@@ -9,13 +9,14 @@ draft: false
 lang: de
 ---
 
-Wer möchte kann meinen Gentoo Package Server nutzen und so die eigene Kompilierzeit verkürzen. 
+Ich möchte meine [Binary](https://wiki.gentoo.org/wiki/Binary_package_guide/de "Leitfaden zur Nutzung von Binärpaketen") Packages für Gentoo allen zur Verfügung stellen. 
 
 ~~~ bash
 siefke $  cat /etc/portage/make.conf | grep PORTAGE_BINHOST
-PORTAGE_BINHOST="http://gentoo.silviosiefke.com/packages/"
+PORTAGE_BINHOST="http://gentoo.silviosiefke.com/systemd/"
 ~~~
-Die notwendigen <a href="http://gentoo.silviosiefke.com/stuff/etc/portage/" title="Portage Verzeichniss im etc Zweig">Einstellungen</a> und die <a href="http://gentoo.silviosiefke.com/packages.txt" title="Datenbank für die Paket Suche">Paketsuche</a>.
+
+Die notwendigen [Einstellungen](http://gentoo.silviosiefke.com/etc/portage/ "/etc/portage") zu den [Paketen](http://gentoo.silviosiefke.com/systemd/ "Binary Packages") sind wichtig bevor Ihr diese nutzen könnt.
 
 Mit getbinpkg als Option von emerge könnt Ihr die Pakete herunterladen mit buildpkg werden die nicht vorhanden Binary Packages als Source Paket heruntergeladen und bei euch lokal als bin Package gespeichert. 
 

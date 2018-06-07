@@ -8,13 +8,13 @@ lang: fr
 draft: false
 ---
 
-Ce tutoriel vous expliquera l'installation de <a href="http://www.gentoo.org" title="Gentoo Gnu/Linux" class="external">Gentoo</a> dans un conteneur <a href="http://openvz.org/" title="openvz" class="external">d'OpenVZ</a>. Cette installation a exécuter sur un Strato Vserver. Je ne donne aucune garantie d'exécution et vous ne devenez pas de problèmes. Pour cette procédure, vous devez une console de sauvetage et vous devez connaître le Mont point de votre Vserver Harddisk. Dans cet exemple, le disque dur est monté sur/Repair.
+Ce tutoriel vous expliquera l'installation de [Gentoo](http://www.gentoo.org "Gentoo Gnu/Linux") dans un conteneur [OpenVZ](http://openvz.org/ "OpenVZ"). Cette installation a exécuter sur un Strato Vserver. Je ne donne aucune garantie d'exécution et vous ne devenez pas de problèmes. Pour cette procédure, vous devez une console de sauvetage et vous devez connaître le Mont point de votre Vserver Harddisk. Dans cet exemple, le disque dur est monté sur/Repair.
 
 ~~~ bash
 siefke $ cp /repair/etc/mtab /root/mtab.old
 siefke $ cd /repair ; rm -rf *
-siefke $ curl http://yourmirror/stage3-i686-date.tar.bz2 > stage3-i686-date.tar.bz2
-siefke $ curl http://yourmirror/portage-latest.tar.bz2 > portage-latest.tar.bz2
+siefke $ wget http://yourmirror/stage3-i686-date.tar.bz2 
+siefke $ wget http://yourmirror/portage-latest.tar.bz2
 siefke $ tar xvjpf stage4-*.tar.bz2
 siefke $ tar xvjf portage*.tar.bz2
 siefke $ cp /etc/resolv.conf /repair/etc/resolv.conf

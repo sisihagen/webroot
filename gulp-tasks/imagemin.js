@@ -1,5 +1,4 @@
 var gulp      = require('gulp'),
-    cleanDest = require('gulp-clean-dest'),
     imagemin  = require('gulp-imagemin'),
     webp      = require('gulp-webp'),
     sprite    = require('gulp.spritesmith'),
@@ -10,7 +9,6 @@ var gulp      = require('gulp'),
 
 gulp.task('image', ['webp', 'sp'], function() {
     return gulp.src(config.images.src)
-        .pipe(cleanDest(config.images.out))
         .pipe(imagemin({
             progressive: true
         }))

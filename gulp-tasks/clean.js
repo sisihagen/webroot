@@ -1,16 +1,15 @@
-var gulp = require('gulp');
-var clean = require('gulp-rimraf');
+var gulp = require('gulp'),
+    del  = require('del');
 
 // clean build dir before running hugo
 gulp.task('cb', [], function() {
-    return gulp.src('./public/build/*', {
-        read: false
-    }).pipe(clean());
+    return del('./public/build/**', {force: true})
 });
 
 // clean dest dir before running hugo
 gulp.task('cd', [], function() {
-    return gulp.src('./public/dest/*', {
-        read: false
-    }).pipe(clean());
+    return del(['./public/dest/silviosiefke.com/htdocs/**',
+                './public/dest/silviosiefke.de/htdocs**',
+                './public/dest/silviosiefke.fr/htdocs/**'],
+                {force: true});
 });

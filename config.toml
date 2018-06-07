@@ -12,8 +12,9 @@ publishDir = "public/build"
     category = ""
 
 [blackfriday]
-    angledQuotes = true
+    angledQuotes = false
     hrefTargetBlank = true
+    extensionsmask = ['headerIds', 'autoHeaderIds']
 
 [related]
   threshold = 80

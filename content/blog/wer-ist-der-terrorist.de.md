@@ -11,7 +11,17 @@ lang: de
 
 #### Waffen
 
-Die [USA liefern Waffen](http://www.wsj.de/nachrichten/SB10001424052702303626804579511612341672666?mg=reno64-wsjde" title="USA liefern Waffen an Rebellen in Syrien "USA liefern Waffen an Syrien") an syrische Rebellen. [Deutschland liefert Waffen](http://www.themenportal.de/nachrichten/amnesty-prangert-deutsche-waffenexporte-nach-arabien-an-57058 "Amnesty prangert deutsche Waffenexporte nach Arabien an") an jedem der bezahlt um spielt sich anschließend  als Moralapostel auf. Der absolute Wahnsinn sind die gewünschten Waffenlieferungen der Welt an die irakischen Kurden. Wie war das mit der RAF? Die bekämpften das System mit Gewalt um sich Gehör zu verschaffen. Was waren das? Terroristen? Die Kurden wollen dem Irak bekämpfen, also den souveränen von USA und Europa missbrauchten/vergewaltigten/ausgebeuteten "Staat" bekämpfen. Wie nennt man das? Terroristen? Nein, dass sind Freunde die mit Waffenlieferungen rechnen können. Damit sich das lohnt werden die Kurden in Syrien kämpfen und auch die türkische Armee beschäftigen. Ähnlicher Sachverhalt, falscher PR Berater. Deshalb bekommen die Kurden Waffen und die RAF wurde wie Vieh gejagt, getötet oder inhaftiert. Ich frage mich warum Russland böse ist? Sind es die Waffenlieferungen an Syrien? Ist es das ignorieren der westlichen Marionette in der Ukraine die offenbar psychisch krank ist? Wie soll man sich erklären das einer hinter jeder Tür einen Feind sieht? Die westlichen Terroristen benötigen zum Leben einen Feind, ich glaube das ist eine ansteckende Krankheit. Wer die westlichen Terroristen nicht unterstützt ist automatisch ein Schurkenstaat der gegen Menschenrechte verstößt und deshalb automatisch angegriffen werden muss. 
+Die [USA liefern Waffen](http://www.wsj.de/nachrichten/SB10001424052702303626804579511612341672666?mg=reno64-wsjde "USA liefern Waffen an Rebellen in Syrien "USA liefern Waffen an Syrien") an syrische Rebellen. [Deutschland liefert Waffen](http://www.themenportal.de/nachrichten/amnesty-prangert-deutsche-waffenexporte-nach-arabien-an-57058 "Amnesty prangert deutsche Waffenexporte nach Arabien an") an jedem der bezahlt um spielt sich anschließend  als Moralapostel auf. Der absolute Wahnsinn sind die gewünschten Waffenlieferungen der Welt an die irakischen Kurden. Wie war das mit der RAF? Die bekämpften das System mit Gewalt um sich Gehör zu verschaffen. Was waren das? Terroristen? 
+
+{{< youtube UuINWF6fyAs >}}
+
+Die Kurden wollen dem Irak bekämpfen, also den souveränen von USA und Europa missbrauchten/vergewaltigten/ausgebeuteten Staat bekämpfen. Wie nennt man das? Terroristen? Nein, dass sind Freunde die mit Waffenlieferungen rechnen können. Damit sich das lohnt werden die Kurden in Syrien kämpfen und auch die türkische Armee beschäftigen. Ähnlicher Sachverhalt, falscher PR Berater. Deshalb bekommen die Kurden Waffen und die RAF wurde wie Vieh gejagt, getötet oder inhaftiert. 
+
+{{< youtube S3Nv_iJ8Rbk >}}
+
+Ich frage mich warum Russland böse ist? Sind es die Waffenlieferungen an Syrien? Ist es das ignorieren der westlichen Marionette in der Ukraine die offenbar psychisch krank ist? Wie soll man sich erklären das einer hinter jeder Tür einen Feind sieht? Die westlichen Terroristen benötigen zum Leben einen Feind, ich glaube das ist eine ansteckende Krankheit. Wer die westlichen Terroristen nicht unterstützt ist automatisch ein Schurkenstaat der gegen Menschenrechte verstößt und deshalb automatisch angegriffen werden muss.
+
+{{< image srcwebp="/static/img/content/2014/sdf.webp" srcalt="/static/img/content/2014/sdf.jpg" title="SDF-Kämpfer nördlich von Raqqa" >}}
 
 #### Kurden
 
