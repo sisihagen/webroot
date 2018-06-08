@@ -5,18 +5,21 @@ var gulp      = require('gulp'),
     rename    = require('gulp-rename'),
     buffer    = require('vinyl-buffer'),
     merge     = require('merge-stream'),
+    change    = require('gulp-changed'),
     config    = require('./config');
 
 gulp.task('image', ['webp', 'sp'], function() {
     return gulp.src(config.images.src)
-        .pipe(imagemin({
-            progressive: true
-        }))
-        .pipe(gulp.dest(config.images.out));
+      .pipe(change(config.images.out))
+      .pipe(imagemin({
+          progressive: true
+      }))
+      .pipe(gulp.dest(config.images.out));
 });
 
 gulp.task('webp', [], function() {
     return gulp.src(config.webp.src)
+      .pipe(change(config.webp.out))
       .pipe(webp(config.webp.options))
       .pipe(gulp.dest(config.webp.out));
 });

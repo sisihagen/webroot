@@ -20,7 +20,7 @@
   <div class="books padding">
     <h4>Books</h4>
     {{ range $.Page.Site.Data.books }}
-      <a href="{{ .imdb }}" title="{{ .name }}">
+      <a href="{{ .amazon }}" title="{{ .name }}">
         {{ .name }}
       </a>
     {{ end }}

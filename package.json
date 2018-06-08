@@ -1,6 +1,6 @@
 {
   "name": "silviosiefke.com",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Private Website ",
   "main": "index.js",
   "scripts": {
@@ -29,10 +29,11 @@
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-bump": "^3.1.1",
+    "gulp-changed": "^3.2.0",
     "gulp-concat": "^2.6.1",
     "gulp-conventional-changelog": "^1.1.24",
     "gulp-exec": "^3.0.1",
-    "gulp-git": "^2.6.0",
+    "gulp-git": "^2.7.0",
     "gulp-gzip": "^1.4.2",
     "gulp-htmlmin": "^4.0.0",
     "gulp-htmltidy": "^0.2.4",

@@ -2,7 +2,7 @@
   "name": "silviosiefke.com",
   "description": "Private Website",
   "main": "index.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "authors": [
     "Silvio Siefke <siefke@mail.ru> (http://www.silviosiefke.com)"
   ],
