@@ -2,7 +2,7 @@ var gulp = require('gulp'),
     fs   = require('fs');
 
 
-gulp.task('folder', ['cd'], () => {
+gulp.task('folder', gulp.series('cd', function() {
 
     var folders = [
         './public/dest',
@@ -25,4 +25,4 @@ gulp.task('folder', ['cd'], () => {
             fs.mkdirSync(dir),
             console.log('folder created:', dir);
     });
-});
+}));

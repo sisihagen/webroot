@@ -6,7 +6,7 @@ var gulp                  = require('gulp'),
     fs                    = require('fs'),
     runSequence           = require('run-sequence');
 
-gulp.task('changelog', function() {
+gulp.task('changelog', gulp.series(function() {
     return gulp.src('CHANGELOG.md', {
             buffer: false
         })
@@ -14,20 +14,20 @@ gulp.task('changelog', function() {
             preset: 'webroot'
         }))
         .pipe(gulp.dest('./'));
-});
+}));
 
-gulp.task('bump-version', function() {
+gulp.task('bump-version', gulp.series(function() {
     return gulp.src(['./bower.json', './package.json'])
         .pipe(bump())
         .pipe(gulp.dest('./'));
-});
+}));
 
-gulp.task('git-add',[], function() {
+gulp.task('git-add',  gulp.series(function() {
     return gulp.src('./')
       .pipe(git.add());
-});
+}));
 
-gulp.task('commit-changes', function() {
+gulp.task('commit-changes', gulp.series(function() {
     gulp.src('./')
         .pipe(prompt.prompt({
             type: 'input',
@@ -48,13 +48,13 @@ gulp.task('commit-changes', function() {
                 })
                 .pipe(git.commit(res.commit, {args: '-S -m'}));
         }));
-});
+}));
 
-gulp.task('push-changes', function(done) {
+gulp.task('push-changes', gulp.series(function(done) {
     git.push('origin', 'master', done);
-});
+}));
 
-gulp.task('create-new-tag', function(done) {
+gulp.task('create-new-tag', gulp.series(function(done) {
     var version = getPackageJsonVersion();
     git.tag(version, 'Created Tag for version: ' + version, function(error) {
         if (error) {
@@ -68,13 +68,13 @@ gulp.task('create-new-tag', function(done) {
     function getPackageJsonVersion() {
         return JSON.parse(fs.readFileSync('./package.json', 'utf8')).version;
     };
-});
+}));
 
-gulp.task('release', function(callback) {
+gulp.task('release', gulp.series(function(callback) {
     runSequence('bump-version',
         'changelog',
         'git-add',
         'commit-changes',
         'push-changes',
         callback);
-});
+}));

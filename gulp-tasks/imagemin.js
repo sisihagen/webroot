@@ -8,24 +8,15 @@ var gulp      = require('gulp'),
     change    = require('gulp-changed'),
     config    = require('./config');
 
-gulp.task('image', ['webp', 'sp'], function() {
-    return gulp.src(config.images.src)
-      .pipe(change(config.images.out))
-      .pipe(imagemin({
-          progressive: true
-      }))
-      .pipe(gulp.dest(config.images.out));
-});
-
-gulp.task('webp', [], function() {
+gulp.task('webp', gulp.series(function() {
     return gulp.src(config.webp.src)
       .pipe(change(config.webp.out))
       .pipe(webp(config.webp.options))
       .pipe(gulp.dest(config.webp.out));
-});
+}));
 
 // sprite for cover production mode
-gulp.task('sp', function () {
+gulp.task('sp', gulp.series(function () {
   var spriteData = gulp.src(config.sprite.src).pipe(sprite({
     imgName: 'cover.jpg',
     cssName: 'cover.css',
@@ -41,10 +32,10 @@ gulp.task('sp', function () {
     .pipe(gulp.dest(config.sprite.css));
 
   return merge(imgStream, cssStream);
-});
+}));
 
 // sprite for development
-gulp.task('sd', function () {
+gulp.task('sd', gulp.series(function () {
   var spriteData = gulp.src(config.sprite.src).pipe(sprite({
     imgName: 'cover.jpg',
     cssName: 'cover.css',
@@ -60,4 +51,13 @@ gulp.task('sd', function () {
     .pipe(gulp.dest(config.sprite.css));
 
   return merge(imgStream, cssStream);
-});
+}));
+
+gulp.task('image', gulp.series('webp', 'sp', function() {
+    return gulp.src(config.images.src)
+      .pipe(change(config.images.out))
+      .pipe(imagemin({
+          progressive: true
+      }))
+      .pipe(gulp.dest(config.images.out));
+}));

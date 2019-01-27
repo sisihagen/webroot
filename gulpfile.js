@@ -13,13 +13,13 @@ var gulp         = require('gulp'),
     config       = require('./gulp-tasks/config');
 
 // gulp default
-gulp.task('default', [], function () {
-  gulp.watch(config.sass.src, ['devel-sass']);
-  gulp.watch('./static/staic/js/**/*.js', ['devel-js']);
+gulp.task('default', function () {
+  gulp.watch(config.sass.src, gulp.series('devel-sass'));
+  gulp.watch('./static/staic/js/**/*.js', gulp.series('devel-js'));
 });
 
 // gulp managed the assets tasks
-gulp.task('static', ['image', 'json', 'prod-css', 'prod-js', 'fonts'], function() {});
+gulp.task('static', gulp.series('image', 'json', 'prod-css', 'prod-js', 'fonts', function() {}));
 
 // gulp complete run
 gulp.task('build', function(callback) {

@@ -12,15 +12,15 @@ var gulp       = require('gulp'),
     config     = require('./config');
 
 // sass for production task
-gulp.task('prod-sass', [], function() {
+gulp.task('prod-sass', gulp.series(function() {
     return gulp.src('./static/static/scss/layout.scss')
         .pipe(sourcemaps.init())
         .pipe(sass().on('error', sass.logError))
         .pipe(sourcemaps.write())
         .pipe(gulp.dest('./static/static/css/'));
-});
+}));
 
-gulp.task('prod-css', ['prod-sass'], function() {
+gulp.task('prod-css', gulp.series('prod-sass', function() {
     var plugins = [
         shortcss,
         flex,
@@ -36,13 +36,13 @@ gulp.task('prod-css', ['prod-sass'], function() {
         .pipe(postcss(plugins))
         .pipe(sourcemaps.write('.'))
         .pipe(gulp.dest(config.css.out));
-});
+}));
 
 // sass for development
-gulp.task('devel-sass', [], function() {
+gulp.task('devel-sass', gulp.series(function() {
     return gulp.src(config.sass.src)
         .pipe(sourcemaps.init())
         .pipe(sass().on('error', sass.logError))
         .pipe(sourcemaps.write())
         .pipe(gulp.dest(config.sass.out))
-});
+}));
