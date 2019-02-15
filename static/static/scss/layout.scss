@@ -1,8 +1,8 @@
 @charset "utf-8";
 
 $rwd-map: (
-  'compact': 320px 767px,
-  'regular': 768px
+  'compact': 320px 999px,
+  'regular': 1000px
 );
 
 @import "_includes/color";

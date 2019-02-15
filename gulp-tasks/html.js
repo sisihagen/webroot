@@ -5,28 +5,31 @@ var gulp = require('gulp'),
     config = require('./config')
 
 // htmlmin for english site
-gulp.task('en', gulp.series(function() {
+gulp.task('en', gulp.series(function(done) {
     return gulp.src(config.en.src)
         .pipe(htmlmin({collapseWhitespace: true}))
-        .pipe(exec('cp ./public/build/en/sitemap.xml ./public/dest/silviosiefke.com/htdocs/'))
-        .pipe(gulp.dest(config.en.out));
+        .pipe(gulp.dest(config.en.out))
+        .pipe(exec('cp ./public/build/en/sitemap.xml ./public/dest/silviosiefke.com/htdocs/'));
+    done();
 }));
 
 // htmlmin for french site
-gulp.task('fr', gulp.series(function() {
+gulp.task('fr', gulp.series(function(done) {
     return gulp.src(config.fr.src)
         .pipe(htmlmin({collapseWhitespace: true}))
-        .pipe(exec('cp ./public/build/fr/sitemap.xml ./public/dest/silviosiefke.fr/htdocs/'))
-        .pipe(gulp.dest(config.fr.out));
+        .pipe(gulp.dest(config.fr.out))
+        .pipe(exec('cp ./public/build/fr/sitemap.xml ./public/dest/silviosiefke.fr/htdocs/'));
+    done();
 }));
 
 // htmlmin for german site
-gulp.task('de', gulp.series(function() {
+gulp.task('de', gulp.series(function(done) {
     return gulp.src(config.de.src)
         .pipe(htmlmin({collapseWhitespace: true}))
-        .pipe(exec('cp ./public/build/de/sitemap.xml ./public/dest/silviosiefke.de/htdocs/'))
-        .pipe(gulp.dest(config.de.out));
+        .pipe(gulp.dest(config.de.out))
+        .pipe(exec('cp ./public/build/de/sitemap.xml ./public/dest/silviosiefke.de/htdocs/'));
+    done();
 }));
 
 // gulp minified html sites and copy dest
-gulp.task('html', gulp.series('de', 'en', 'fr', function() {}));
+gulp.task('html', gulp.series('de', 'en', 'fr', function(done) { done(); }));
