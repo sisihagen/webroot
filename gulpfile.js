@@ -14,8 +14,8 @@ var gulp         = require('gulp'),
 
 // gulp default
 gulp.task('default', function () {
-  gulp.watch(config.sass.src, gulp.series('devel-sass'));
-  gulp.watch('./static/staic/js/**/*.js', gulp.series('devel-js'));
+  gulp.watch('./static/static/scss/**/*.scss', gulp.series('devel-sass'));
+  gulp.watch('./static/static/js/**/*.js', gulp.series('devel-js'));
 });
 
 // gulp managed the assets tasks

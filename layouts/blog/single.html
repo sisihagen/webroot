@@ -46,7 +46,7 @@
       </div>
 
       <div class="tags padding-1/2">
-        <h4>Tags</h4>
+        <h4 class="text-left">Tags</h4>
       {{ range $.Site.Taxonomies.tags.ByCount }}
       {{ if gt .Count 1 }}
         <a class="text-capitalize text-small margin-1/2 padding-1/2  btn btn-brand btn-outline" href="/tags/{{ .Name }}"> {{ .Name }} <span>({{ .Count }})</span></a>

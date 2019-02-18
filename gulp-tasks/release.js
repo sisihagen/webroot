@@ -34,16 +34,7 @@ gulp.task('commit-changes', gulp.series(function() {
             name: 'commit',
             message: 'Please enter commit message...'
         }, function(res) {
-            return gulp.src([
-                    '!node_modules/',
-                    '!bower_components/',
-                    '!php',
-                    '!sprites',
-                    '!data',
-                    '!privat.sublime-project',
-                    '!privat.sublime-workspace',
-                    '!public',
-                    './*'], {
+            return gulp.src(['./'], {
                     buffer: false
                 })
                 .pipe(git.commit(res.commit, {args: '-S -m'}));

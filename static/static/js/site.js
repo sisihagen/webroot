@@ -11060,6 +11060,11 @@ $(document).ready(function() {
     $('.linklist').removeClass('hidden');
     $('.gallery').removeClass('hidden');
 
+    // check if linklist and gallery have values
+    if ($('.gallery').children().length <=1) {
+      $('.gallery').hide();
+    }
+
   }
 
   // if javascript active remove hidden class for home > social class
