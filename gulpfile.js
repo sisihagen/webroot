@@ -22,6 +22,10 @@ gulp.task('default', function () {
 gulp.task('static', gulp.series('image', 'json', 'prod-css', 'prod-js', 'fonts', function() {}));
 
 // gulp complete run
-gulp.task('build', function(callback) {
-  runSequence('hugo','folder', 'html', 'static', callback);
-});
+gulp.task('build', gulp.series(function(callback) {
+    runSequence('hugo',
+        'folder',
+        'html',
+        'static',
+        callback);
+}));
