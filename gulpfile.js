@@ -9,7 +9,7 @@
 
 var gulp         = require('gulp'),
     requireDir   = require('require-dir')('./gulp-tasks'),
-    runSequence  = require('run-sequence'),
+    runSequence  = require('gulp4-run-sequence'),
     config       = require('./gulp-tasks/config');
 
 // gulp default
@@ -19,13 +19,13 @@ gulp.task('default', function () {
 });
 
 // gulp managed the assets tasks
-gulp.task('static', gulp.series('image', 'json', 'prod-css', 'prod-js', 'fonts', function() {}));
+gulp.task('static', gulp.series('json', 'prod-css', 'prod-js', 'fonts', function() {}));
 
 // gulp complete run
-gulp.task('build', gulp.series(function(callback) {
+gulp.task('build', function(callback) {
     runSequence('hugo',
         'folder',
         'html',
         'static',
         callback);
-}));
+});

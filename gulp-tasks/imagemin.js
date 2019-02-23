@@ -3,7 +3,6 @@ var gulp      = require('gulp'),
     rename    = require('gulp-rename'),
     buffer    = require('vinyl-buffer'),
     merge     = require('merge-stream'),
-    change    = require('gulp-changed'),
     exec      = require('gulp-exec'),
     config    = require('./config');
 
@@ -26,8 +25,3 @@ gulp.task('sp', gulp.series(function () {
   return merge(imgStream, cssStream);
 }));
 
-// optimize images and copy to static folder
-gulp.task('image', gulp.series('sp', function () {
-    return gulp.src(config.webp.src)
-      .pipe(exec('sh ./bin/images.sh'));
-}));

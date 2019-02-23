@@ -3,7 +3,7 @@ var gulp                  = require('gulp'),
     git                   = require('gulp-git'),
     prompt                = require('gulp-prompt'),
     fs                    = require('fs'),
-    runSequence           = require('run-sequence');
+    runSequence           = require('gulp4-run-sequence');
 
 gulp.task('bump-version', gulp.series(function() {
     return gulp.src(['./bower.json', './package.json'])
@@ -35,10 +35,10 @@ gulp.task('push-changes', gulp.series(function(done) {
     git.push('origin', 'master', done);
 }));
 
-gulp.task('release', gulp.series(function(callback) {
+gulp.task('release', function(callback) {
     runSequence('bump-version',
         'git-add',
         'commit-changes',
         'push-changes',
         callback);
-}));
+});

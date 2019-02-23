@@ -12,6 +12,10 @@ case "$1" in
     ;;
 
     build)
+        echo "First convert images"
+        ./bin/images.sh
+
+        echo "Now build the site"
         ./node_modules/.bin/gulp build
     ;;
 

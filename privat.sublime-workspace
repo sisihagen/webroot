@@ -68,6 +68,10 @@
 		"selected_items":
 		[
 			[
+				"maerk",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
 				"markdown",
 				"MarkdownEditing: New Image"
 			],
@@ -157,10 +161,32 @@
 	},
 	"expanded_folders":
 	[
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com"
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public/dest"
 	],
 	"file_history":
 	[
+		"/home/siefke/Dokumente/projects/own.json",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulpfile.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/imagemin.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bin/hugo.sh",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/sass.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/fonts.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/release.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/blog/single.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/shortcodes/image.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/i18n/fr.toml",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/i18n/de.toml",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/i18n/en.toml",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/peace-and-unity-achievable-for-syria.en.md",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/paix-et-unite-pour-la-syrie.fr.md",
+		"/home/siefke/Downloads/le-autorenew.sh",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/no-to-war-and-atomic-rearmament.en.md",
+		"/home/siefke/.config/sublime-text-3/Packages/User/imagepicture.sublime-snippet",
+		"/home/siefke/.config/sublime-text-3/Packages/User/youtube.sublime-snippet",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bin/images.sh",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/the-children-in-the-german-army.en.md",
 		"/home/siefke/Downloads/server-configs-nginx-master/h5bp/web_performance/no-transform.conf",
 		"/home/siefke/Downloads/server-configs-nginx-master/h5bp/web_performance/compression.conf",
 		"/home/siefke/Downloads/server-configs-nginx-master/h5bp/web_performance/cache_expiration.conf",
@@ -207,19 +233,12 @@
 		"/home/siefke/Downloads/server-configs-nginx-master/conf.d/silviosiefke.fr.conf",
 		"/home/siefke/Downloads/server-configs-nginx-master/conf.d/silviosiefke.com.conf",
 		"/home/siefke/Downloads/server-configs-nginx-master/conf.d/templates/silviosiefke.de.conf",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/shortcodes/image.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public/dest/static.silviosiefke.com/htdocs/css/layout.css",
 		"/home/siefke/Public/web/static.silviosiefke.com/htdocs/css/layout.css",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/CHANGELOG.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/release.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/config.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/imagemin.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bin/images.sh",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/the-children-in-the-german-army.en.md",
 		"/home/siefke/.mutt/muttrc",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/js/app.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulpfile.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/blog/single.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/javascript.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/html.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bin/sitemap.sh",
@@ -258,10 +277,7 @@
 		"/run/user/1000/gvfs/smb-share:server=fritz-nas,share=fritz.nas/Dokumente/silviosiefke_com_rsa.txt",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/static.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/clean.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/sass.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/hugo.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/fonts.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/peace-and-unity-achievable-for-syria.en.md",
 		"/home/siefke/Downloads/azirevpn-wg.sh",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/die-usa-der-gierige-weltbulle.de.md",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/amnesty-international-ist-parteiisch.de.md",
@@ -278,17 +294,7 @@
 		"/home/siefke/Downloads/x11-base",
 		"/home/siefke/Downloads/1.md",
 		"/home/siefke/.config/sublime-text-3/Packages/User/exec_selection.sublime-build",
-		"/home/siefke/Downloads/invoices.json",
-		"/home/siefke/Downloads/own.json",
-		"/home/siefke/.bin/scripts/csv2json.sh",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/media.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/data/books.json",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/sublime-translate-shell.en.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/sublime-translate-shell.de.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/sublime-translate-shell.fr.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/layout/head.html",
-		"/home/siefke/.config/sublime-text-3/Packages/User/exec_selection.py",
-		"/home/siefke/.local/share/gnucash/stylesheets-2.0"
+		"/home/siefke/Downloads/invoices.json"
 	],
 	"find":
 	{
@@ -306,6 +312,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Allem",
+			"haproxy_ca",
+			"Bundeswehr",
 			"h5bp/",
 			"mime",
 			"h5bp/",
@@ -365,6 +374,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"German Army",
 			"/etc/nginx/h5bp/",
 			"$IPT",
 			"No",
@@ -442,6 +452,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.mde":
+	{
+		"height": 186.0
 	},
 	"pinned_build_system": "Packages/User/exec_selection.sublime-build",
 	"project": "privat.sublime-project",

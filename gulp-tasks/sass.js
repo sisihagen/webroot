@@ -9,11 +9,13 @@ var gulp       = require('gulp'),
     shortcss   = require('postcss-short'),
     opacity    = require('postcss-opacity'),
     cssnano    = require('cssnano'),
+    change     = require('gulp-changed'),
     config     = require('./config');
 
 // sass for production task
 gulp.task('prod-sass', gulp.series(function() {
     return gulp.src('./static/static/scss/layout.scss')
+        .pipe(change('./static/static/css/'))
         .pipe(sourcemaps.init())
         .pipe(sass().on('error', sass.logError))
         .pipe(sourcemaps.write())
@@ -32,6 +34,7 @@ gulp.task('prod-css', gulp.series('prod-sass', function() {
         cssnano
     ];
     return gulp.src(config.css.src)
+        .pipe(change(config.css.out))
         .pipe(sourcemaps.init())
         .pipe(postcss(plugins))
         .pipe(sourcemaps.write('.'))

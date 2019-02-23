@@ -40,3 +40,8 @@ other = "Letzte Artikel"
 [newquote]
 other = "Neu"
 
+[gallery]
+other = "Gallerie"
+
+[source]
+other = "Quellen"

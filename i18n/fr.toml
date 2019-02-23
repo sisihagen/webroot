@@ -39,3 +39,9 @@ other = "Derniers messages"
 
 [newquote]
 other = "Nouvelle"
+
+[gallery]
+other = "Galeries"
+
+[source]
+other = "Sources"
