@@ -46,3 +46,13 @@ nav {
     }
   }
 }
+
+.menu-active span {
+  color: lighten($color-blue, 30%);
+  text-decoration: underline;
+}
+
+.menu-active .icon {
+  stroke: lighten($color-blue, 30%);
+  fill: lighten($color-blue, 30%);
+}

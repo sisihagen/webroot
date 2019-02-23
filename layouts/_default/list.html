@@ -9,7 +9,11 @@
         <a href="{{ .Permalink }}" title="{{ .Title }}">
 
           {{ if .Params.cover }}
-          <div class="icon-{{.Params.cover}}"></div>
+          <picture>
+            <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
+            <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">
+            <img src="/static/img/cover/{{.Params.cover}}.jpg" alt="Cover">
+          </picture>
           {{ end }}
           <div class="card-header">
             <h4 class="text-center" itemprop="headline">{{ .Title }}</h4>

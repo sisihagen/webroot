@@ -40,6 +40,30 @@ publishDir = "public/build"
             title = "Silvio Siefke"
             description = "Eine weitere private Site wo man Meinungen anderer liest ..."
 
+        [[languages.de.menu.main]]
+        url = "/about/"
+        pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
+        name = "Info"
+        weight = 10
+
+        [[languages.de.menu.main]]
+        url = "/blog/"
+        pre = "<svg class=\"icon icon-paragraph-justify\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-paragraph-justify\"></use></svg>"
+        name = "Blog"
+        weight = 20
+
+        [[languages.de.menu.main]]
+        url = "https://twitter.com/SilvioSiefke"
+        pre = "<svg class=\"icon icon-twitter\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-twitter\"></use></svg>"
+        name = "Twitter"
+        weight = 30
+
+        [[languages.de.menu.main]]
+        url = "https://github.com/sisihagen"
+        pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
+        name = "Github"
+        weight = 40
+
     [languages.en]
         baseURL = "http://silviosiefke.com"
         DefaultContentLanguage = "en"
@@ -49,6 +73,30 @@ publishDir = "public/build"
             title = "Silvio Siefke"
             description = "Again a private website with a meaning of other ..."
 
+        [[languages.en.menu.main]]
+        url = "/about/"
+        pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
+        name = "About"
+        weight = 10
+
+        [[languages.en.menu.main]]
+        url = "/blog/"
+        pre = "<svg class=\"icon icon-paragraph-justify\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-paragraph-justify\"></use></svg>"
+        name = "Blog"
+        weight = 20
+
+        [[languages.en.menu.main]]
+        url = "https://twitter.com/SilvioSiefke"
+        pre = "<svg class=\"icon icon-twitter\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-twitter\"></use></svg>"
+        name = "Twitter"
+        weight = 30
+
+        [[languages.en.menu.main]]
+        url = "https://github.com/sisihagen"
+        pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
+        name = "Github"
+        weight = 40
+
     [languages.fr]
         baseURL = "http://silviosiefke.fr"
         DefaultContentLanguage = "fr"
@@ -57,3 +105,27 @@ publishDir = "public/build"
         [languages.fr.params]
             title = "Silvio Siefke"
             description = "Encore un site privé avec un sens d'autres ..."
+
+        [[languages.fr.menu.main]]
+        url = "/about/"
+        pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
+        name = "A propos"
+        weight = 10
+
+        [[languages.fr.menu.main]]
+        url = "/blog/"
+        pre = "<svg class=\"icon icon-paragraph-justify\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-paragraph-justify\"></use></svg>"
+        name = "Blog"
+        weight = 20
+
+        [[languages.fr.menu.main]]
+        url = "https://twitter.com/SilvioSiefke"
+        pre = "<svg class=\"icon icon-twitter\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-twitter\"></use></svg>"
+        name = "Twitter"
+        weight = 30
+
+        [[languages.fr.menu.main]]
+        url = "https://github.com/sisihagen"
+        pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
+        name = "Github"
+        weight = 40

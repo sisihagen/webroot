@@ -3,7 +3,13 @@
 {{ range first 3 (where .Site.Pages "Type" "blog") }}
   <article class="blog-card grid-item 1/4 compact-1/1 margin compact-no-margin">
     <a href="{{ .Permalink }}" title="{{ .Title }}">
-      <div class="icon-{{ .Params.cover }}"></div>
+      {{ if .Params.cover }}
+      <picture>
+        <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
+        <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">
+        <img src="/static/img/cover/{{.Params.cover}}.jpg" alt="Cover">
+      </picture>
+      {{ end }}
       <div class="card-header">
         <h4 class="text-center"> {{ .Title }} </h4>
       </div>

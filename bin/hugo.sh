@@ -32,7 +32,10 @@ case "$1" in
     ;;
 
     git)
-      ./node_modules/.bin/gulp release
+      ./node_modules/.bin/gulp bump-version
+      ./node_modules/.bin/gulp git-add
+      ./node_modules/.bin/gulp commit-changes
+      ./node_modules/.bin/gulp push-changes
     ;;
 
     watch)
