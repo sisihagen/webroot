@@ -11065,6 +11065,9 @@ $(document).ready(function() {
       $('.gallery').hide();
     }
 
+    if ($('.linklist').children().length <=1) {
+      $('.linklist').hide();
+    }
   }
 
   // if javascript active remove hidden class for home > social class

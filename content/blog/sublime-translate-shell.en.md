@@ -1,5 +1,5 @@
 ---
-title: "Sublime and Translate Shell"
+title: "Sublime and Translate"
 date: 2018-06-07T09:10:42+02:00
 tags: "Computer"
 draft: false

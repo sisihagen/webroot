@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
 				"imag",
 				"imagemin"
 			],
@@ -22,10 +30,6 @@
 			[
 				"pic",
 				"picture"
-			],
-			[
-				"background",
-				"background-color"
 			],
 			[
 				"hugo",
@@ -67,6 +71,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"sass",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
 			[
 				"maerk",
 				"MarkdownEditing: Markdown Lint"
@@ -161,19 +173,36 @@
 	},
 	"expanded_folders":
 	[
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public/dest"
 	],
 	"file_history":
 	[
+		"/home/siefke/Downloads/main.scss",
+		"/home/siefke/Downloads/index.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/women-toiled-for-us-at-the-pay-of-15-cents-an-hour.en.md",
+		"/home/siefke/Downloads/main.css.map",
+		"/home/siefke/Downloads/main.css",
+		"/home/siefke/.config/sublime-text-3/Packages/User/htmlboiler.sublime-snippet",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_article.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/home/blog.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/_default/list.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/modules/pagination.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/modules/tags.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/layout/_nav.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bin/hugo.sh",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/release.js",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public/dest/static.silviosiefke.com/htdocs/css/layout.css",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/config.toml",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/partials/layout/nav.html",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/layout.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/_includes/_cover.scss",
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bin/create-sprites.sh",
+		"/home/siefke/Downloads/layout.css",
+		"/home/siefke/Downloads/create-sprites.sh",
 		"/home/siefke/Dokumente/projects/own.json",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulpfile.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/imagemin.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bin/hugo.sh",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/sass.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/fonts.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/release.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/blog/single.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/shortcodes/image.html",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/i18n/fr.toml",
@@ -233,7 +262,6 @@
 		"/home/siefke/Downloads/server-configs-nginx-master/conf.d/silviosiefke.fr.conf",
 		"/home/siefke/Downloads/server-configs-nginx-master/conf.d/silviosiefke.com.conf",
 		"/home/siefke/Downloads/server-configs-nginx-master/conf.d/templates/silviosiefke.de.conf",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/public/dest/static.silviosiefke.com/htdocs/css/layout.css",
 		"/home/siefke/Public/web/static.silviosiefke.com/htdocs/css/layout.css",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/CHANGELOG.md",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/config.js",
@@ -244,9 +272,7 @@
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/bin/sitemap.sh",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/folder.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/layouts/_default/single.html",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/static/static/scss/layout.scss",
 		"/home/siefke/Downloads/style.scss",
-		"/home/siefke/Downloads/index.html",
 		"/home/siefke/Downloads/style.css",
 		"/home/siefke/Downloads/hm.css",
 		"/home/siefke/Downloads/style.sccs",
@@ -277,24 +303,7 @@
 		"/run/user/1000/gvfs/smb-share:server=fritz-nas,share=fritz.nas/Dokumente/silviosiefke_com_rsa.txt",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/static.js",
 		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/clean.js",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/hugo.js",
-		"/home/siefke/Downloads/azirevpn-wg.sh",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/die-usa-der-gierige-weltbulle.de.md",
-		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/content/blog/amnesty-international-ist-parteiisch.de.md",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/source/partials/home/_certi.erb",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/data/projects/own.json",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/source/layouts/intranet.erb",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/source/static/intranet/css/intranet.css.scss",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/source/intranet/project/index.html.erb",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/source/index.html.erb",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/source/intranet/index.html.erb",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/config.rb",
-		"/home/siefke/Dokumente/projects/companysites/sisi-plancher.com/source/layouts/layout.erb",
-		"/home/siefke/.bin/scripts/gcupdate.sh",
-		"/home/siefke/Downloads/x11-base",
-		"/home/siefke/Downloads/1.md",
-		"/home/siefke/.config/sublime-text-3/Packages/User/exec_selection.sublime-build",
-		"/home/siefke/Downloads/invoices.json"
+		"/home/siefke/Dokumente/projects/privatesites/silviosiefke.com/gulp-tasks/hugo.js"
 	],
 	"find":
 	{
@@ -312,6 +321,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"blog-card",
+			" grid-item 1/3 compact-1/1 margin-bottom",
+			"h2",
+			"en.main",
+			"fr.main",
+			"de.main",
+			"560",
+			"500",
+			"800",
+			"1000",
+			"webp",
+			"cover.jpg",
+			"/static/img/cover/",
 			"Allem",
 			"haproxy_ca",
 			"Bundeswehr",
@@ -374,6 +396,18 @@
 		"regex": false,
 		"replace_history":
 		[
+			"card",
+			"",
+			"en.menu.main",
+			"fr.menu.main",
+			"de.menu.main",
+			"350",
+			"560",
+			"500",
+			"700",
+			"jpg",
+			"/static/img/cover/cover.webp",
+			"",
 			"German Army",
 			"/etc/nginx/h5bp/",
 			"$IPT",
