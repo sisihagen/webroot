@@ -1,5 +1,4 @@
 var gulp       = require('gulp'),
-    exec       = require('gulp-exec'),
     postcss    = require('gulp-postcss'),
     sass       = require('gulp-sass'),
     sourcemaps = require('gulp-sourcemaps'),
