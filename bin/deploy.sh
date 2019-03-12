@@ -8,15 +8,15 @@ st=static.silviosiefke.com/htdocs
 
 case "$1" in
     de)
-        rsync -avuzq --delete $workdir/$de/ web:/var/www/silviosiefke.de/
+        rsync -avuzq --delete $workdir/$de/ web:/var/www/silviosiefke.de/htdocs/
     ;;
 
     fr)
-        rsync -avuzq --delete $workdir/$fr/ web:/var/www/silviosiefke.fr/
+        rsync -avuzq --delete $workdir/$fr/ web:/var/www/silviosiefke.fr/htdocs/
     ;;
 
     en)
-        rsync -avuzq --delete $workdir/$en/ web:/var/www/silviosiefke.com/
+        rsync -avuzq --delete $workdir/$en/ web:/var/www/silviosiefke.com/htdocs/
     ;;
 
     st)
@@ -24,6 +24,6 @@ case "$1" in
     ;;
 
     *)
-        rsync -avuz $workdir/ web:/var/www/
+        rsync -avuzq $workdir/ web:/var/www/
     ;;
 esac

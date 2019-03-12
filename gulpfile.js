@@ -26,6 +26,6 @@ gulp.task('build', function(callback) {
     runSequence('hugo',
         'folder',
         'html',
-        //'static',
+        'static',
         callback);
 });
