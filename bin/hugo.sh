@@ -43,6 +43,6 @@ case "$1" in
     ;;
 
     *)
-        hugo server -D --i18n-warnings --watch --ignoreCache --verbose --disableFastRender --bind 192.168.178.24 --baseURL http://192.168.178.24
+        hugo server -D --i18n-warnings --watch --ignoreCache --verbose --disableFastRender
     ;;
 esac
