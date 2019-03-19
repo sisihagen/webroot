@@ -4,6 +4,7 @@ var assets = './static/static';
 var de = './public/dest/silviosiefke.de/htdocs';
 var en = './public/dest/silviosiefke.com/htdocs';
 var fr = './public/dest/silviosiefke.fr/htdocs';
+var ru = './public/dest/silviosiefke.ru/htdocs';
 var static = './public/dest/static.silviosiefke.com/htdocs';
 
 module.exports = {
@@ -25,6 +26,11 @@ module.exports = {
     src: source + '/fr/**/*.html',
     tmp: source + '/fr/tmp',
     out: fr
+  },
+  ru: {
+    src: source + '/ru/**/*.html',
+    tmp: source + '/ru/tmp',
+    out: ru
   },
   fonts: {
     src: assets + '/fonts/**/*',

@@ -31,5 +31,13 @@ gulp.task('de', gulp.series(function(done) {
     done();
 }));
 
+gulp.task('ru', gulp.series(function(done) {
+    return gulp.src(config.ru.src)
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(config.ru.out))
+        .pipe(exec('cp ./public/build/ru/sitemap.xml ./public/dest/silviosiefke.ru/htdocs/'));
+    done();
+}));
+
 // gulp minified html sites and copy dest
-gulp.task('html', gulp.series('de', 'en', 'fr', function(done) { done(); }));
+gulp.task('html', gulp.series('de', 'en', 'fr', 'ru', function(done) { done(); }));

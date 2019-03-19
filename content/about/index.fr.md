@@ -1,5 +1,5 @@
 ---
-title: "Informations"
+title: "À Propos"
 date: 2012-05-05
 draft: false
 shorttext: "Voici quelques informations peut-être intéressant pour vous ..."

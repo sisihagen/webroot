@@ -4,6 +4,7 @@ workdir=public/dest
 de=silviosiefke.de/htdocs
 en=silviosiefke.com/htdocs
 fr=silviosiefke.fr/htdocs
+ru=silviosiefke.ru/htdocs
 st=static.silviosiefke.com/htdocs
 
 case "$1" in
@@ -19,11 +20,17 @@ case "$1" in
         rsync -avuzq --delete $workdir/$en/ web:/var/www/silviosiefke.com/htdocs/
     ;;
 
+    ru)
+        rsync -avuzq --delete $workdir/$ru/ russia:/var/www/silviosiefke.ru/htdocs/
+    ;;
+
     st)
         rsync -avuzq --delete $workdir/$st/ web:/var/www/static.silviosiefke.com/htdocs/
+        rsync -avuzq --delete $workdir/$st/ russia:/var/www/static.silviosiefke.com/htdocs/
     ;;
 
     *)
-        rsync -avuzq $workdir/ web:/var/www/
+        rsync -avuzq --exclude "silviosiefke.ru" $workdir/ web:/var/www/
+        rsync -avuzq --exclude "silviosiefke.de" --exclude "silviosiefke.fr" --exclude "silviosiefke.com" $workdir/ russia:/var/www/
     ;;
 esac

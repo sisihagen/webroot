@@ -1,0 +1,47 @@
+[more]
+other = "Читать"
+
+[new]
+other = "Новый"
+
+[old]
+other = "Старый"
+
+[fail]
+other = "Ссылка больше не работает ..."
+
+[nav-title-home]
+other = "Назад к входу ..."
+
+[nav-title-about]
+other = "Информация о сайте ..."
+
+[nav-title-blog]
+other = "Мой глупый смысл ..."
+
+[nav-title-twitter]
+other = "Следуй за мной в Твиттере ..."
+
+[nav-title-github]
+other = "Исторический вид веб-сайта ..."
+
+[nav-link-home]
+other = "Жилище"
+
+[nav-link-about]
+other = "обо мне"
+
+[nav-link-blog]
+other = "Блог"
+
+[lastheader]
+other = "последняя должность"
+
+[newquote]
+other = "Новый"
+
+[gallery]
+other = "Галерея"
+
+[source]
+other = "Источники"

@@ -1,11 +1,10 @@
 ---
 title: "Imprint"
-tags: ""
 date: 2018-05-24
 draft: false
 shorttext: "Privacy Policy"
 cover: "repression"
-lang: de
+lang: en
 ---
 
 # Privacy Policy

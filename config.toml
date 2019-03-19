@@ -34,6 +34,7 @@ publishDir = "public/build"
     [languages.de]
         baseURL = "http://silviosiefke.de"
         DefaultContentLanguage = "de"
+        languageName = "Deutsch"
         weight = 1
 
         [languages.de.params]
@@ -67,6 +68,7 @@ publishDir = "public/build"
     [languages.en]
         baseURL = "http://silviosiefke.com"
         DefaultContentLanguage = "en"
+        languageName = "English"
         weight = 2
 
         [languages.en.params]
@@ -100,6 +102,7 @@ publishDir = "public/build"
     [languages.fr]
         baseURL = "http://silviosiefke.fr"
         DefaultContentLanguage = "fr"
+        languageName = "Français"
         weight = 3
 
         [languages.fr.params]
@@ -109,7 +112,7 @@ publishDir = "public/build"
         [[languages.fr.menu.main]]
         url = "/about/"
         pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
-        name = "A propos"
+        name = "À Propos"
         weight = 10
 
         [[languages.fr.menu.main]]
@@ -125,6 +128,40 @@ publishDir = "public/build"
         weight = 30
 
         [[languages.fr.menu.main]]
+        url = "https://github.com/sisihagen"
+        pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
+        name = "Github"
+        weight = 40
+
+    [languages.ru]
+        baseURL = "http://silviosiefke.ru"
+        DefaultContentLanguage = "en"
+        languageName = "Русский"
+        weight = 2
+
+        [languages.ru.params]
+            title = "Silvio Siefke"
+            description = "Опять же частный сайт со значением other ..."
+
+        [[languages.ru.menu.main]]
+        url = "/about/"
+        pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
+        name = "О себе"
+        weight = 10
+
+        [[languages.ru.menu.main]]
+        url = "/blog/"
+        pre = "<svg class=\"icon icon-paragraph-justify\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-paragraph-justify\"></use></svg>"
+        name = "Блог"
+        weight = 20
+
+        [[languages.ru.menu.main]]
+        url = "https://twitter.com/SilvioSiefke"
+        pre = "<svg class=\"icon icon-twitter\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-twitter\"></use></svg>"
+        name = "Щебетать"
+        weight = 30
+
+        [[languages.ru.menu.main]]
         url = "https://github.com/sisihagen"
         pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
         name = "Github"
