@@ -2,7 +2,7 @@
   "name": "silviosiefke.com",
   "description": "Private Website",
   "main": "index.js",
-  "version": "0.0.20",
+  "version": "0.0.16",
   "authors": [
     "Silvio Siefke <siefke@mail.ru> (http://www.silviosiefke.com)"
   ],
@@ -38,6 +38,7 @@
     "flexibility": "^2.0.1",
     "modernizr": "^3.6.0",
     "picturefill": "^3.0.3",
-    "twitterfeed": "https://tomelliott.com/demos/jquery-twitter-feed/js/twitterfeed.js"
+    "twitterfeed": "https://tomelliott.com/demos/jquery-twitter-feed/js/twitterfeed.js",
+    "hocus-pocus": "^0.3.5"
   }
 }

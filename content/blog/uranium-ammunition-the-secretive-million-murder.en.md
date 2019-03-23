@@ -45,4 +45,4 @@ Frieder Wagner, born in 1942, is a German journalist and filmmaker. He was award
 
 {{< youtube "oposUwvfdJA" >}}
 
-The German Alibi Zeitung Die Welt published a detailed article on the topic of [uranium munitions](https://www.welt.de/gesundheit/article173224341/Uran-Munition-Wie-schlimm-sind-die-gesundheitlichen-Folgen.html "Uran Munition - wie schlimm sind die Folgen") in February 2018. In it you can find an impressive video right at the beginning. 
+The German Alibi Newspaper Die Welt published a detailed article on the topic of [uranium munitions](https://www.welt.de/gesundheit/article173224341/Uran-Munition-Wie-schlimm-sind-die-gesundheitlichen-Folgen.html "Uran Munition - wie schlimm sind die Folgen") in February 2018. In it you can find an impressive video right at the beginning. 
