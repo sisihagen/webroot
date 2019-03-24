@@ -8,6 +8,7 @@ case "$1" in
           echo "opts      > Running sass-convert to clean scss files"
           echo "optj      > Runing js-beautify to clean gulp files"
           echo "watch     > start default task of gulp"
+          echo "update    > Upgrade for the node Modules"
           echo "default   > running the hugo Development Server"
     ;;
 
@@ -36,6 +37,16 @@ case "$1" in
       ./node_modules/.bin/gulp git-add
       ./node_modules/.bin/gulp commit-changes
       ./node_modules/.bin/gulp push-changes
+    ;;
+
+    update)
+      UPD="$(./node_modules/.bin/ncu -u | grep latest)"
+
+      if [[ $UPD ]]; then
+        exit 0
+      else
+        npm install
+      fi
     ;;
 
     watch)

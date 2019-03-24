@@ -25,6 +25,8 @@ BBC London has now released a short [Video](https://www.bbc.com/news/av/world-eu
 
 But why 44 Ukrainians apply for the highest Post of the country, knowing that 40 of them have no Chance? The statement provided an exile Ukrainian who regularly draws his countrymen's attention via the social media to the sneaks and Tricks of the oligarchs: Shari. In Ukraine, in fact, each formal candidate has the right to delegate his or her own trusted representatives to the commissions and bodies which have to carry out the election organizationally: the vote counters, those who deliver the results from the villages and cities to the Centers, count there and deliver them from there to the headquarters to Kiev. For example, if an Oligarch has formally appointed 25 straw men as presidential candidates, he has the majority in all electoral bodies with "his" people. The fraud is so programmed.
 
+{{< youtube "tbfanzIA6sM" >}}
+
 #### The passport is sufficient to cast the vote – without its owner
 
 The current President Petro Poroshenko tried everything and still tries to secure his re-election. For example, those Ukrainians who work in Russia are not entitled to vote on the basis of a new law. However, anyone who works in Poland, Germany or Canada in order to be able to properly time his life does not have to travel to Ukraine in order to cast his vote. His friends go to the urn with the passport of the absent, that is enough to cast a vote at the urn.
@@ -43,7 +45,7 @@ A detailed assessment of the three candidates can be found on the website of the
 
 As is common practice in this world, elections in countries that want to show how perfectly democratic they are are observed by observers from many countries on the ground. These observers will then have to report whether everything has been done properly and in compliance with the law. 
 
-An official OSCE/ODIHR paper indicates that it is planned to send 100 long-term observers and 750 short-term observers to the presidential elections in Ukraine. After President Poroshenko has recently proposed to parliament a law that does not allow the OSCE member Russia to send observers within the framework of the OSCE, Russia has voluntarily renounced sending observers-not least for security reasons of these people.
+An official [OSCE/ODIHR paper](https://www.infosperber.ch/data/attachements/UKRAINE%202018%20NAM%20report.pdf "Presidental Election Ukraine") indicates that it is planned to send 100 long-term observers and 750 short-term observers to the presidential elections in Ukraine. After President Poroshenko has recently proposed to parliament a law that does not allow the OSCE member Russia to send observers within the framework of the OSCE, Russia has voluntarily renounced sending observers-not least for security reasons of these people.
 
 It is clear, therefore, that of the 850 observers, no one in the Ukrainian or Russian languages is powerful. As ODIHR, in Ukraine wants to "select" about 800 independent interpreters, one can count on the fingers: they will be provided by the state apparatus.
 

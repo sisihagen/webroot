@@ -5,7 +5,7 @@ tags: "société"
 keywords: "Inde, travailleurs à domicile, vêtements, sociétés de vêtements, entreprises, sociétés mondiales, Etats-Unis, Berkeley, Université, étude"
 shorttext: "Les travailleurs à domicile Indiens exploités travaillent pour les entreprises de vêtements en Europe et aux États-Unis, l'Université de la Californie se découvre."
 cover: "society"
-lang: en
+lang: fr
 draft: false
 ---
 
