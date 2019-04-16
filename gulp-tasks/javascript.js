@@ -17,7 +17,7 @@ gulp.task('devel-js', gulp.series(function() {
             './bower_components/jquery/dist/jquery.js',
             './bower_components/wikiquotes-api/wikiquote-api.js',
             './bower_components/svgxuse/svgxuse.js',
-            './bower_components/twitterfeed/index.js',
+            './static/static/js/twitter.js',
             './static/static/js/quote.js',
             './static/static/js/app.js'
         ])
@@ -31,7 +31,7 @@ gulp.task('prod-js', gulp.series('picture', function() {
             './bower_components/jquery/dist/jquery.js',
             './bower_components/wikiquotes-api/wikiquote-api.js',
             './bower_components/svgxuse/svgxuse.js',
-            './bower_components/twitterfeed/index.js',
+            './static/static/js/twitter.js',
             './static/static/js/quote.js',
             './static/static/js/app.js'
         ])
