@@ -1,0 +1,10 @@
+.brands {
+
+  a {
+    margin-bottom: 1rem;
+
+    @include rwd('regular') {
+      margin-left: 1rem;
+    }
+  }
+}

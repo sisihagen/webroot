@@ -1,0 +1,29 @@
+[{
+  "id":    "1",
+  "name":  "Arch",
+  "webp":  "/static/img/brands/arch.webp",
+  "png":   "/static/img/brands/arch.png",
+  "href":  "http://www.archlinux.org",
+  "title": "Arch Linux"
+}, {
+  "id":    "2",
+  "name":  "Nginx",
+  "webp":  "/static/img/brands/nginx.webp",
+  "png":   "/static/img/brands/nginx.png",
+  "href":  "http://www.nginx.org",
+  "title": "Nginx Webserver"
+}, {
+  "id":    "3",
+  "name":  "Hugo",
+  "webp":  "/static/img/brands/hugo.webp",
+  "png":   "/static/img/brands/hugo.png",
+  "href":  "http://www.gohugo.io",
+  "title": "The world’s fastest framework for building websites"
+}, {
+  "id": "4",
+  "name":  "OVH",
+  "webp":  "/static/img/brands/ovh.webp",
+  "png":   "/static/img/brands/ovh.png",
+  "href":  "http://www.ovh.com",
+  "title": "OVH - Innovation for Freedom"
+}]

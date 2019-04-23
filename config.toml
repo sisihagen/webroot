@@ -10,7 +10,6 @@ publishDir = "public/build"
 
 [taxonomies]
     tag = "tags"
-    category = ""
 
 [blackfriday]
     angledQuotes = false

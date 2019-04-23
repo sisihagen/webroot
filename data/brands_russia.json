@@ -1,0 +1,29 @@
+[{
+  "id":    "1",
+  "name":  "Debian",
+  "webp":  "/static/img/brands/debian.webp",
+  "png":   "/static/img/brands/debian.png",
+  "href":  "http://www.debian.org",
+  "title": "Debian - The Universal Operating System"
+}, {
+  "id":    "2",
+  "name":  "Nginx",
+  "webp":  "/static/img/brands/nginx.webp",
+  "png":   "/static/img/brands/nginx.png",
+  "href":  "http://www.nginx.org",
+  "title": "Nginx Webserver"
+}, {
+  "id":    "3",
+  "name":  "Hugo",
+  "webp":  "/static/img/brands/hugo.webp",
+  "png":   "/static/img/brands/hugo.png",
+  "href":  "http://www.gohugo.io",
+  "title": "The world’s fastest framework for building websites"
+}, {
+  "id": "4",
+  "name":  "REG",
+  "webp":  "/static/img/brands/reg_ru.webp",
+  "png":   "/static/img/brands/reg_ru.png",
+  "href":  "http://www.reg.ru",
+  "title": "Reg.ru the number one in Russia"
+}]

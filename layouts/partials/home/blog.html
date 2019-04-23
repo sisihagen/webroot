@@ -1,6 +1,6 @@
 <section class="home-section blog one grid grid-center grid-compact-stack padding no-margin">
 {{ .Content }}
-{{ range first 3 (where .Site.Pages "Type" "blog") }}
+{{ range first 3 (where .Pages "Type" "blog") }}
   <article class="blog-card grid-item 1/4 compact-1/1 margin compact-no-margin">
     <a href="{{ .Permalink }}" title="{{ .Title }}">
       {{ if .Params.cover }}

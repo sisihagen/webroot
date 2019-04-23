@@ -2,28 +2,9 @@
 
 
 <main>
-    {{ if eq $.Site.Language.LanguageName "Русский" }}
       {{ partial "home/blog" . }}
       {{ partial "home/twitter" . }}
-    {{ end }}
-
-    {{ if eq $.Site.Language.LanguageName "English" }}
-      {{ partial "home/blog" . }}
-      {{ partial "home/twitter" . }}
-      {{ partial "home/media" . }}
-    {{ end }}
-
-    {{ if eq $.Site.Language.LanguageName "Français" }}
-      {{ partial "home/blog" . }}
-      {{ partial "home/twitter" . }}
-      {{ partial "home/media" . }}
-    {{ end }}
-
-    {{ if eq $.Site.Language.LanguageName "Deutsch" }}
-      {{ partial "home/blog" . }}
-      {{ partial "home/twitter" . }}
-      {{ partial "home/media" . }}
-    {{ end }}
+      {{ partial "home/logo" . }}
 </main>
 
 {{ end }}
