@@ -1,6 +1,10 @@
 aside.post {
 
   .linklist {
+    a:before {
+      content: "- ";
+    };
+
     a {
       display: block;
       color: lighten($color-blue, 40%);
