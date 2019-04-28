@@ -57,7 +57,7 @@ BlackRock & Co ne se préoccupe pas du droit national antitrust et des société
 
 BlackRock & Co est devenu le plus grand propriétaire d’appartement en Allemagne en silence. Vonovia avec 400 000 appartements à Deutsche Wohnen avec 160 000 appartements, LEG, avec une population de 135 000 appartements: dans toutes ces trois plus grandes sociétés de logement en Allemagne, les principaux propriétaires sont BlackRock & Co. Ils conduisent des loyers et des services publics. Vonovia a placé dans son département des finances en tant que Vonovia B. V. dans le havre financier des pays-bas. La société holding Vonovia est une Societas Europaea (S. E): cette société par actions en vertu du droit de l’Union, par exemple, les ouvrages allemands Loi constitutionnelle pour contourner la Loi. Nos gouvernements, les principaux médias et les organismes antitrust sont à la recherche ou à l’extérieur.
 
-{{< image srcwebp="/static/img/content/2019/52.webp" srcalt="/static/img/content/2019/52.jpg" title="Demonstration gegen Mieten" >}}
+{{< image srcwebp="/static/img/content/2019/54.webp" srcalt="/static/img/content/2019/54.jpg" title="Demonstration gegen Mieten" >}}
 
 #### BlackRock & co: les plus grands organisateurs d’entreprises de boîtes aux lettres
 
