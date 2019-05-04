@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: {{ .Site.Params.baseURL }}/sitemap.xml

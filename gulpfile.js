@@ -19,7 +19,7 @@ gulp.task('default', function () {
 });
 
 // gulp managed the assets tasks
-gulp.task('static', gulp.series('json', 'prod-css', 'prod-js', 'fonts', function() {}));
+gulp.task('static', gulp.series('prod-css', 'prod-js', 'fonts', function() {}));
 
 // gulp complete run
 gulp.task('build', function(callback) {

@@ -2,7 +2,7 @@
   "name": "silviosiefke.com",
   "description": "Private Website",
   "main": "index.js",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "authors": [
     "Silvio Siefke <siefke@mail.ru> (http://www.silviosiefke.com)"
   ],
@@ -25,20 +25,16 @@
   "devDependencies": {
     "jquery": "^3.3.1",
     "svgxuse": "^1.2.6",
-    "wikiquotes-api": "git://github.com/natetyler/wikiquotes-api.git",
     "flexibility": "^2.0.1",
     "modernizr": "^3.6.0",
-    "picturefill": "^3.0.3",
-    "twitterfeed": "https://tomelliott.com/demos/jquery-twitter-feed/js/twitterfeed.js"
+    "picturefill": "^3.0.3"
   },
   "dependencies": {
     "jquery": "^3.3.1",
     "svgxuse": "^1.2.6",
-    "wikiquotes-api": "git://github.com/natetyler/wikiquotes-api.git",
     "flexibility": "^2.0.1",
     "modernizr": "^3.6.0",
     "picturefill": "^3.0.3",
-    "twitterfeed": "https://tomelliott.com/demos/jquery-twitter-feed/js/twitterfeed.js",
     "hocus-pocus": "^0.3.5"
   }
 }

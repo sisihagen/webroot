@@ -1,270 +1,61 @@
-#loading-container {
-    padding: 16px 0px 16px 0px;
-    text-align: center;
-}
+.twitter {
 
-#twitter-feed {
-    padding: .5rem;
-    overflow: auto;
-    color: $color-light-gray;
-    border: thin solid darken($color-silver, 50%);
-    border-radius: 1%;
+  @include rwd('compact') {
+    padding: 1rem;
+  }
 
-    h4 {
-        margin: 0px;
-        padding: 0.5rem 0;
-    }
+  img {
+    width: 1.2rem;
+    height: 1.2rem;
+  }
 
-    .tweet-start {
-      border-bottom: thin solid darken($color-silver, 50%);
-      padding: .5rem;
-    }
+  span {
+    display: block;
+    margin: 0px 0px 1rem 0px;
+    font-size: 1.2rem;
 
-    .icon-twitter {
-      margin-right: .5rem;
-    }
-}
-
-.twitter-article, #loading-container {
-    width: 100%;
-    border-bottom: thin solid darken($color-silver, 50%);
-    float: left;
-    padding: 1rem .5rem;
-    position: relative;
-    margin: 0;
-
-      &:last-child {
-        border-bottom: 0;
-      }
-
-    img {
-      width: 20px;
-      height: 20px;
-    }
-}
-
-.twitter-pic {
-    position: absolute;
-
-    img {
-        float: left;
-        border-radius: 7px;
-        border: none;
-    }
-}
-
-/* -------- TEXT STYLING ------*/
-
-.twitter-text {
-    width: 100%;
-    float: left;
-    font-size: 0.8rem;
-    padding-left: 3rem;
-    box-sizing: border-box;
-
-    p {
-        margin: 0;
-        line-height: .9rem;
-    }
-
-    a {
+      a {
         text-decoration: none;
-    }
-}
-
-h4 a {
-    text-decoration: none;
-}
-
-.twitter-text a:hover, h4 a:hover {
-    text-decoration: underline;
-}
-
-.tweet-time {
-    float: right;
-}
-
-/* -------- FEED  ACTIONS ------*/
-
-#twitter-actions {
-    width: 75px;
-    float: right;
-    margin-right: 5px;
-    margin-top: 3px;
-    display: none;
-}
-
-.intent {
-    width: 25px;
-    height: 16px;
-    float: left;
-
-    a {
-        width: 25px;
-        height: 16px;
-        display: block;
-        background-image: url(/static/img/tweet-actions.png);
-        float: left;
-
-        &:hover {
-            background-position: -25px 0px;
-        }
-    }
-}
-
-#intent-retweet a {
-    background-position: 0px -17px;
-
-    &:hover {
-        background-position: -25px -17px;
-    }
-}
-
-#intent-fave a {
-    background-position: 0px -36px;
-
-    &:hover {
-        background-position: -25px -36px;
-    }
-}
-
-/* -------- RETWEET INDICATOR ------*/
-
-#retweet-indicator {
-    width: 14px;
-    height: 10px;
-    background-image: url(/static/img/tweet-actions.png);
-    background-position: -5px -54px;
-    margin-top: 3px;
-    float: left;
-}
-
-// loading container
-
-#floatingBarsG{
-  position:relative;
-  width:60px;
-  height:75px;
-  margin:auto;
-}
-
-.blockG{
-  position:absolute;
-  background-color:rgb(255,255,255);
-  width:10px;
-  height:23px;
-  border-radius:8px 8px 0 0;
-  transform:scale(0.4);
-  animation-name:fadeG;
-  animation-duration:1.2s;
-  animation-iteration-count:infinite;
-  animation-direction:normal;
-}
-
-#rotateG_01{
-  left:0;
-  top:27px;
-  animation-delay:0.45s;
-  transform:rotate(-90deg);
-}
-
-#rotateG_02{
-  left:8px;
-  top:10px;
-  animation-delay:0.6s;
-  transform:rotate(-45deg);
-}
-
-#rotateG_03{
-  left:25px;
-  top:3px;
-  animation-delay:0.75s;
-  transform:rotate(0deg);
-}
-
-#rotateG_04{
-  right:8px;
-  top:10px;
-  animation-delay:0.9s;
-  transform:rotate(45deg);
-}
-
-#rotateG_05{
-  right:0;
-  top:27px;
-  animation-delay:1.05s;
-  transform:rotate(90deg);
-}
-
-#rotateG_06{
-  right:8px;
-  bottom:7px;
-  animation-delay:1.2s;
-  transform:rotate(135deg);
-}
-
-#rotateG_07{
-  bottom:0;
-  left:25px;
-  animation-delay:1.35s;
-  transform:rotate(180deg);
-}
-
-#rotateG_08{
-  left:8px;
-  bottom:7px;
-  animation-delay:1.5s;
-  transform:rotate(-135deg);
-}
-
-
-
-@keyframes fadeG{
-  0%{
-    background-color:rgb(0,0,0);
+        color: $color-light-gray;
+      }
   }
 
-  100%{
-    background-color:rgb(255,255,255);
+  .tweetlist {
+     display: flex;
+     flex-wrap: wrap;
+  }
+
+  .item {
+    border: thin solid $color-light-gray;
+    background: darken(#493d31, 5%);
+    width: 45%;
+    padding: .8rem;
+    margin: .5rem;
+    flex: 1 0 auto;
   }
 }
 
-@-o-keyframes fadeG{
-  0%{
-    background-color:rgb(0,0,0);
+.instagram {
+
+  @include rwd('compact') {
+    padding-top: 1rem;
   }
 
-  100%{
-    background-color:rgb(255,255,255);
+  span {
+    display: block;
+    margin: 0px 0px 1rem 0px;
+    font-size: 1.2rem;
+
+      a {
+        text-decoration: none;
+        color: $color-light-gray;
+      }
+  }
+
+  .instagram-logo {
+    width: 1.2rem;
+    height: 1.2rem;
   }
 }
 
-@-ms-keyframes fadeG{
-  0%{
-    background-color:rgb(0,0,0);
-  }
 
-  100%{
-    background-color:rgb(255,255,255);
-  }
-}
-
-@-webkit-keyframes fadeG{
-  0%{
-    background-color:rgb(0,0,0);
-  }
-
-  100%{
-    background-color:rgb(255,255,255);
-  }
-}
-
-@-moz-keyframes fadeG{
-  0%{
-    background-color:rgb(0,0,0);
-  }
-
-  100%{
-    background-color:rgb(255,255,255);
-  }
-}

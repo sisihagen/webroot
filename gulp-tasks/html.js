@@ -9,7 +9,8 @@ gulp.task('en', gulp.series(function(done) {
     return gulp.src(config.en.src)
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(config.en.out))
-        .pipe(exec('cp ./public/build/en/sitemap.xml ./public/dest/silviosiefke.com/htdocs/'));
+        .pipe(exec('cp ./public/build/en/sitemap.xml ./public/dest/silviosiefke.com/htdocs/'))
+        .pipe(exec('cp ./public/build/en/robots.txt ./public/dest/silviosiefke.com/htdocs/'));
     done();
 }));
 
@@ -18,7 +19,8 @@ gulp.task('fr', gulp.series(function(done) {
     return gulp.src(config.fr.src)
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(config.fr.out))
-        .pipe(exec('cp ./public/build/fr/sitemap.xml ./public/dest/silviosiefke.fr/htdocs/'));
+        .pipe(exec('cp ./public/build/fr/sitemap.xml ./public/dest/silviosiefke.fr/htdocs/'))
+        .pipe(exec('cp ./public/build/fr/robots.txt ./public/dest/silviosiefke.fr/htdocs/'));
     done();
 }));
 
@@ -27,7 +29,8 @@ gulp.task('de', gulp.series(function(done) {
     return gulp.src(config.de.src)
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(config.de.out))
-        .pipe(exec('cp ./public/build/de/sitemap.xml ./public/dest/silviosiefke.de/htdocs/'));
+        .pipe(exec('cp ./public/build/de/sitemap.xml ./public/dest/silviosiefke.de/htdocs/'))
+        .pipe(exec('cp ./public/build/de/robots.txt ./public/dest/silviosiefke.de/htdocs/'));
     done();
 }));
 
@@ -35,7 +38,8 @@ gulp.task('ru', gulp.series(function(done) {
     return gulp.src(config.ru.src)
         .pipe(htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(config.ru.out))
-        .pipe(exec('cp ./public/build/ru/sitemap.xml ./public/dest/silviosiefke.ru/htdocs/'));
+        .pipe(exec('cp ./public/build/ru/sitemap.xml ./public/dest/silviosiefke.ru/htdocs/'))
+        .pipe(exec('cp ./public/build/ru/robots.txt ./public/dest/silviosiefke.ru/htdocs/'));
     done();
 }));
 

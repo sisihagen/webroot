@@ -1,54 +1,52 @@
 <section class="three">
-  <section class="grid grid-flat grid-center padding">
-    <div class="brands">
-    {{ if eq $.Site.Language.LanguageName "Русский" }}
-      {{ range $.Page.Site.Data.brands_russia }}
-          <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-            <picture>
-              <source srcset="{{ .webp }}" type="image/webp">
-              <source srcset="{{ .png }}" type="image/png">
-              <img src="{{ .png }}" alt="{{ .title }}">
-            </picture>
-          </a>
-      {{ end }}
+  <div class="brands text-center padding">
+  {{ if eq $.Site.Language.LanguageName "Русский" }}
+    {{ range $.Page.Site.Data.brands_russia }}
+        <a href="{{ .href }}" title="{{ .title }}" target="_blank">
+          <picture>
+            <source srcset="{{ .webp }}" type="image/webp">
+            <source srcset="{{ .png }}" type="image/png">
+            <img src="{{ .png }}" alt="{{ .title }}">
+          </picture>
+        </a>
     {{ end }}
+  {{ end }}
 
-    {{ if eq $.Site.Language.LanguageName "English" }}
-      {{ range $.Page.Site.Data.brands_home }}
-          <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-            <picture>
-              <source srcset="{{ .webp }}" type="image/webp">
-              <source srcset="{{ .png }}" type="image/png">
-              <img src="{{ .png }}" alt="{{ .title }}">
-            </picture>
-          </a>
-      {{ end }}
+  {{ if eq $.Site.Language.LanguageName "English" }}
+    {{ range $.Page.Site.Data.brands_home }}
+        <a href="{{ .href }}" title="{{ .title }}" target="_blank">
+          <picture>
+            <source srcset="{{ .webp }}" type="image/webp">
+            <source srcset="{{ .png }}" type="image/png">
+            <img src="{{ .png }}" alt="{{ .title }}">
+          </picture>
+        </a>
     {{ end }}
+  {{ end }}
 
-    {{ if eq $.Site.Language.LanguageName "Français" }}
-      {{ range $.Page.Site.Data.brands_home }}
-          <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-            <picture>
-              <source srcset="{{ .webp }}" type="image/webp">
-              <source srcset="{{ .png }}" type="image/png">
-              <img src="{{ .png }}" alt="{{ .title }}">
-            </picture>
-          </a>
-      {{ end }}
+  {{ if eq $.Site.Language.LanguageName "Français" }}
+    {{ range $.Page.Site.Data.brands_home }}
+        <a href="{{ .href }}" title="{{ .title }}" target="_blank">
+          <picture>
+            <source srcset="{{ .webp }}" type="image/webp">
+            <source srcset="{{ .png }}" type="image/png">
+            <img src="{{ .png }}" alt="{{ .title }}">
+          </picture>
+        </a>
     {{ end }}
+  {{ end }}
 
-    {{ if eq $.Site.Language.LanguageName "Deutsch" }}
-      {{ range $.Page.Site.Data.brands_home }}
-          <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-            <picture>
-              <source srcset="{{ .webp }}" type="image/webp">
-              <source srcset="{{ .png }}" type="image/png">
-              <img src="{{ .png }}" alt="{{ .title }}">
-            </picture>
-          </a>
-      {{ end }}
+  {{ if eq $.Site.Language.LanguageName "Deutsch" }}
+    {{ range $.Page.Site.Data.brands_home }}
+        <a href="{{ .href }}" title="{{ .title }}" target="_blank">
+          <picture>
+            <source srcset="{{ .webp }}" type="image/webp">
+            <source srcset="{{ .png }}" type="image/png">
+            <img src="{{ .png }}" alt="{{ .title }}">
+          </picture>
+        </a>
     {{ end }}
+  {{ end }}
 
-    </div>
-  </section>
+  </div>
 </section>

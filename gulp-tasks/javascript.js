@@ -15,10 +15,8 @@ gulp.task('picture', gulp.series(function() {
 gulp.task('devel-js', gulp.series(function() {
     return gulp.src([
             './bower_components/jquery/dist/jquery.js',
-            './bower_components/wikiquotes-api/wikiquote-api.js',
             './bower_components/svgxuse/svgxuse.js',
-            './static/static/js/twitter.js',
-            './static/static/js/quote.js',
+            //'./static/static/js/twitter-carousel.js',
             './static/static/js/app.js'
         ])
         .pipe(concat('site.js'))
@@ -29,10 +27,8 @@ gulp.task('devel-js', gulp.series(function() {
 gulp.task('prod-js', gulp.series('picture', function() {
     return gulp.src([
             './bower_components/jquery/dist/jquery.js',
-            './bower_components/wikiquotes-api/wikiquote-api.js',
             './bower_components/svgxuse/svgxuse.js',
-            './static/static/js/twitter.js',
-            './static/static/js/quote.js',
+            //'./static/static/js/twitter-carousel.js',
             './static/static/js/app.js'
         ])
         .pipe(concat('site.js'))
