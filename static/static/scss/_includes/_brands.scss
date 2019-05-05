@@ -20,3 +20,22 @@
     }
   }
 }
+
+.gallery-brands {
+  align-items: stretch;
+  clear: both;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+
+    a {
+      align-self: stretch;
+      display: block;
+      flex: 2 2 10em;
+      margin: 0.4em;
+      padding: 2em 2em 3em 2em;
+      text-decoration: none;
+      transition: all 0.2s ease-in-out;
+    }
+}

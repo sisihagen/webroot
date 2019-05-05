@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Debian",
+        "webp": "/static/img/brands/debian.webp",
+        "png": "/static/img/brands/debian.png",
+        "href": "http://www.debian.org",
+        "title": "Debian - The Universal Operating System"
+    },
+    {
+        "id": 2,
+        "name": "Arch Linux",
+        "webp": "/static/img/brands/arch.webp",
+        "png": "/static/img/brands/arch.png",
+        "href": "http://www.archlinux.org",
+        "title": "Arch Linux"
+    },
+    {
+        "id": 3,
+        "name": "Hugo",
+        "webp": "/static/img/brands/hugo.webp",
+        "png": "/static/img/brands/hugo.png",
+        "href": "http://www.gohugo.io",
+        "title": "The world’s fastest framework for building websites"
+    },
+    {
+        "id": 4,
+        "name": "REG",
+        "webp": "/static/img/brands/reg_ru.webp",
+        "png": "/static/img/brands/reg_ru.png",
+        "href": "http://www.reg.ru",
+        "title": "Reg.ru the number one in Russia"
+    },
+    {
+        "id": 5,
+        "name": "OVH",
+        "webp": "/static/img/brands/ovh.webp",
+        "png": "/static/img/brands/ovh.png",
+        "href": "http://www.ovh.com",
+        "title": "OVH - Innovation for Freedom"
+    },
+    {
+        "id": 6,
+        "name": "Nginx",
+        "webp": "/static/img/brands/nginx.webp",
+        "png": "/static/img/brands/nginx.png",
+        "href": "http://www.nginx.org",
+        "title": "Nginx Webserver"
+    },
+    {
+        "id": 7,
+        "name": "Dovecot",
+        "webp": "/static/img/brands/dovecot.webp",
+        "png": "/static/img/brands/dovecot.png",
+        "href": "https://www.dovecot.org/",
+        "title": "Dovecot – The secure IMAP server"
+    },
+    {
+        "id": 8,
+        "name": "Fair Trade ",
+        "webp": "/static/img/brands/fairtrade.webp",
+        "png": "/static/img/brands/fairtrade.png",
+        "href": "https://www.fairtrade.net/",
+        "title": "World Fair Trade Organization"
+    },
+    {
+        "id": 9,
+        "name": "Gentoo",
+        "webp": "/static/img/brands/gentoo.webp",
+        "png": "/static/img/brands/gentoo.png",
+        "href": "https://www.gentoo.org",
+        "title": "Welcome to Gentoo  a highly flexible  source-based Linux distribution."
+    },
+    {
+        "id": 10,
+        "name": "Jack Wolfskin",
+        "webp": "/static/img/brands/jack_wolfskin.webp",
+        "png": "/static/img/brands/jack_wolfskin.png",
+        "href": "https://www.jack-wolfskin.com/",
+        "title": "Your Everyday Companions"
+    },
+    {
+        "id": 11,
+        "name": "Rspamd",
+        "webp": "/static/img/brands/rspamd.webp",
+        "png": "/static/img/brands/rspamd.png",
+        "href": "https://rspamd.com/",
+        "title": "Fast free and Open Source filtering system"
+    },
+    {
+        "id": 12,
+        "name": "Sea Shepherd",
+        "webp": "/static/img/brands/sea_shepherd.webp",
+        "png": "/static/img/brands/sea_shepherd.png",
+        "href": "https://seashepherd.org/",
+        "title": "Sea Shepherd Conservation Society"
+    },
+    {
+        "id": 13,
+        "name": "Postfix",
+        "webp": "/static/img/brands/postfix.webp",
+        "png": "/static/img/brands/postfix.png",
+        "href": "http://www.postfix.org/",
+        "title": "Postfix MTA"
+    },
+    {
+        "id": 14,
+        "name": "Kinderhilfe Afganistan",
+        "webp": "/static/img/brands/kinderhilfe.webp",
+        "png": "/static/img/brands/kinderhilfe.png",
+        "href": "https://www.kinderhilfe-afghanistan.de/",
+        "title": "Kinderhilfe Afghanistan"
+    },
+    {
+        "id": 15,
+        "name": "Ärzte ohne Grenzen",
+        "webp": "/static/img/brands/msf.webp",
+        "png": "/static/img/brands/msf.png",
+        "href": "https://www.msf.org/",
+        "title": "An international independent medical humanitarian organisation"
+    },
+    {
+        "id": 16,
+        "name": "Gulp",
+        "webp": "/static/img/brands/gulp.webp",
+        "png": "/static/img/brands/gulp.png",
+        "href": "https://gulpjs.com/",
+        "title": "Automate and enhance your workflow"
+    },
+    {
+        "id": 17,
+        "name": "Sublime Text",
+        "webp": "/static/img/brands/sublime.webp",
+        "png": "/static/img/brands/sublime.webp",
+        "href": "https://www.sublimetext.com/",
+        "title": "A sophisticated text editor for code, markup and prose"
+    },
+    {
+        "id": 18,
+        "name": "Fit GmbH",
+        "webp": "/static/img/brands/fit.webp",
+        "png": "/static/img/brands/fit.webp",
+        "href": "https://www.fit.de",
+        "title": "FIT GmbH – DDR Geschichte lebt"
+    },
+    {
+        "id": 19,
+        "name": "Picum",
+        "webp": "/static/img/brands/picum.webp",
+        "png": "/static/img/brands/picum.webp",
+        "href": "https://picum.org",
+        "title": "Platform for international cooperation on undocumented migrants"
+    },
+    {
+        "id": 20,
+        "name": "SOSF",
+        "webp": "/static/img/brands/ssf.webp",
+        "png": "/static/img/brands/ssf.webp",
+        "href": "https://www.sosf.ch",
+        "title": "Solidarité sans frontières"
+    }
+]

@@ -11,12 +11,19 @@ gulp.task('picture', gulp.series(function() {
         .pipe(gulp.dest(config.scripts.out));
 }));
 
+// html5shiv
+gulp.task('html5shiv', gulp.series(function() {
+    return gulp.src([
+            './bower_components/html5shiv/dist/html5shiv.min.js'
+        ])
+        .pipe(gulp.dest(config.scripts.out));
+}));
+
 // scripting for development
 gulp.task('devel-js', gulp.series(function() {
     return gulp.src([
             './bower_components/jquery/dist/jquery.js',
             './bower_components/svgxuse/svgxuse.js',
-            //'./static/static/js/twitter-carousel.js',
             './static/static/js/app.js'
         ])
         .pipe(concat('site.js'))
@@ -24,11 +31,10 @@ gulp.task('devel-js', gulp.series(function() {
 }));
 
 // scripting for production system
-gulp.task('prod-js', gulp.series('picture', function() {
+gulp.task('prod-js', gulp.series('picture', 'html5shiv', function() {
     return gulp.src([
             './bower_components/jquery/dist/jquery.js',
             './bower_components/svgxuse/svgxuse.js',
-            //'./static/static/js/twitter-carousel.js',
             './static/static/js/app.js'
         ])
         .pipe(concat('site.js'))

@@ -45,3 +45,6 @@ other = "Gallery"
 
 [source]
 other = "Sources"
+
+[aboutbrands]
+other = "Software I use and organization I support"
