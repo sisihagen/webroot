@@ -34,6 +34,8 @@ publishDir = "public/build"
         DefaultContentLanguage = "de"
         defaultContentLanguageInSubdir = true
         languageName = "Deutsch"
+        languageCode = "de"
+        contentDir = "content/de"
         weight = 1
 
         [languages.de.params]
@@ -69,6 +71,8 @@ publishDir = "public/build"
         DefaultContentLanguage = "en"
         defaultContentLanguageInSubdir = true
         languageName = "English"
+        languageCode = "en"
+        contentDir = "content/en"
         weight = 2
 
         [languages.en.params]
@@ -104,6 +108,8 @@ publishDir = "public/build"
         DefaultContentLanguage = "fr"
         defaultContentLanguageInSubdir = true
         languageName = "Français"
+        languageCode = "fr"
+        contentDir = "content/fr"
         weight = 3
 
         [languages.fr.params]
@@ -139,6 +145,8 @@ publishDir = "public/build"
         DefaultContentLanguage = "ru"
         defaultContentLanguageInSubdir = true
         languageName = "Русский"
+        languageCode = "ru"
+        contentDir = "content/ru"
         weight = 2
 
         [languages.ru.params]
