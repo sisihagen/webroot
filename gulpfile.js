@@ -46,7 +46,7 @@ function style() {
 
 // javascript
 function script() {
-  return src('./bower_components/jquery/dist/jquery.js', './bower_components/svgxuse/svgxuse.js', './static/static/js/app.js')
+  return src(['./bower_components/jquery/dist/jquery.js', './bower_components/svgxuse/svgxuse.js', './static/static/js/app.js'])
   .pipe(gp())
   .pipe(cc('site.js'))
   .pipe(dest('./static/static/js'))
@@ -116,7 +116,7 @@ function bump() {
 
 function add() {
     return src('./')
-      .pipe(git.add());
+      .pipe(gi.add());
 }
 
 function commit() {
