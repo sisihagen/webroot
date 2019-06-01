@@ -150,7 +150,7 @@ function watchfiles() {
 const html = parallel(de, en, fr, ru);
 
 // build task
-const build = series(clean, hugo, folder, parallel(style, script, images, html), assets, deploy);
+const build = series(clean, hugo, folder, parallel(style, script, images, html), assets);
 
 // git task
 const git = series(bump, add, commit, push);
