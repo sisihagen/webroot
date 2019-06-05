@@ -1,34 +1,30 @@
 @charset "utf-8";
 
-$rwd-map: (
-  'compact': 320px 999px,
-  'regular': 1000px
-);
+// normalize
+@import "_includes/normalize";
 
+// helpers
 @import "_includes/color";
-
-// https://github.com/bkzl/hocus-pocus
-@import "../../../bower_components/hocus-pocus/hocus-pocus";
+@import "_includes/helpers";
+@import "_includes/rwd";
 
 // settings
-@import "_includes/fonts";
 @import "_includes/settings";
-@import "_includes/brands";
 
-// own layout
-@import "_includes/layout/article";
-@import "_includes/layout/aside";
-@import "_includes/layout/footer";
-@import "_includes/layout/header";
-@import "_includes/layout/main";
-@import "_includes/layout/nav";
-@import "_includes/layout/section";
+// layout
+@import "_includes/_layout/article";
+@import "_includes/_layout/aside";
+@import "_includes/_layout/footer";
+@import "_includes/_layout/header";
+@import "_includes/_layout/main";
+@import "_includes/_layout/nav";
+@import "_includes/_layout/section";
 
 // modules
-@import "_includes/modul/pagination";
-@import "_includes/modul/tags";
-@import "_includes/modul/svg";
-@import "_includes/modul/quote";
-@import "_includes/modul/top";
-@import "_includes/modul/youtube";
-@import "_includes/modul/cookie";
+@import "_includes/_modul/brands";
+@import "_includes/_modul/cards";
+@import "_includes/_modul/pagination";
+@import "_includes/_modul/svg";
+@import "_includes/_modul/tags";
+@import "_includes/_modul/top";
+@import "_includes/_modul/youtube";

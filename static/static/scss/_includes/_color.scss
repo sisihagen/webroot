@@ -17,27 +17,19 @@ $color-darker-gray: #1a1918 !default;
 $color-body: $color-black !default;
 $color-text: $color-light-gray !default;
 
-// define color for elements
+// section colored
 .one {
-  background: lighten($color-dark-black, 10%);
+	background: darken($color-dark-gray, 2%);
 }
 
 .two {
-  background: lighten($color-dark-black, 20%);
+	background: darken($color-dark-gray, 4%);
 }
 
 .three {
-  background: lighten($color-dark-black, 30%);
+	background: darken($color-dark-gray, 6%);
 }
 
 .four {
-  background: lighten($color-dark-black, 40%);
-}
-
-.five {
-  background: lighten($color-dark-black, 50%);
-}
-
-.article-header .icon {
-  fill: white;
+	background: darken($color-dark-gray, 8%);
 }

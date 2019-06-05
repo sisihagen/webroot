@@ -1,44 +1,32 @@
 $(document).ready(function() {
-  // cookie overlay
-
-  if(document.cookie.indexOf('hidecookiedingsbums=1') != -1){
-    jQuery('#cookiedingsbums').hide();
-  }
-  else{
-    jQuery('#cookiedingsbums').prependTo('body');
-    jQuery('#cookiedingsbumsCloser').show();
-  }
-
-  // if javascript active remove hidden class for home > social class
-  $('.social').removeClass('hidden');
 
   // if we have desktop
   if($('body').innerWidth() > 1000) {
+
+    // disable link highligthing
+    $('article a').addClass('nostyle');
+
+    // build grid system, left text, right picture and source
+    $('.article__source').removeClass('hidden');
+    $('.article__gallery').removeClass('hidden');
 
     // image and links to aside
     $("article a").each(function (idx, ele) {
         var newele = $(ele).clone();
         newele.text($(ele).prop("title"));
-        $("aside div.linklist").append(newele);
+        $("aside div.article__source").append(newele);
     });
     $("article img").each(function (idx, ele) {
-        $("aside div.gallery").append($(ele));
+        $("aside div.article__gallery").append($(ele));
     });
 
-    // disable link highligthing
-    $('.article-wrapper a').addClass('nostyle');
-
-    // if javascript active remove hidden class for linklist and gallery in aside of article
-    $('.linklist').removeClass('hidden');
-    $('.gallery').removeClass('hidden');
-
     // check if linklist and gallery have values
-    if ($('.gallery').children().length <=1) {
-      $('.gallery').hide();
+    if ($('.article__gallery').children().length <=1) {
+      $('.article__source').hide();
     }
 
-    if ($('.linklist').children().length <=1) {
-      $('.linklist').hide();
+    if ($('.article__source').children().length <=1) {
+      $('.article__source').hide();
     }
   }
 

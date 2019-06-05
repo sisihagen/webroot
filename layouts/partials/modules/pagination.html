@@ -19,19 +19,12 @@
 
 <!-- If there's more than one page. -->
 {{ if gt $paginator.TotalPages 1 }}
-<div class="pagination padding-bottom">
-
-    <!-- First page. -->
-    {{ if ne $paginator.PageNumber 1 }}
-      <a class="pagination__first btn btn-brand btn-outline padding-1/2" href="{{ $paginator.First.URL }}">
-        ««
-      </a>
-    {{ end }}
+<div class="blog__pagination">
 
     <!-- Previous page. -->
     {{ if $paginator.HasPrev }}
-      <a href="{{ $paginator.Prev.URL }}" class="pagination__previous btn btn-brand btn-outline padding-1/2">
-        «
+      <a href="{{ $paginator.Prev.URL }}" class="pagination__previous">
+        Prev
       </a>
     {{ end }}
 
@@ -84,7 +77,7 @@
 
       <!-- Output page numbers. -->
       {{ if eq ($.Scratch.Get "page_number_flag") true }}
-          <a href="{{ .URL }}" class="btn btn-brand btn-outline padding-1/2 pagination__item{{ if eq . $paginator }} pagination__current{{ end }}">
+          <a href="{{ .URL }}" class="pagination__item{{ if eq . $paginator }} pagination__current{{ end }}">
             {{ .PageNumber }}
           </a>
       {{ end }}
@@ -93,15 +86,8 @@
 
     <!-- Next page. -->
     {{ if $paginator.HasNext }}
-      <a href="{{ $paginator.Next.URL }}" class="btn btn-brand btn-outline padding-1/2 pagination__next">
-        »
-      </a>
-    {{ end }}
-
-    <!-- Last page. -->
-    {{ if ne $paginator.PageNumber $paginator.TotalPages }}
-      <a class="btn btn-brand btn-outline padding-1/2 pagination__last" href="{{ $paginator.Last.URL }}">
-        »»
+      <a href="{{ $paginator.Next.URL }}" class="pagination__next">
+        Next
       </a>
     {{ end }}
 </div>

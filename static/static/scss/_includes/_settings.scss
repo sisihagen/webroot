@@ -1,22 +1,27 @@
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+*, html {
+  box-sizing: border-box;
+}
+
 body {
-    font-family: "opensans";
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: "roboto";
-}
-
-blockquote {
-    font-family: "hackregular";
-    font-size: 0.7em;
+  font-family: "Open Sans";
+  color: $color-light-gray;
+  background-color: $color-dark-gray;
+  position: relative;
 }
 
 img {
-  max-width: 100%;
+  box-sizing: content-box;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 
-    @include rwd('compact') {
-      width: 100%;
-    }
+a {
+  text-decoration: none;
 }
 
 .nostyle {

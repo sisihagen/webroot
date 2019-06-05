@@ -1,0 +1,18 @@
+main.grid {
+
+	@include breakpoint('m') {
+		display: flex;
+	}
+
+	section,article,aside {
+		@include breakpoint('m') {
+			width: 50%;
+		}
+	}
+
+	aside {
+		@include breakpoint('m') {
+			text-align: center;
+		}
+	}
+}

@@ -1,8 +1,10 @@
-<div class="tags padding-1/2">
-  <h4>Tags</h4>
+<div class="blog__tags">
 {{ range $.Site.Taxonomies.tags.ByCount }}
-{{ if gt .Count 1 }}
-  <a class="text-capitalize text-small margin-1/2 padding-1/2  btn btn-brand btn-outline" href="/tags/{{ .Name }}"> {{ .Name }} <span>({{ .Count }})</span></a>
-{{ end }}
+  {{ if gt .Count 1 }}
+    <a href="/tags/{{ .Name }}">
+      <span class="text">{{ .Name }}</span>
+      <span class="count">{{ .Count }}</span>
+    </a>
+  {{ end }}
 {{ end }}
 </div>

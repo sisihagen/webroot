@@ -1,0 +1,11 @@
+.brands {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+
+    img {
+      width: 200px;
+      height: auto;
+      margin: 1rem;
+    }
+}

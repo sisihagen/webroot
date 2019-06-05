@@ -1,32 +1,26 @@
-<section class="home-section blog one grid grid-center grid-compact-stack padding no-margin">
+<section class="one cards">
 {{ .Content }}
 {{ range first 3 (where .Pages "Type" "blog") }}
-  <article class="blog-card grid-item 1/4 compact-1/1 margin compact-no-margin">
+  <article class="card">
     <a href="{{ .Permalink }}" title="{{ .Title }}">
-      {{ if .Params.cover }}
+    {{ if .Params.cover }}
       <picture>
         <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
         <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">
         <img src="/static/img/cover/{{.Params.cover}}.jpg" alt="Cover">
       </picture>
-      {{ end }}
-      <div class="card-header">
-        <h4 class="text-center"> {{ .Title }} </h4>
-      </div>
-
-      <div class="card-content padding-1/2">
-        <p>
-          {{ .Params.shorttext }}
-        </p>
-      </div>
-
-      <div class="card-footer padding-1/2">
-        <time class="text-micro text-light" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-          <svg class="icon-clock2">
-            <use xlink:href="/static/img/symbol-defs.svg#icon-clock2"></use>
-          </svg>
+    {{ end }}
+      <div class="card__header">
+        <h4 class="text-center" itemprop="headline">{{ .Title }}</h4>
+        <svg class="icon icon-clock2">
+          <use xlink:href="/static/img/symbol-defs.svg#icon-clock2"></use>
+        </svg>
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
           {{ .Date.Format "02.01.2006" }}
         </time>
+      </div>
+      <div class="card__content">
+        {{ .Params.shorttext }}
       </div>
     </a>
   </article>

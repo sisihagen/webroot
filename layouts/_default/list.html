@@ -1,41 +1,36 @@
 {{ define "main" }}
 
-<main class="grid compact-grid-stack no-margin no-padding" itemscope itemtype="http://schema.org/Blog">
-  <section class="one grid-item 3/4 compact-1/1 no-margin no-padding">
-    <section class="grid grid-center compact-grid-stack no-margin padding">
-    {{ .Content }}
-    {{ range (.Paginator 6).Pages }}
-      <article class="blog-card grid-item 1/3 compact-1/1 margin compact-no-margin">
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-
-          {{ if .Params.cover }}
-          <picture>
-            <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
-            <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">
-            <img src="/static/img/cover/{{.Params.cover}}.jpg" alt="Cover">
-          </picture>
-          {{ end }}
-          <div class="card-header">
-            <h4 class="text-center" itemprop="headline">{{ .Title }}</h4>
-          </div>
-          <div class="card-content padding-1/2 margin-bottom">
-            {{ .Params.shorttext }}
-          </div>
-          <div class="card-footer padding-1/2">
-            <svg class="icon icon-clock2">
-              <use xlink:href="/static/img/symbol-defs.svg#icon-clock2"></use>
-            </svg>
-            <time class="text-light text-micro" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-              {{ .Date.Format "02.01.2006" }}
-            </time>
-          </div>
-        </a>
-      </article>
-    {{ end }}
-    </section>
+<main class="grid">
+  <section class="one cards">
+  {{ .Content }}
+  {{ range (.Paginator 6).Pages }}
+    <article class="card">
+      <a href="{{ .Permalink }}" title="{{ .Title }}">
+      {{ if .Params.cover }}
+        <picture>
+          <source srcset="/static/img/cover/{{.Params.cover}}.webp" type="image/webp">
+          <source srcset="/static/img/cover/{{.Params.cover}}.jpg" type="image/jpeg">
+          <img src="/static/img/cover/{{.Params.cover}}.jpg" alt="Cover">
+        </picture>
+      {{ end }}
+        <div class="card__header">
+          <h4 class="text-center" itemprop="headline">{{ .Title }}</h4>
+          <svg class="icon icon-clock2">
+            <use xlink:href="/static/img/symbol-defs.svg#icon-clock2"></use>
+          </svg>
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+            {{ .Date.Format "02.01.2006" }}
+          </time>
+        </div>
+        <div class="card__content">
+          {{ .Params.shorttext }}
+        </div>
+      </a>
+    </article>
+  {{ end }}
   </section>
 
-  <aside class="two no-margin grid-item 1/4 compact-1/1">
+  <aside class="two">
     {{ partial "modules/tags.html" . }}
     {{ partial "modules/pagination.html" . }}
   </aside>

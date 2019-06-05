@@ -1,0 +1,52 @@
+.clearfix {
+  &::before,
+  &::after {
+    display: table;
+    content: ' ';
+  }
+
+  &::after {
+    clear: both;
+  }
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.visible,
+.block {
+  display: block !important;
+}
+
+.inline-block {
+  display: inline-block !important;
+}
+
+.inline {
+  display: inline !important;
+}
+
+.padding {
+  padding: 1rem;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.text-center {
+  text-align: center;
+}

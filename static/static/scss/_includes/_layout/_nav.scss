@@ -1,0 +1,51 @@
+nav {
+	text-align: center;
+	padding: 1rem 0px;
+
+	@include breakpoint('m') {
+		text-align: right;
+		width: 80%;
+		padding: 3rem 0px;
+	}
+
+	.menu__active {
+		color: lighten($color-light-gray, 10%);
+		text-decoration: none;
+
+		svg {
+			display: none;
+		}
+	}
+
+	a {
+		color: $color-light-blue;
+		padding-right: 1rem;
+
+		&:last-child {
+			padding-right: 0rem;
+		}
+
+		&:hover {
+			color: lighten($color-light-blue, 10%);
+		}
+
+		@include breakpoint('m') {
+			font-size: 2rem;
+			padding-right: 1.5rem;
+		}
+	}
+
+	.icon {
+	    display: inline-block;
+	    width: 1em;
+	    height: 1em;
+	    stroke-width: 0;
+	    stroke: $color-light-blue;
+	    fill: $color-light-blue;
+
+	    &:hover {
+	    	stroke: lighten($color-light-blue, 10%);
+	    	fill: lighten($color-light-blue, 10%);
+	    }
+	}
+}

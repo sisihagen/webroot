@@ -1,0 +1,32 @@
+aside {
+	position: relative;
+	padding: 1rem;
+
+	.blog__pagination,
+	.blog__tags {
+		text-align: center;
+	}
+}
+
+.article__source {
+  a {
+    display: block;
+    text-align: left;
+    color: $color-light-gray;
+
+    &:hover {
+      color: lighten($color-light-gray, 10%);
+      text-decoration: underline;
+    }
+
+    &:before {
+      content: "- ";
+    }
+  }
+}
+
+.article__gallery {
+  img {
+    padding: 1rem 0px;
+  }
+}

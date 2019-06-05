@@ -30,7 +30,7 @@ case "$1" in
     ;;
 
     *)
-        rsync -avuz --exclude "silviosiefke.ru" $workdir/ web:/var/www/
-        rsync -avuz --exclude "silviosiefke.de" --exclude "silviosiefke.fr" --exclude "silviosiefke.com" $workdir/ ru-web:/var/www/
+        rsync -avuz --exclude "silviosiefke.ru" --exclude "scss" $workdir/ web:/var/www/
+        rsync -avuz --exclude "scss" --exclude "silviosiefke.de" --exclude "silviosiefke.fr" --exclude "silviosiefke.com" $workdir/ ru-web:/var/www/
     ;;
 esac

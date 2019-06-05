@@ -48,3 +48,6 @@ other = "Sources"
 
 [aboutbrands]
 other = "Software I use and organization I support"
+
+[tags]
+other = "Tag"

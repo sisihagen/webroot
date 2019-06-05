@@ -8,27 +8,29 @@
       </picture>
     </section>
 
-    <main class="no-margin no-padding grid compact-grid-stack">
-      <article class="two no-margin padding grid-item 2/4 compact-1/1">
+    <main class="grid">
+      <article class="one padding">
 
         {{ .Content }}
 
       </article>
 
-      <aside class="three no-margin padding grid-item 2/4 compact-1/1">
+      <aside class="two">
         <p> {{ i18n "aboutbrands" }} </p>
 
-      <div class="gallery-brands">
-        {{ range $.Page.Site.Data.brands_about }}
-        <a href="{{ .href }}" title="{{ .title }}" target="_blank">
-          <picture>
-            <source srcset="{{ .webp }}" type="image/webp">
-            <source srcset="{{ .png }}" type="image/png">
-            <img src="{{ .png }}" alt="{{ .title }}">
-          </picture>
-        </a>
-        {{ end }}
-      </div>
+        <div class="brands">
+          <div class="gallery-brands">
+            {{ range $.Page.Site.Data.brands_about }}
+            <a href="{{ .href }}" title="{{ .title }}" target="_blank">
+              <picture>
+                <source srcset="{{ .webp }}" type="image/webp">
+                <source srcset="{{ .png }}" type="image/png">
+                <img src="{{ .png }}" alt="{{ .title }}">
+              </picture>
+            </a>
+            {{ end }}
+          </div>
+        </div>
       </aside>
     </main>
 

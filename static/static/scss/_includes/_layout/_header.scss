@@ -1,0 +1,27 @@
+header.main {
+	width: 100%;
+	
+	@include breakpoint('m') {
+		display: flex;
+	}
+
+	figure {
+		padding: 0;
+
+		img {
+			width: 115px;
+			height: 110px;
+			overflow: hidden;
+			margin: 0px auto;
+			display: block;
+
+			@include breakpoint('m') {
+				margin: 0;
+			}
+		}
+
+		@include breakpoint('m') {
+			width: 30%;
+		}
+	}
+}
