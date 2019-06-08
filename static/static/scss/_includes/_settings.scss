@@ -11,6 +11,7 @@ body {
   color: $color-light-gray;
   background-color: $color-dark-gray;
   position: relative;
+  line-height: 1.3rem;
 }
 
 img {
@@ -24,7 +25,61 @@ a {
   text-decoration: none;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  font-family: "belligerent";
+}
+
 .nostyle {
   color: inherit;
   text-decoration: none;
+}
+
+strong, em, small, code, hr {
+  line-height: 1;
+}
+
+strong {
+  font-weight: 600;
+}
+
+em {
+  font-style: italic;
+}
+
+a {
+  color: $color-light-blue;
+  text-decoration: none;
+  word-wrap: break-word;
+}
+
+sup, sub {
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -.4em;
+}
+
+sub {
+  bottom: -.25em;
+}
+
+blockquote {
+  padding-left: 1rem;
+  color: darken($color-light-gray, 10%);
+  border-left: .2rem solid $color-light-gray;
+
+  > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+code {
+  font-family: monospace, "hackregular";
+  white-space: nowrap;
+}
+
+pre code {
+  white-space: pre-wrap;
 }

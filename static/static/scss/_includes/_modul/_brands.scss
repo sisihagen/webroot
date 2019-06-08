@@ -1,11 +1,14 @@
 .brands {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
+  text-align: center;
 
     img {
-      width: 200px;
+      width: 150px;
       height: auto;
-      margin: 1rem;
+      padding: 1rem;
+
+
+      &:last-child {
+        padding-right: 0;
+      }
     }
 }
