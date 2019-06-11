@@ -22,7 +22,7 @@ $(document).ready(function() {
 
     // check if linklist and gallery have values
     if ($('.article__gallery').children().length <=1) {
-      $('.article__source').hide();
+      $('.article__gallery').hide();
     }
 
     if ($('.article__source').children().length <=1) {
