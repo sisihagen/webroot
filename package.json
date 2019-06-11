@@ -1,6 +1,6 @@
 {
   "name": "silviosiefke.com",
-  "version": "0.0.39",
+  "version": "0.0.40",
   "description": "Private Website ",
   "main": "index.html",
   "scripts": {
@@ -57,6 +57,7 @@
     "vinyl-buffer": "^1.0.1"
   },
   "dependencies": {
+    "extend": "^3.0.2",
     "npm-check-updates": "^3.1.10",
     "static-eval": "^2.0.2"
   }
