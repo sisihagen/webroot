@@ -46,7 +46,10 @@ function style() {
 
 // javascript
 function script() {
-  return src(['./bower_components/jquery/dist/jquery.js', './bower_components/svgxuse/svgxuse.js', './static/static/js/app.js'])
+  return src(['./node_modules/jquery/dist/jquery.js',
+              './node_modules/flexibility/flexibility.js',
+              './node_modules/svgxuse/svgxuse.js',
+              './static/static/js/app.js'])
   .pipe(gp())
   .pipe(cc('site.js'))
   .pipe(dest('./static/static/js'))
@@ -109,7 +112,7 @@ function deploy() {
 
 // release
 function bump() {
-   return src(['./bower.json', './package.json'])
+   return src(['./package.json'])
     .pipe(bu())
     .pipe(dest('./'));
 }
