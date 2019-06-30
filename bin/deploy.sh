@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 workdir=public/dest
 de=silviosiefke.de/htdocs

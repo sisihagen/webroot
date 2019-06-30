@@ -158,5 +158,13 @@
         "png": "/static/img/brands/ssf.webp",
         "href": "https://www.sosf.ch",
         "title": "Solidarité sans frontières"
+    },
+    {
+        "id": 21,
+        "name": "Stopp Ramstein",
+        "webp": "/static/img/brands/stopp_ramstein.webp",
+        "png": "/static/img/brands/stopp_ramstein.webp",
+        "href": "https://www.ramstein-kampagne.eu/",
+        "title": "STOPP RAMSTEIN - Kein Drohnenkrieg"
     }
 ]
