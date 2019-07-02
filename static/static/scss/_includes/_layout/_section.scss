@@ -15,10 +15,23 @@
     max-height: 500px;
   }
 
+  time, span {
+    font-size: 0.8rem;
+    display: block;
+
+      @include breakpoint('m') {
+        display: inline;
+      }
+  }
+
   span {
     &:last-child {
       text-transform: lowercase;
     }
+  }
+
+  h1 {
+    line-height: 2rem;
   }
 }
 
