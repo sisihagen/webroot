@@ -1,0 +1,58 @@
+---
+title: "L'Allemagne redéfinit le concept d'antisémitisme"
+date: 2019-07-07
+tags: "Société"
+shorttext: "La politique allemande suit de plus en plus les directives du lobby israélien: la critique de la politique d'occupation israélienne est l'antisémitisme"
+keywords: "Israel, Netanyahu, politique, antisémitisme, Juifs, Juifs, Boycott, Désinvestissement, Sanctions, Allemagne, Relgion"
+cover: society
+lang: fr
+draft: false
+---
+
+La critique de l'antisémitisme politique israélien ? J'ai critiqué la politique d'occupation à plusieurs reprises et je ne critique pas la religion qui est, comme nous le savons, librement choisie et devrait l'être. Je critique la politique allemande, la politique américaine et l'État d'Arabie saoudite. Que ce soit les chrétiens, les juifs, les musulmans ou les bouddhistes, quiconque tue, bloque et résiste à la répression n'est qu'un criminel et le crime n'a rien à voir avec la religion.
+
+Il est évident que l'antisémitisme réel tend à augmenter à nouveau - comme, malheureusement, d'autres types de racisme le font. Si, cependant, toute critique politique de la politique d'occupation de l'État d'Israel est déjà une expression de l'antisémitisme, alors le nombre de déclarations antisémites augmente précisément pour cette raison - et édulcorant le sens du mot. Bien qu'il ait été une fois dans les vieux livres l'antisémitisme n'est rien d'autre que la foi non judiciaire. Le terme a donc été mal utilisé et édulcoré à plusieurs reprises. 
+
+Il y a un mois, le Bundestag allemand a déclaré le BDS -[Boycott, Désinvestissement et Sanctions](https://fr.wikipedia.org/wiki/Boycott,_d%C3%A9sinvestissement_et_sanctions "Boycott, désinvestissement et sanctions") - mouvement un mouvement antisémite dans une procédure accélérée procédure. 240 intellectuels israéliens ont protesté contre cette décision par une lettre adressée au gouvernement fédéral allemand. Avez-vous pu le lire dans les journaux allemands et suisses ? Les médias font une courbe autour d'elle et d'éviter la question. De toute évidence, ils craignent que même un tel appel par les érudits juifs et israéliens pourrait être classé comme antisémite par la politique allemande "officielle".
+
+#### CALL TO THE FEDERAL GOVERNMENT OF 240 JEWISH AND ISRAELI SCIENTISTS: DO NOT USE -"BDS" WITH ANTIANTISEMITISMUS
+
+> Juin, 3 2019
+
+> À la mi-mai, des scientifiques juifs et israéliens, dont beaucoup sont spécialisés dans les domaines de la recherche sur l'antisémitisme, de l'histoire juive et de l'histoire de l'Holocauste, ont souligné la tendance alarmante et croissante, les partisans des droits de l'homme palestiniens comme antisémites étiquette. Cela a été fait dans un appel au Bundestag allemand pour plusieurs demandes déposées contre le mouvement pour le boycott, le désinvestissement et les sanctions (BDS) mesures. Beaucoup d'entre nous ont signé cet appel.
+
+> Le 15 mai, l'une de ces demandes, présentée par les groupes parlementaires de la CDU/CSU, du SPD, du FDP et de la ville de 90/Die Grunen, a été adoptée. Nous rejetons cette décision, qui est fondée sur la fausse accusation selon laquelle BDS en tant que tel est l'antisémitisme. Nous demandons au gouvernement fédéral de ne pas suivre cette décision et de lutter contre l'antisémitisme, tout en respectant et en protégeant la liberté d'expression et d'association, qui sont incontestablement attaquées.
+
+> Comme nous l'avons dit dans la déclaration précédente, nous considérons l'antisémitisme et toutes les formes de racisme et de fanatisme comme des menaces à combattre, et nous encourageons le gouvernement allemand et le Bundestag à le faire. Toutefois, la résolution du Bundestag ne soutient pas ce combat. Au contraire, il le sape.
+
+> Les opinions sur BDS sont très divergentes parmi les signataires de cet appel : certains peuvent soutenir BDS, tandis que d'autres le rejettent pour diverses raisons. Cependant, nous rejetons tous également l'affirmation trompeuse selon laquelle le BDS en tant que tel est antisémite, et nous affirmons que les boycotts sont un moyen légitime et non violent de résistance. Nous, y compris les principaux chercheurs sur l'antisémitisme, déclarons que, selon le contenu et le contexte de ses paroles et de ses actions, il faut être considéré comme un antisémite, qu'il s'agisse ou non de partisans du BDS.
+
+> Malheureusement, la décision ne tient pas compte du rejet explicite de « toutes les formes de racisme, y compris l'antisémitisme » par le mouvement BDS. Le mouvement BDS tente d'influencer la politique gouvernementale d'un État responsable de la poursuite de l'occupation et de la répression du peuple palestinien. Une telle politique ne peut être à l'abri des critiques. Dans ce contexte, il convient également de noter que de nombreux individus et groupes juifs et israéliens soutiennent explicitement ou défendent explicitement le droit au BDS. Nous considérons qu'il est inapproprié et offensant pour le gouvernement allemand et les institutions parlementaires de les marquer comme antisémites.
+
+> En outre, les trois principaux objectifs du BDS - la cessation de l'occupation, la pleine égalité des citoyens arabes d'Israel et le droit au retour des réfugiés palestiniens - correspondent au droit international, même si le troisième objectif est sans aucun doute digne de discussion. Nous sommes consternés que les demandes d'égalité des droits et de respect du droit international soient considérées comme antisémites.
+
+> Nous en arrivons à la conclusion que l'augmentation de l'antisémitisme n'est manifestement pas la préoccupation qui a inspiré la motion adoptée par le Bundestag. Au contraire, cette application est motivée par les intérêts politiques et les politiques du gouvernement le plus à droite d'Israel dans l'histoire du pays.
+
+> Pendant des années, le gouvernement israélien du Premier ministre Benjamin Netanyahu a qualifié d'antisémite toute opposition à sa politique illégale et respectueuse de la paix. Il ne peut s'étonner que Netanyahu a très bien accueilli la décision du Bundestag. Cela montre comment la lutte contre l'antisémitisme est utilisée pour protéger la politique du gouvernement israélien, qui provoque de graves violations des droits de l'homme et détruit les chances de paix. Nous considérons qu'il est inacceptable et absolument contre-productif que le soutien au « droit de l'État juif et démocratique d'Israel existe » et que la lutte contre l'antisémitisme favorise réellement cette politique.
+
+> En plus de tout cela, la motion adoptée ne fait pas de distinction entre Israel et les Territoires palestiniens occupés. Il condamne catégoriquement tous les boycotts d'entreprises et de biens israéliens, y compris les entreprises et les marchandises provenant de colonies israéliennes illégales. En conséquence, il envisagerait une campagne de boycott des produits d'une entreprise impliquée dans des violations des droits de l'homme dans un règlement comme antisémite. Il s'agit là d'un recul malheureux par rapport au rejet clair et constant du gouvernement allemand et de la politique de colonisation de l'UE.
+
+> En outre, la demande de déclarations relatives à la BDS d'être protégée par la liberté d'expression, confirmée par l'UE, ignore la détermination à protéger la liberté d'expression et d'association conformément à la Charte des droits fondamentaux de la l'Union européenne applicable sur le territoire des États membres de l'UE, y compris en ce qui concerne les actions BDS menées dans ce domaine». C'est précisément en raison de son histoire que l'Allemagne doit être très prudente à l'égard de se retirer de ces normes démocratiques fondamentales.
+
+> Enfin, le mélange du BDS et de l'antisémitisme ne favorise pas la lutte urgente contre l'antisémitisme. La menace antisémite ne provient pas des militants palestiniens des droits de l'homme, mais surtout des groupes d'extrême droite et djihadistes. Le déni de ce fait pourrait aliéner les musulmans et les Arabes de la lutte significative contre l'antisémitisme et entraver l'émergence d'une véritable solidarité entre juifs, Israéliens, musulmans et Arabes dans la lutte contre l'antisémitisme et d'autres formes de racisme. Il envoie également un faux message à ceux qui s'opposent à la répression du peuple palestinien par des moyens non violents.
+
+> Pour toutes ces raisons, nous, scientifiques juifs et israéliens, rejetons la proposition de la CDU/CSU, du SPD, du FDP et de l'Alliance 90/les Verts. Après la résolution du Bundestag, nous demandons maintenant au gouvernement fédéral de ne pas suivre cette motion et de ne pas assimiler bDS à l'antisémitisme. Au contraire, le gouvernement fédéral doit s'acquitter de sa responsabilité positive de promouvoir et de protéger la liberté d'expression et d'association.
+
+> Nous demandons également au gouvernement fédéral de maintenir son financement direct et indirect des organisations non gouvernementales israéliennes et palestiniennes, qui luttent pacifiquement contre l'occupation israélienne, de détecter de graves violations du droit international et de renforcer la société civile. Ces organisations défendent les principes et les valeurs qui sont au cœur de la démocratie libérale et de l'État de droit en Allemagne et ailleurs. Vous avez plus que jamais besoin d'un soutien financier et politique.
+
+> [Calling](https://drive.google.com/file/d/1T10VdI4VgWUC230lP3j4p3o4mVGAFm1S/view?usp=sharing "L'appel comme PDF original avec des signes")
+
+  - Est-ce une coïncidence que le S'ddeutsche Zeitung [sacked](https://www.tagesspiegel.de/gesellschaft/medien/nach-netanjahu-karikatur-sueddeutsche-zeitung-trennt-sich-von-dieter-hanitzsch/22579666.html "Dieter Hanitzsch") son caricaturiste Dieter Hanitzsch après vingt ans de travail avec Netanyahu sur la base d'un dessin animé?
+
+  - Est-ce une coïncidence que le New York Times, après un dessin animé montrant le président Trump en laisse d'un chien aveugle avec un visage Netanyahu, non seulement [fired](https://www.france24.com/fr/20190611-france-cartoonist-plantu-stupid-new-york-times-ban-netanyahu-moreira-antunes-chappatte 'Français cartoonist Plantu slams 'stupid' New York Times ban') the cartoonist Ant'nio Moreira Antunes, but even decided not tout le?
+
+  - Est-ce une coïncidence que cette décision du New York Times, qui a été critiquée presque dans le monde entier et a été critiquée en partie sévèrement, a été [défendue](https://www.nzz.ch/feuilleton/new-york-times-verzicht-auf-karikaturen-ist-nur-konsequent-ld.14888833 es geht um Journalismus 'berhaupt: warum die New York Times den logischen Schritt macht, wenn sie keine politischen Karikaturen mehr abdruckt') in the NZZ de tous les endroits? D'un journal qui dirige en grande partie la ligne politique d'Israel ?
+
+L'objectif du lobby israélien, à ce que la critique de la politique israélienne soit considérée comme de l'antisémitisme et n'ait donc pas sa place dans le débat public, a déjà été atteint presque dans le monde entier. Le fait que cet objectif soit très problématique, car il relativise le terme antisémitisme et détourne l'attention du contenu original du terme, ne semble guère déranger personne, du moins pas en Allemagne. L'antisémitisme doit être combattu, pas la critique de la politique d'occupation israélienne.
+
+Les célébrités du spectacle international, en particulier les chanteurs et les musiciens, sont souvent invités par le côté BDS de ne pas se produire en Israel. Aujourd'hui, [un groupe d'opposition](https://mondoweiss.net/2019/06/israeli-citizens-jennifer/ "Israeli citizens to Jennifer Lopez – Please cancel your concert in Tel Aviv") israélien a demandé à Jennifer Lopez d'annuler sa comparution à Tel Aviv. J'espère qu'elle suivra l'appel.

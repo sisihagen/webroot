@@ -2,7 +2,7 @@
 title: Europa nicht den Leyen überlassen
 date: 2019-07-04
 tags: "Staat"
-keywords: ""
+keywords: "Josep Borrell, Christine Madeleine Odette Lagarde, Charles Michel, Ursula von der Leyen, Europa, Europa Parlament, Europa Kommission, Europa Präsident"
 shorttext: "Kurze Anmerkungen zu den Personalvorschlägen des Rates. Korrigieren Sie mich gern, aber ein erster kurzer Überblick ergibt folgendes"
 cover: "repression"
 draft: false
