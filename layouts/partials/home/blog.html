@@ -12,9 +12,7 @@
     {{ end }}
       <div class="card__header">
         <h4>{{ .Title }}</h4>
-        <svg class="icon icon-clock2">
-          <use xlink:href="/static/img/symbol-defs.svg#icon-clock2"></use>
-        </svg>
+        <span class="icon-calendar" aria-hidden="true"></span>
         <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
           {{ .Date.Format "02.01.2006" }}
         </time>

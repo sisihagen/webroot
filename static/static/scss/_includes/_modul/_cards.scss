@@ -32,16 +32,7 @@
 				margin: 0;
 			}
 
-			.icon {
-				width: .6em;
-				height: .6em;
-				stroke: $color-light-gray;
-				fill: $color-light-gray;
-				margin: 0;
-				padding: 0;
-			}
-
-			time {
+			time, span {
 				font-size: .8rem;
 				font-weight: lighter;
 				padding: 0;

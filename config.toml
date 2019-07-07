@@ -44,26 +44,26 @@ publishDir = "public/build"
 
         [[languages.de.menu.main]]
         url = "/about/"
-        pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
+        pre = "icon-question"
         name = "Info"
         weight = 10
 
         [[languages.de.menu.main]]
         url = "/blog/"
-        pre = "<svg class=\"icon icon-paragraph-justify\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-paragraph-justify\"></use></svg>"
+        pre = "icon-blogger"
         name = "Blog"
         weight = 20
 
         [[languages.de.menu.main]]
         url = "https://twitter.com/SilvioSiefke"
-        pre = "<svg class=\"icon icon-twitter\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-twitter\"></use></svg>"
+        pre = "icon-twitter"
         name = "Twitter"
         weight = 30
 
         [[languages.de.menu.main]]
-        url = "https://github.com/sisihagen"
-        pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
-        name = "Github"
+        url = "https://gitlab.com/sisihagen"
+        pre = "icon-gitlab"
+        name = "Gitlab"
         weight = 40
 
     [languages.en]
@@ -81,26 +81,26 @@ publishDir = "public/build"
 
         [[languages.en.menu.main]]
         url = "/about/"
-        pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
+        pre = "icon-question"
         name = "About"
         weight = 10
 
         [[languages.en.menu.main]]
         url = "/blog/"
-        pre = "<svg class=\"icon icon-paragraph-justify\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-paragraph-justify\"></use></svg>"
+        pre = "icon-blogger"
         name = "Blog"
         weight = 20
 
         [[languages.en.menu.main]]
         url = "https://twitter.com/SilvioSiefke"
-        pre = "<svg class=\"icon icon-twitter\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-twitter\"></use></svg>"
+        pre = "icon-twitter"
         name = "Twitter"
         weight = 30
 
         [[languages.en.menu.main]]
-        url = "https://github.com/sisihagen"
-        pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
-        name = "Github"
+        url = "https://gitlab.com/sisihagen"
+        pre = "icon-gitlab"
+        name = "Gitlab"
         weight = 40
 
     [languages.fr]
@@ -118,26 +118,26 @@ publishDir = "public/build"
 
         [[languages.fr.menu.main]]
         url = "/about/"
-        pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
+        pre = "icon-question"
         name = "À Propos"
         weight = 10
 
         [[languages.fr.menu.main]]
         url = "/blog/"
-        pre = "<svg class=\"icon icon-paragraph-justify\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-paragraph-justify\"></use></svg>"
+        pre = "icon-blogger"
         name = "Blog"
         weight = 20
 
         [[languages.fr.menu.main]]
         url = "https://twitter.com/SilvioSiefke"
-        pre = "<svg class=\"icon icon-twitter\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-twitter\"></use></svg>"
+        pre = "icon-twitter"
         name = "Twitter"
         weight = 30
 
         [[languages.fr.menu.main]]
-        url = "https://github.com/sisihagen"
-        pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
-        name = "Github"
+        url = "https://gitlab.com/sisihagen"
+        pre = "icon-gitlab"
+        name = "Gitlab"
         weight = 40
 
     [languages.ru]
@@ -155,24 +155,24 @@ publishDir = "public/build"
 
         [[languages.ru.menu.main]]
         url = "/about/"
-        pre = "<svg class=\"icon icon-info-circle\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-info-circle\"></use></svg>"
+        pre = "icon-question"
         name = "О себе"
         weight = 10
 
         [[languages.ru.menu.main]]
         url = "/blog/"
-        pre = "<svg class=\"icon icon-paragraph-justify\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-paragraph-justify\"></use></svg>"
+        pre = "icon-blogger"
         name = "Блог"
         weight = 20
 
         [[languages.ru.menu.main]]
         url = "https://twitter.com/SilvioSiefke"
-        pre = "<svg class=\"icon icon-twitter\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-twitter\"></use></svg>"
+        pre = "icon-twitter"
         name = "Щебетать"
         weight = 30
 
         [[languages.ru.menu.main]]
-        url = "https://github.com/sisihagen"
-        pre = "<svg class=\"icon icon-github\"><use xlink:href=\"/static/img/symbol-defs.svg#icon-github\"></use></svg>"
-        name = "Github"
+        url = "https://gitlab.com/sisihagen"
+        pre = "icon-gitlab"
+        name = "Gitlab"
         weight = 40

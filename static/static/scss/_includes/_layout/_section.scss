@@ -2,12 +2,6 @@
   position: relative;
   color: lighten($color-light-gray, 50%);
 
-  .icon {
-    padding-top: .5rem;
-    stroke: lighten($color-light-gray, 50%);
-    fill: lighten($color-light-gray, 50%);
-  }
-
   img {
     background-size: cover;
     background-position: 50%;

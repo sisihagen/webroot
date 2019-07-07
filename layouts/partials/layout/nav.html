@@ -4,8 +4,8 @@
       {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
       {{ $active := in $current.RelPermalink (path.Dir .URL) }}
       <a href="{{ .URL }}" title="{{ .Name }}" {{ if $active }}class="menu__active"{{ end }}>
-        {{ .Pre }}
-        <span>{{ .Name }}</span>
+        <span class="{{ .Pre }}" aria-hidden="true"></span>
+        <span class="visuallyhidden"> {{ .Name }}</span>
       </a>
     {{ end }}
   </nav>

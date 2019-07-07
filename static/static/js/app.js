@@ -31,7 +31,7 @@ $(document).ready(function() {
   }
 
   // to top  button include
-  var back_to_top_button = ['<a href="#top" class="back-to-top"><svg class="icon icon-arrow-up" style="fill:black;width:2rem;height:2rem;"><use xlink:href="/static/img/symbol-defs.svg#icon-arrow-up"></use></svg></a>'].join("");
+  var back_to_top_button = ['<a href="#top" class="back-to-top"><span class="icon-arrow-up" aria-hidden="true"></a>'].join("");
   $("body").append(back_to_top_button)
 
   // hide the button
