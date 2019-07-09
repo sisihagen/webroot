@@ -1,6 +1,6 @@
 {
   "name": "silviosiefke.com",
-  "version": "0.0.47",
+  "version": "0.0.48",
   "description": "Private Website ",
   "main": "index.html",
   "scripts": {
@@ -55,7 +55,6 @@
     "postcss-flexibility": "^2.0.0",
     "postcss-opacity": "^5.0.0",
     "static-eval": "^2.0.2",
-    "svgxuse": "^1.2.6",
     "vinyl-buffer": "^1.0.1"
   },
   "dependencies": {}

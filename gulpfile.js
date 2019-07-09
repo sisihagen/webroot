@@ -48,7 +48,6 @@ function style() {
 function script() {
   return src(['./node_modules/jquery/dist/jquery.js',
               './node_modules/flexibility/flexibility.js',
-              './node_modules/svgxuse/svgxuse.js',
               './static/static/js/app.js'])
   .pipe(gp())
   .pipe(cc('site.js'))
