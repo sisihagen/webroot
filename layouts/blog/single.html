@@ -9,15 +9,11 @@
   </picture>
     <div class="article__header text-center">
       <h1> {{ .Title }}</h1>
-      <span class="icon-calendar" aria-hidden="true"></span>
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-        {{ .Date.Format "02.01.2006" }}
+        <i class="icon-calendar"></i> {{ .Date.Format "02.01.2006" }}
       </time>
-      <span>
-        <span class="icon-users" aria-hidden="true"></span>
-        Silvio Siefke
-      </span>
-      <span class="icon-folder-open" aria-hidden="true">#{{ .Params.tags }}</span>
+      <span aria-hidden="true"><i class="icon-users"></i> Silvio Siefke</span>
+      <span aria-hidden="true"><i class="icon-folder-open"></i> #{{ .Params.tags }}</span>
     </div>
 </section>
 

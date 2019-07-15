@@ -166,5 +166,13 @@
         "png": "/static/img/brands/stopp_ramstein.webp",
         "href": "https://www.ramstein-kampagne.eu/",
         "title": "STOPP RAMSTEIN - Kein Drohnenkrieg"
+    },
+    {
+        "id": 22,
+        "name": "Yarn ",
+        "webp": "/static/img/brands/yarn.webp",
+        "png": "/static/img/brands/yarn.webp",
+        "href": "https://yarnpkg.com",
+        "title": "FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT."
     }
 ]

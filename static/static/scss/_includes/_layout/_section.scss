@@ -10,11 +10,17 @@
   }
 
   time, span {
-    font-size: 0.8rem;
     display: block;
+    line-height: 1.5;
+    font-family: "hackregular";
+
+    &:before {
+      padding-left: 0.5rem;
+    }
 
       @include breakpoint('m') {
         display: inline;
+        padding-left: 1rem;
       }
   }
 

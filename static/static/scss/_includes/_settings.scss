@@ -66,9 +66,12 @@ sub {
 }
 
 blockquote {
-  padding-left: 1rem;
-  color: darken($color-light-gray, 10%);
+  padding-left: .5rem;
+  margin-left: 1rem;
+  color: darken($color-light-gray, 15%);
   border-left: .2rem solid $color-light-gray;
+  font-family: "hackregular";
+  font-size: 0.8rem;
 
   > *:last-child {
     margin-bottom: 0;
