@@ -1,9 +1,9 @@
 ---
-title: "Amnesty International"
-date: 2017-04-17
+title: "Der Weg ist mit Lügen gepflastert"
+date: 2017-07-21
 tags: "Gesellschaft"
-keywords: "NGO, AI, Amnesty International, Syrien, Krieg, Freiheit, Kritik, UN, Parteiisch, Berichte"
-shorttext: "Kritik an Amnesty wird wenig geübt und solche Organisation machen auch was diese wollen. Wieso hat ein NGO das Ziel Menschen zu stürzen?"
+keywords: ""
+shorttext: "Lügen gehört zur Condition humaine. Wenn Politiker das Lügen aber zum Geschäftsprinzip erheben, ist die Demokratie in Gefahr."
 draft: false
 lang: de
 cover: "society"
