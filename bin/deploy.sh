@@ -21,12 +21,12 @@ case "$1" in
     ;;
 
     ru)
-        rsync -avuzq --delete $workdir/$ru/ russia:/var/www/silviosiefke.ru/htdocs/
+        rsync -avuzq --delete $workdir/$ru/ ru-web:/var/www/silviosiefke.ru/htdocs/
     ;;
 
     st)
         rsync -avuzq --delete $workdir/$st/ web:/var/www/static.silviosiefke.com/htdocs/
-        rsync -avuzq --delete $workdir/$st/ russia:/var/www/static.silviosiefke.com/htdocs/
+        rsync -avuzq --delete $workdir/$st/ ru-web:/var/www/static.silviosiefke.com/htdocs/
     ;;
 
     *)

@@ -1,6 +1,6 @@
 ---
 title: "Der Weg ist mit Lügen gepflastert"
-date: 2017-07-21
+date: 2019-07-21
 tags: "Gesellschaft"
 keywords: "Trump, Johnson, Brexit, Lügen, Prime Minister, Minister, Präsident, USA, Krieg, Lügner"
 shorttext: "Lügen gehört zur Condition humaine. Wenn Politiker das Lügen aber zum 'Geschäftsprinzip' erheben, ist die Demokratie in Gefahr."
