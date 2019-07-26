@@ -13,6 +13,7 @@ aside {
     display: block;
     text-align: left;
     color: $color-light-gray;
+    line-height: 1.8;
 
     &:hover {
       color: lighten($color-light-gray, 10%);
@@ -20,7 +21,7 @@ aside {
     }
 
     &:before {
-      content: "- ";
+      content: "*";
     }
   }
 }

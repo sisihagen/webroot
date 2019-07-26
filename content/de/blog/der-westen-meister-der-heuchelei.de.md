@@ -9,7 +9,7 @@ draft: false
 lang: de
 ---
 
-Es gibt nicht nur die "[Ironie des Schicksals](https://www.youtube.com/watch?v=yGBxVkmKNHg "The Irony of Fate (1976) trailer")", wie die berühmte Filmkomödie von 1975 heisst, die noch heute in Russland an jedem Silvester im Fernsehen gezeigt wird. Es gibt auch die Ironie der Geschichte – und so eine läuft im Moment ab, nicht im Kino und nicht als Lustspiel. Im Gegenteil: in bitterer Realität.
+Es gibt nicht nur die "[Ironie des Schicksals](https://www.youtube.com/watch?v=yGBxVkmKNHg "The Irony of Fate 1976 trailer")", wie die berühmte Filmkomödie von 1975 heisst, die noch heute in Russland an jedem Silvester im Fernsehen gezeigt wird. Es gibt auch die Ironie der Geschichte – und so eine läuft im Moment ab, nicht im Kino und nicht als Lustspiel. Im Gegenteil: in bitterer Realität.
 
 Im Februar 1945, als die Kapitulation Hitlers in Sichtweite war, haben die drei Staatsführer Stalin, Churchill und Roosevelt in Jalta auf der Halbinsel Krim in absolut autokratischer und betont selbstherrlicher Manier festgelegt, wo künftig die Grenzen in Europa verlaufen sollen und wer wo das politische Sagen haben soll. Von Polen zum Beispiel wurde ein Teil der Sowjetunion zugeschlagen, dafür erhielt es einen "Ersatz" auf Kosten Deutschlands. Selbstbestimmung der Völker war kein Thema.
 
