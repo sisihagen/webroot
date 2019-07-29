@@ -72,10 +72,7 @@ blockquote {
   border-left: .2rem solid $color-light-gray;
   font-family: "hackregular";
   font-size: 0.8rem;
-
-  > *:last-child {
-    margin-bottom: 0;
-  }
+  position: relative;
 }
 
 code {
