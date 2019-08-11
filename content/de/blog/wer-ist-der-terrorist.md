@@ -11,7 +11,7 @@ lang: de
 
 #### Waffen
 
-Die [USA liefern Waffen](http://www.wsj.de/nachrichten/SB10001424052702303626804579511612341672666?mg=reno64-wsjde "USA liefern Waffen an Rebellen in Syrien "USA liefern Waffen an Syrien") an syrische Rebellen. [Deutschland liefert Waffen](http://www.themenportal.de/nachrichten/amnesty-prangert-deutsche-waffenexporte-nach-arabien-an-57058 "Amnesty prangert deutsche Waffenexporte nach Arabien an") an jedem der bezahlt um spielt sich anschließend  als Moralapostel auf. Der absolute Wahnsinn sind die gewünschten Waffenlieferungen der Welt an die irakischen Kurden. Wie war das mit der RAF? Die bekämpften das System mit Gewalt um sich Gehör zu verschaffen. Was waren das? Terroristen? 
+Die [USA liefern Waffen](https://www.morgenpost.de/printarchiv/politik/article124325956/USA-liefern-Waffen-an-syrische-Rebellen.html "USA liefern Waffen an Rebellen in Syrien") an syrische Rebellen. Deutschland liefert Waffen an jedem der bezahlt um spielt sich anschließend als Moralapostel auf. Der absolute Wahnsinn sind die gewünschten Waffenlieferungen der Welt an die irakischen Kurden. Wie war das mit der RAF? Die bekämpften das System mit Gewalt um sich Gehör zu verschaffen. Was waren das? Terroristen? 
 
 {{< youtube UuINWF6fyAs >}}
 

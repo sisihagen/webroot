@@ -85,7 +85,7 @@ Ceci est certainement pas une garantie d'une vie sans violence et de paix. Il es
         </li>
 
         <li>
-            2.) <a href="http://www.theguardian.com/world/2014/feb/25/oberndorf-german-town-armed-world-heckler-kock" title="A small village delivered death in the world">Heckler & Koch, SIG Sauer, Rheinmetall and KMW</a>
+            2.) <a href="https://www.theguardian.com/world/2014/feb/25/oberndorf-german-town-armed-world-heckler-kock" title="Oberndorf: the tiny German town that armed the world">Oberndorf: the tiny German town that armed the world</a>
         </li>
 
         <li>
@@ -149,11 +149,7 @@ Ceci est certainement pas une garantie d'une vie sans violence et de paix. Il es
         </li>
 
         <li>
-            18.) <a href="http://www.yadvashem.org/yv/en/holocaust/france/deportations.asp" title="Bericht über die Hilfe Frankreich zur Zeiten Hitler Deutschland">The Holocoust in France</a>
-        </li>
-
-        <li>
-            19.) <a href="http://www.humanityinaction.org/knowledgebase/567-the-nsu-a-revelation-of-germany-s-state-of-mind" title="The NSU – A revelation of Germany’s state of mind">The NSU – A revelation of Germany’s state of mind</a>
+            18.) <a href="https://www.yadvashem.org/holocaust/france.html" title="The Holocaust in France">The Holocaust in France</a>
         </li>
 
         <li>
@@ -170,9 +166,6 @@ Ceci est certainement pas une garantie d'une vie sans violence et de paix. Il es
 
         <li>
             23.) <a href="http://www.theguardian.com/world/2015/may/05/france-passes-new-surveillance-law-in-wake-of-charlie-hebdo-attack" title="France passes new surveillance law in wake of Charlie Hebdo attack">France passes new surveillance law in wake of Charlie Hebdo attack</a>
-        </li>        
-
-        <li>24.) <a href="http://www.bka.de/nn_195300/EN/Publications/AnnualReportsAndSituationAssessments/annualReportsAndSituationAssessments__node.html?__nnn=true" title="Publications of BKW">Publications of BKA </a></li>
-
+        </li>
     </ul>
 </div>

@@ -49,7 +49,7 @@ Si la majorité des femmes se trouvaient aux points cruciaux, il y aurait beauco
 
 Dans le Tagesschau à partir de mai, le 28 les «chiffres de croissance étonnamment positifs» de l'économie pour la première moitié de l'année 2019 ont été une fois de plus célébré sans critique. Aucun mot sur le fait que cette croissance est en grande partie "importé" grâce à la migration nette de plusieurs personnes par an. Et les travailleurs individuels apportent peu de croissance. Pour la première fois, le 15 mai, la BZ rapportait à ce sujet : "deux années perdues pour les employés". Serait ajouté: Mais en même temps des profits massifs pour les grands actionnaires.
 
-Ceux qui soulignent tout cela sont immédiatement pourris par le gouvernementaliste et les propagandistes des médias du système avec l'argument de l'homicide involontaire coupable "populisme". Par exemple, le Représentant de l'OMC et du WTI [Thomas Cottier](https://www.bernerzeitung.ch/schweiz/standard/die-schweiz-weiss-nicht-genau-wo-sie-hinwill/story/25844327 - "Die Schweiz weiss nicht genau, wo sie hinwill") récemment sur la radio: il a été heureux que son OMC ait maintenant été en mesure de réduire les droits de douane de 40 à seulement 4 pour cent. De plus en plus de pays en développement pourraient nous exporter leurs produits agricoles.
+Ceux qui soulignent tout cela sont immédiatement pourris par le gouvernementaliste et les propagandistes des médias du système avec l'argument de l'homicide involontaire coupable "populisme". Par exemple, le Représentant de l'OMC et du WTI [Thomas Cottier](https://www.bernerzeitung.ch/schweiz/standard/die-schweiz-weiss-nicht-genau-wo-sie-hinwill/story/25844327 "Die Schweiz weiss nicht genau, wo sie hinwill") récemment sur la radio: il a été heureux que son OMC ait maintenant été en mesure de réduire les droits de douane de 40 à seulement 4 pour cent. De plus en plus de pays en développement pourraient nous exporter leurs produits agricoles.
 
 #### Conséquences dévastatrices de la folie du commerce mondial
 
@@ -75,7 +75,7 @@ Cela s'applique en particulier au "libre-échange" des armes et des biens d'arme
 
 Concrètement, le budget militaire des "Russes si dangereux" atteint 70 milliards de dollars. À titre de comparaison, la puissance militaire américaine, qui est le [leader permanent de la guerre dans le monde](https://washingtonsblog.com/2015/02/america-war-93-time-222-239-years-since-1776.html "America Has Been At War 93% of the Time - 222 Out of 239 Years - Since 1776"). 650 milliards de dollars par an. Leur organisation terroriste Nato un total de 1000 milliards de dollars. Dans les médias occidentaux mainstream, la Chine, qui est constamment décrite comme "menaçant», est juste 250 milliards de dollars.
 
-{{< image srcwebp="/static/img/content/2019/63.webp" srcalt="/static/img/content/content/63.jpg" title="The U.S. Has Only Been At Peace For 21 Years Total Since Its Birth" >}}
+{{< image srcwebp="/static/img/content/2019/63.webp" srcalt="/static/img/content/2019/63.jpg" title="The U.S. Has Only Been At Peace For 21 Years Total Since Its Birth" >}}
 
 #### Chaque année, tout un peuple allemand en outre
 

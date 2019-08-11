@@ -13,7 +13,7 @@ The Rana Plaza disaster in Bangladesh in 2013 is still in bad memory. In the col
 
 {{< youtube "9Fkhzdc4ybw" >}}
 
-A [study by the University of California at Berkeley](https://silviosiefke.com/static/files/Tainted_Garments.pdf "Tainted Gamrments - The exploitation of woman and girls in Indias home based Garment Sector") now reveals a particular vulnerability: Exploitative and scandalous working conditions of the countless home workers who, on behalf of a hard-to-see web of subcontractors, are responsible for the Clothes companies. A team of researchers from the university personally interviewed 1,452 home workers, especially in northern India. It is one of the most comprehensive surveys directly of those affected.
+A [study by the University of California at Berkeley](https://silviosiefke.com/static/downloads/trainted-garments.pdf "Tainted Gamrments - The exploitation of woman and girls in Indias home based Garment Sector") now reveals a particular vulnerability: Exploitative and scandalous working conditions of the countless home workers who, on behalf of a hard-to-see web of subcontractors, are responsible for the Clothes companies. A team of researchers from the university personally interviewed 1,452 home workers, especially in northern India. It is one of the most comprehensive surveys directly of those affected.
 
 In India, around 13 million people, mostly girls and women, work in textile factories. But far more work in home work at home. It is mainly women and girls from historically oppressed ethnic communities or members of religious minorities.
 

@@ -15,7 +15,7 @@ cover: "repression"
 
 > Assad und Putin bomben Syrien zurück in die Steinzeit
 
-Im Jahr 1998 waren es die Grünen die nach Jahrzehnten einen [illgalen Krieg](http://www.amnesty.de/umleitung/1999/deu05/036 "JUGOSLAWIEN - DER KOSOVO-KRIEG UND DAS VÖLKERRECHT") gegen einen souveränen Staat führten. Der [Kosovokrieg](http://www.sueddeutsche.de/politik/kosovo-krieg-als-die-menschenrechte-schiessen-lernten-1.457678 "Als die Menschenrechte schießen lernten") und wohin hat das geführt? Der Kosovo ist das Zentrum der [Organisierten Kriminalität](https://www.proasyl.de/news/flucht-aus-dem-kosovo-armut-diskriminierung-perspektivlosigkeit/ "Flucht aus dem Kosovo: Armut, Diskriminierung, Perspektivlosigkeit"), ärmer und gefährlicher als er es vorher jemals war. Der erste Krieg mit dem Argument Menschenrecht.
+Im Jahr 1998 waren es die Grünen die nach Jahrzehnten einen [illgalen Krieg](http://www.ag-friedensforschung.de/rat/FRIKORR/deiseroth.html "Der Kosovo-Krieg und das Völkerrecht") gegen einen souveränen Staat führten. Der [Kosovokrieg](http://www.sueddeutsche.de/politik/kosovo-krieg-als-die-menschenrechte-schiessen-lernten-1.457678 "Als die Menschenrechte schießen lernten") und wohin hat das geführt? Der Kosovo ist das Zentrum der [Organisierten Kriminalität](https://www.proasyl.de/news/flucht-aus-dem-kosovo-armut-diskriminierung-perspektivlosigkeit/ "Flucht aus dem Kosovo: Armut, Diskriminierung, Perspektivlosigkeit"), ärmer und gefährlicher als er es vorher jemals war. Der erste Krieg mit dem Argument Menschenrecht.
 
 {{< image srcwebp="/static/img/content/2016/kosovowar.webp" srcalt="/static/img/content/2016/kosovowar.jpg" title="Beginn der Operation Allied Force am 24. März 1999" >}}
 

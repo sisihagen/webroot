@@ -9,7 +9,7 @@ lang: fr
 draft: false
 ---
 
-Il est souvent entendu et lu que les États-Unis sont en déclin. L’historien Münkler et le soi-disant penseur latéral [Dylan Grice](https://www.Handelsblatt.com/Finanzen/anlagestrategie/Trends/querdenker-Dylan-Grice-Ueber-die-USA-Amerika-ist-eine-nation-im-Niedergang/3390018.html "Amerika ist eine Nation im Niedergang") exprimé dans le sens de so, [Joschka Fischer] (https://www.Zeit.de/2018/11/USA-Donald-Trump-analyse-Joschka-Fischer "Abgesang auf Amerika") et maintenant aussi [Michael Lüders](https://www.IPG-journal.de/Regionen/global/Artikel/Detail/eine-Katastrophe-reicht-3382/ "Eine Katastrophe reicht"). La Chine est économiquement réussie, les demandes élevées sur les pays étrangers augmentent et des milliards investissent là, la Russie est mise à niveau et l’Inde va son propre chemin, la fin de l’empire américain n’a pas disparu! Les États-Unis sont actifs dans le monde entier et régissent l’Europe au plus petit. Les impérialistes sont tous extorquer, né cessaire, voler et tuer.
+Il est souvent entendu et lu que les États-Unis sont en déclin. L’historien Münkler et le soi-disant penseur latéral [Dylan Grice](https://www.handelsblatt.com/finanzen/anlagestrategie/trends/querdenker-dylan-grice-ueber-die-usa-amerika-ist-eine-nation-im-niedergang/3390018.html "Amerika ist eine Nation im Niedergang") exprimé dans le sens de so, [Joschka Fischer](https://www.zeit.de/2018/11/usa-donald-trump-analyse-joschka-fischer "Abgesang auf Amerika") et maintenant aussi [Michael Lüders](https://www.ipg-journal.de/Regionen/global/Artikel/Detail/eine-Katastrophe-reicht-3382/ "Eine Katastrophe reicht"). La Chine est économiquement réussie, les demandes élevées sur les pays étrangers augmentent et des milliards investissent là, la Russie est mise à niveau et l’Inde va son propre chemin, la fin de l’empire américain n’a pas disparu! Les États-Unis sont actifs dans le monde entier et régissent l’Europe au plus petit. Les impérialistes sont tous extorquer, né cessaire, voler et tuer.
 
 Le discours sur le déclin des Etats-Unis pour s’opposer à quelques faits et questions. Dans le monde entier pas de retraite, au contraire:
 
@@ -19,7 +19,7 @@ Le discours sur le déclin des Etats-Unis pour s’opposer à quelques faits et 
 
 {{< image srcwebp="/static/img/content/2019/45.webp" srcalt="/static/img/content/2019/45.jpg" title="The Nato is a Terrorist" >}}
 
-  - Les USA ont [investi](https://www.politifact.com/punditfact/Statements/2014/Mar/19/Facebook-Posts/United-States-spent-5-billion-Ukraine-anti-Governm/ "les Etats-Unis ont dépensé $5 milliards sur les émeutes anti-gouvernementales de l’Ukraine") $5 milliards dans le l’exécution de la Maidan pour rééduquer le peuple ukrainien et construire des permis d’ONG.
+  - Les USA ont [investi](https://www.politifact.com/punditfact/statements/2014/mar/19/facebook-posts/united-states-spent-5-billion-ukraine-anti-governm/ "The United States spent $5 billion on Ukraine anti-government riots") $5 milliards dans le l’exécution de la Maidan pour rééduquer le peuple ukrainien et construire des permis d’ONG.
 
   - Les États-Unis ont une grande influence sur les gouvernements individuels en Europe et aussi sur les institutions et les individus de l’UE.
 
@@ -29,7 +29,7 @@ Le discours sur le déclin des Etats-Unis pour s’opposer à quelques faits et 
 
   - Où sont les autres peuples indépendants et les États d’Amérique latine? Où le Chili et l’Argentine? Le Venezuela, Cuba, le Nicaragua et, au mieux, le Mexique sont toujours ressenties. Sinon, les États-Unis revendique la puissance indivise dans son arrière-cour-il y a plus de dix ans, il y a 20 ans et il y a 30 ans. On ne peut pas parler du déclin de l’influence américaine en Amérique latine.
 
-  - Dans le monde entier, les États-Unis prétend être en mesure de déterminer comment les autres peuples sont gouvernés. Ils ont mené les guerres à [changement de régime](https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change "participation des États-Unis dans le changement de régime") à la suite de millions de décès.
+  - Dans le monde entier, les États-Unis prétend être en mesure de déterminer comment les autres peuples sont gouvernés. Ils ont mené les guerres à [changement de régime](https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change "United States involvement in regime change") à la suite de millions de décès.
 
   - Les États européens, y compris la République fédérale d’Allemagne, sont impliqués dans la politique de changement de régime au Venezuela. En reconnaissant un président intérimaire douteux.
 

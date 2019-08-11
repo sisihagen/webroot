@@ -11,7 +11,7 @@ draft: false
 
 #### Obéissance absolue
 
-Un discours de pouvoir américain interdit aux banques suisses de tous les comptes de [Viktor Velkselberg](https://www.themoscowtimes.com/2018/06/05/swiss-banks-freeze-1bln-russian-oligarchs-accounts-over-us-sanctions-fears-a61681 -"Swiss Banks Freeze $1Bln of Russian Comptes de l'oligarque sur les craintes de sanctions américaines"), sibuting milliards d'entre eux en raison de l'ancien secret bancaire, et exigeant des Européens d'appliquer strictement des sanctions contre Poutine et l'Iran.
+Un discours de pouvoir américain interdit aux banques suisses de tous les comptes de [Viktor Velkselberg](https://www.themoscowtimes.com/2018/06/05/swiss-banks-freeze-1bln-russian-oligarchs-accounts-over-us-sanctions-fears-a61681 "Swiss Banks Freeze $1Bln of Russian Oligarch’s Accounts Over U.S. Sanctions Fears"), sibuting milliards d'entre eux en raison de l'ancien secret bancaire, et exigeant des Européens d'appliquer strictement des sanctions contre Poutine et l'Iran.
 
 Un porte-avions américain est-il monté sur le Rhin ? Des armes secrètes ont-elles été tirées ?
 

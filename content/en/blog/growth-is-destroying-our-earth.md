@@ -11,7 +11,7 @@ draft: false
 
 "Faster, further, higher!" So it stood large on a postcard that was already in circulation when the famous Club of Rome published its groundbreaking work "Limits of Growth" in 1972. At the bottom of it then the question: "But where?" Almost half a century earlier, the philosophers Ernst Bloch and Herbert Marcuse had analytically intensifished for criticism and differentiation by the term "progress". The saying is also decades old as a sticker: "We deal with this world, as if we had another one in the trunk."
 
-{{< image srcwebp="/static/img/content/2019/61.webp" srcalt="/static/img/content/2019/61.jpg" title="The Limits to Growth - The Limits to Growth (LTG) is a 1972 report[1] on the computer simulation of exponential economic and population growth with a finite supply of resources." >}}
+{{< image srcwebp="/static/img/content/2019/61.webp" srcalt="/static/img/content/2019/61.jpg" title="The Limits to Growth - The Limits to Growth is a 1972 report on the computer simulation of exponential economic and population growth with a finite supply of resources." >}}
 
 #### The climate is just the tip of the iceberg
 
@@ -35,9 +35,9 @@ At the same time, we consumers could easily do so. Three years without new cloth
 
 Without pointing out this systemic problem, [the magazine](https://www.dasmagazin.ch/aktuelles_heft/n23-3/ "Das Magazin Nr. 13") (No. 13) of the Tages-Anzeiger recently published a compilation of the environmental impact of individual consumption habits. Tastes: 
 
-  + A horse (formerly a farm animal with farmers and cavalrymen, today recreational and ornamental animals for women between the ages of 14 and 30) is about harming every year as much as if its keeper were driving 24,000 kilometres wide with her car ... (which she often does).
+  - A horse (formerly a farm animal with farmers and cavalrymen, today recreational and ornamental animals for women between the ages of 14 and 30) is about harming every year as much as if its keeper were driving 24,000 kilometres wide with her car ... (which she often does).
     
-  + Very bad: A café crème damages like a kilometre ride on the Range Rover (to the pickling ...).
+  - Very bad: A café crème damages like a kilometre ride on the Range Rover (to the pickling ...).
 
 This is very interesting. However, giving up ornamental animals or air travel remain only nice gestures to calm individual conscience.
 
@@ -75,7 +75,7 @@ This applies in particular to the "free trade" of arms and arms goods worldwide.
 
 In concrete terms, the military budget for "so dangerous Russians" reaches a good 70 billion dollars. By way of comparison, the US military power, which is the [world's permanent war leader](https://washingtonsblog.com/2015/02/america-war-93-time-222-239-years-since-1776.html "America Has Been At War 93% of the Time – 222 Out of 239 Years – Since 1776"), cost $650 billion a year. Their terrorist organization Nato a total of $1000 billion. In the Western Mainstream media, China, which is constantly described as "threatening", is just $250 billion.
 
-{{< image srcwebp="/static/img/content/2019/63.webp" srcalt="/static/img/content/content/63.jpg" title="The U.S. Has Only Been At Peace For 21 Years Total Since Its Birth" >}}
+{{< image srcwebp="/static/img/content/2019/63.webp" srcalt="/static/img/content/2019/63.jpg" title="The U.S. Has Only Been At Peace For 21 Years Total Since Its Birth" >}}
 
 #### Every year an entire German people additionally
 

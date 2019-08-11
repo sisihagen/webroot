@@ -9,7 +9,7 @@ draft: false
 lang: en
 ---
 
-Que ce soit au-delà des Océans: la mondialisation des marchés atteint une nouvelle dimension par la poussée de la Chine. Partout dans le monde, ingénieurs, architectes, mineurs, ogives, Bricklayers, soudeurs et travailleurs simples sous la direction de la Chine sur le projet mammouth "[New Silk Road] (http://China.org.CN/Business/node_7207419.htm "la ceinture économique de la route de la soie")" un réseau de commerce Intercontinental de l’avenir.
+Que ce soit au-delà des Océans: la mondialisation des marchés atteint une nouvelle dimension par la poussée de la Chine. Partout dans le monde, ingénieurs, architectes, mineurs, ogives, Bricklayers, soudeurs et travailleurs simples sous la direction de la Chine sur le projet mammouth "[New Silk Road](http://www.china.org.cn/business/node_7207419.htm "The Silk Road Economic")" un réseau de commerce Intercontinental de l’avenir.
 
 {{< image srcwebp="/static/img/content/2019/33.webp" srcalt="/static/img/content/2019/33.jpg" title="Silk Route by the side of Indus River" >}}
 
@@ -37,7 +37,7 @@ Lors de la construction du sud-américain TRANS-continental chemin de fer en Bol
 
 Mais quiconque veut construire une infrastructure en Amérique latine, en particulier dans les zones protégées où les agriculteurs ou les autochtones sont résidents, doit s’attendre à une résistance. En Bolivie, cette résistance est dirigée en particulier contre la construction d’une centrale hydroélectrique à l’est du pays et contre une autoroute traversant la zone protégée indigène et le parc national [Isiboro-Secure](http://www.parkswatch.org/parkprofile.php?l=eng&country=bol&park=isnp&page=inf# "Isiboro sécure") (Territorio Indígena y Parque Nacional Isiboro sécure, TIPNIS).
 
-{{< image srcwebp="/static/img/content/2019/36.webp" srcalt="/static/img/content/content/2019/36.jpg" title="Die Einwohner des TIPNIS-Nationalparks demonstrieren gegen die geplante Straße durch den Regenwald (© Marco Arnéz)" >}}
+{{< image srcwebp="/static/img/content/2019/36.webp" srcalt="/static/img/content/2019/36.jpg" title="" >}}
 
 La construction planifiée, qui n’est pas officiellement l’un des projets de l’IIRSA, mais relie deux des principaux axes, a dû être interrompue en raison des protestations des communautés indigènes.
 

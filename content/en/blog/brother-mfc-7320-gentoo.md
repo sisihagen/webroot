@@ -8,7 +8,7 @@ lang: en
 draft: false
 ---
 
-This tutorial want explain how i install the Brother MFC-7320 on [Gentoo Gnu/Linux](http://www.gentoo.org Gentoo Gnu/Linux "Gentoo Gnu/Linux"). For the installation you need [Cups](https://wiki.gentoo.org/wiki/Printing "Gentoo Printing Guide") and download the files from the [Brother Website](http://www.brother.com/html/product_support/index.htm "Brother Support Site"). When you the requirement fill then we want start with the installation. When you finished this steps then you can install the printer under cups and sane should run out of box.
+This tutorial want explain how i install the Brother MFC-7320 on [Gentoo Gnu/Linux](http://www.gentoo.org "Gentoo Gnu/Linux"). For the installation you need [Cups](https://wiki.gentoo.org/wiki/Printing "Gentoo Printing Guide") and download the files from the [Brother Website](http://www.brother.com/html/product_support/index.htm "Brother Support Site"). When you the requirement fill then we want start with the installation. When you finished this steps then you can install the printer under cups and sane should run out of box.
 
 1.) Files we need
 

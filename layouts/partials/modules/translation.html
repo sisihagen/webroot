@@ -1,0 +1,19 @@
+  <div class="translations__links">
+
+    {{ if .Params.de }}
+      <a href="{{ .Params.de }}" class="de">{{ .Params.title }}</a>
+    {{ end }}
+
+    {{ if .Params.en }}
+      <a href="{{ .Params.en }}" class="en">{{ .Params.title }}</a>
+    {{ end }}
+
+    {{ if .Params.fr }}
+      <a href="{{ .Params.fr }}" class="fr">{{ .Params.title }}</a>
+    {{ end }}
+
+    {{ if .Params.ru }}
+      <a href="{{ .Params.ru }}" class="fr">{{ .Params.title }}</a>
+    {{ end }}
+
+  </div>

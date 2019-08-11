@@ -37,7 +37,7 @@ During the construction of the South American TRANS-continental railway in Boliv
 
 But anyone who wants to build infrastructure in Latin America, especially in protected areas where farmers or indigenous people are resident, must expect resistance. In Bolivia, this resistance is directed in particular against the construction of a hydroelectric power plant in the east of the country and against a motorway crossing the Indigenous Protected Area and National Park [Isiboro-Secure] (http://www.parkswatch.org/parkprofile.php?l=eng&country=bol&park=isnp&page=inf# "Isiboro Sécure") (Territorio Indígena y parque nacional Isiboro Sécure, TIPNIS).
 
-{{< image srcwebp="/static/img/content/2019/36.webp" srcalt="/static/img/content/content/2019/36.jpg" title="Die Einwohner des TIPNIS-Nationalparks demonstrieren gegen die geplante Straße durch den Regenwald (© Marco Arnéz)" >}}
+{{< image srcwebp="/static/img/content/2019/36.webp" srcalt="/static/img/content/2019/36.jpg" title="Die Einwohner des TIPNIS-Nationalparks demonstrieren gegen die geplante Straße durch den Regenwald (© Marco Arnéz)" >}}
 
 The planned construction, which is not officially one of the IIRSA projects, but connects two of the main axes, had to be interrupted due to protests by the indigenous communities.
 

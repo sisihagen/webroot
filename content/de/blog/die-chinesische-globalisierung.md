@@ -37,7 +37,7 @@ Beim Bau der Südamerikanische Transkontinentalbahn spielt Bolivien eine zentral
 
 Doch wer in Lateinamerika Infrastruktur bauen will, insbesondere in geschützten Gebieten, wo Bauern oder Indigene ansässig sind, muss mit Widerstand rechnen. In Bolivien richtet sich dieser Widerstand insbesondere gegen den Bau eines Wasserkraftwerkes im Osten des Landes und gegen eine Autobahn, die quer durch das Indigenen-Schutzgebiet und Nationalpark [Isiboro-Secure](http://www.parkswatch.org/parkprofile.php?l=eng&country=bol&park=isnp&page=inf# "Isiboro Sécure") (Territorio Indígena y parque nacional Isiboro Sécure, TIPNIS), führen soll.
 
-{{< image srcwebp="/static/img/content/2019/36.webp" srcalt="/static/img/content/content/2019/36.jpg" title="Die Einwohner des TIPNIS-Nationalparks demonstrieren gegen die geplante Straße durch den Regenwald (© Marco Arnéz)" >}}
+{{< image srcwebp="/static/img/content/2019/36.webp" srcalt="/static/img/content/2019/^pg" title="Die Einwohner des TIPNIS-Nationalparks demonstrieren gegen die geplante Straße durch den Regenwald (© Marco Arnéz)" >}}
 
 Der geplante Bau, der offiziell zwar nicht zu den IIRSA-Projekten zählt, allerdings zwei der Hauptachsen miteinander verbindet, musste auf Grund von Protesten der indigenen Kommunen unterbrochen werden. 
 
