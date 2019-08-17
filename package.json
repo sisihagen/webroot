@@ -1,6 +1,6 @@
 {
   "name": "silviosiefke.com",
-  "version": "0.0.64",
+  "version": "0.0.65",
   "description": "Private Website ",
   "main": "index.html",
   "scripts": {
@@ -20,6 +20,7 @@
   "author": "Silvio Siefke <siefke@mail.ru> (http://www.silviosiefke.com)",
   "license": "SimPL-2.0",
   "devDependencies": {
+    "@hapi/hoek": "^8.2.1",
     "autoprefixer": "^9.6.0",
     "child_process": "^1.0.2",
     "cssnano": "^4.1.10",
@@ -43,7 +44,6 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "hoek": "^6.1.3",
     "html5shiv": "^3.7.3",
     "jquery": "^3.4.1",
     "merge-stream": "^2.0.0",
@@ -56,6 +56,5 @@
     "postcss-opacity": "^5.0.0",
     "static-eval": "^2.0.2",
     "vinyl-buffer": "^1.0.1"
-  },
-  "dependencies": {}
+  }
 }
