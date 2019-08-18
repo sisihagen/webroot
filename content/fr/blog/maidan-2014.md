@@ -25,7 +25,7 @@ Des hooligans et des radicaux de droite ont attaqué les policiers numériquemen
 
 Cette carte tirée des analyses ukrainiennes de l'Université de Brême, numéro 126, page 12, montre où les administrations régionales ont été prise d'assaut jusqu'au 27 janvier.
 
-{{< image srcwebp="/static/img/content/2019/120.webp" srcalt="/static/img/content/2019/120.jpg" title="Cette carte de l'Ukraine montre l'état des « actions de protestation » du 27 janvier 2014. A noter également la légende de la carte en bas à gauche, qui montre que la police a "violentement" tenté de mettre fin aux blocages dans certaines régions. L'adjectif «violent» est absent des occupations et des blocus par les combattants de Maïdan." >}}
+{{< image srcwebp="/static/img/content/2019/120.webp" srcalt="/static/img/content/2019/120.jpg" title="Cette carte de l'Ukraine montre l'état des « actions de protestation » du 27 janvier 2014. A noter également la légende de la carte en bas à gauche, qui montre que la police a 'violentement' tenté de mettre fin aux blocages dans certaines régions. L'adjectif «violent» est absent des occupations et des blocus par les combattants de Maïdan." >}}
 
 {{< image srcwebp="/static/img/content/2019/121.webp" srcalt="/static/img/content/2019/121.jpg" title="Des hommes armés masqués avec des symboles nazis tels que le Wolfsangel, photographié sur le bras supérieur du combattant sur la droite, mars à travers la ville de Luzk, dans l'ouest de l'Ukraine, le 19 février 2014. ils ont ensuite battu le gouverneur là-bas et l'a forcé à démissionner" >}}
 

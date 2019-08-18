@@ -1,6 +1,6 @@
 <section class="one cards">
 {{ .Content }}
-{{ range first 3 (where .Pages "Type" "blog") }}
+{{ range first 3 (where .Site.RegularPages "Type" "blog") }}
   <article class="card">
     <a href="{{ .Permalink }}" title="{{ .Title }}">
     {{ if .Params.cover }}
