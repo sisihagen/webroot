@@ -587,9 +587,9 @@ bump-regex@^3.1.1:
     xtend "^4.0.1"
 
 cacache@^12.0.0, cacache@^12.0.2:
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/cacache/-/cacache-12.0.2.tgz#8db03205e36089a3df6954c66ce92541441ac46c"
-  integrity sha512-ifKgxH2CKhJEg6tNdAwziu6Q33EvuG26tYcda6PT3WKisZcYDXsnEdnRv67Po3yCzFfaSoMjGZzJyD2c3DT1dg==
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-12.0.3.tgz#be99abba4e1bf5df461cd5a2c1071fc432573390"
+  integrity sha512-kqdmfXEGFepesTuROHMs3MpFLWrPkSSpRqOw80RCflZXy/khxaArvFrQ7uJxSUduzAufc6G0g1VUCOZXxWavPw==
   dependencies:
     bluebird "^3.5.5"
     chownr "^1.1.1"
@@ -1520,9 +1520,9 @@ ecc-jsbn@~0.1.1:
     safer-buffer "^2.1.0"
 
 electron-to-chromium@^1.3.191:
-  version "1.3.231"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.231.tgz#8e1998a97fb0bf473d8d08fa688dbbfd7ce6cc31"
-  integrity sha512-8yUPELSlg6IZSyx4llJK3Ru5xHwcUERCGJeHaRiLxy32HbSIp2uMK22Qqf2mQQY/LIU4D91xs2ikXVOf2SvSSw==
+  version "1.3.236"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.236.tgz#c7158cbd4d17a3670ac7c9b44da44d752aa193a9"
+  integrity sha512-LWOvuJ80pLO3FtFqTcGuXB0dxdMtzSCkRmbXdY5mHUvXRQGor3sTVmyfU70aD2yF5i+fbHz52ncWr5T3xUYHlA==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
@@ -2297,9 +2297,9 @@ gulp-bump@^3.1.3:
     through2 "^2.0.1"
 
 gulp-changed@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/gulp-changed/-/gulp-changed-4.0.0.tgz#6317372ecc99dbd1637ae855b985ba379e8c8a62"
-  integrity sha512-BiPKI25QMP48dMChfqPjKpv1a7BCT1ATg6ob2oKzS8iFE/gepVwwz3PgK4vvIOiUrPmhb/tDnXptZNHQ5kpB3g==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/gulp-changed/-/gulp-changed-4.0.1.tgz#ca63e51651a649433a49372d271b8b26054a9acc"
+  integrity sha512-VIy/woGGKBvUzj+KuL4C7ZZckT1pvy6pjIVNe8DaCrNvy7Nmh9UW/fZR73iQlOPA2U2/Sr3xLUX2RsSKwcnl/g==
   dependencies:
     make-dir "^3.0.0"
     plugin-error "^1.0.1"
@@ -4134,10 +4134,10 @@ npm-packlist@^1.1.12, npm-packlist@^1.1.6:
     ignore-walk "^3.0.1"
     npm-bundled "^1.0.1"
 
-npm-pick-manifest@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/npm-pick-manifest/-/npm-pick-manifest-2.2.3.tgz#32111d2a9562638bb2c8f2bf27f7f3092c8fae40"
-  integrity sha512-+IluBC5K201+gRU85vFlUwX3PFShZAbAgDNp2ewJdWMVSppdo/Zih0ul2Ecky/X7b51J7LrrUAP+XOmOCvYZqA==
+npm-pick-manifest@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/npm-pick-manifest/-/npm-pick-manifest-3.0.0.tgz#c94cab52d201a85875e45198fffe1a8a348e7af7"
+  integrity sha512-H+OnFudiq38Qj8P8xcesD/1Xa0Kvr2QRn1DTlephIwNfJg3P30Szc1wtpGEgdPXfAyKZKT2ajIM2X8YtCrbXrA==
   dependencies:
     figgy-pudding "^3.5.1"
     npm-package-arg "^6.0.0"
@@ -4374,9 +4374,9 @@ p-is-promise@^2.0.0:
   integrity sha512-Y3W0wlRPK8ZMRbNq97l4M5otioeA5lm1z7bkNkxCka8HSPjR0xRWmpCmc9utiaLP9Jb1eD8BgeIxTW4AIF45Pg==
 
 p-limit@^2.0.0, p-limit@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.2.0.tgz#417c9941e6027a9abcba5092dd2904e255b5fbc2"
-  integrity sha512-pZbTJpoUsCzV48Mc9Nh51VbwO0X9cuPFE8gYwx9BTCt9SF8/b7Zljd2fVgOxhIF/HDTKgpVzs+GPhyKfjLLFRQ==
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.2.1.tgz#aa07a788cc3151c939b5131f63570f0dd2009537"
+  integrity sha512-85Tk+90UCVWvbDavCLKPOLC9vvY8OwEX/RtKF+/1OADJMVlFfEHOiMTPVyxg7mk/dKa+ipdHm0OUkTvCpMTuwg==
   dependencies:
     p-try "^2.0.0"
 
@@ -4415,9 +4415,9 @@ package-json@^6.3.0:
     semver "^6.2.0"
 
 pacote@^9.5.4:
-  version "9.5.6"
-  resolved "https://registry.yarnpkg.com/pacote/-/pacote-9.5.6.tgz#1f749e25d82921941cf02e58e3312053940e5ea0"
-  integrity sha512-WyfTZU04KGx9h+ZD37vSmCK0KZMAPp2XTVhWdue7/1bAxBYM3YtyBGz1CNgiOvl3u5TYRT8RG4duhyXxQvaIxw==
+  version "9.5.8"
+  resolved "https://registry.yarnpkg.com/pacote/-/pacote-9.5.8.tgz#23480efdc4fa74515855c9ecf39cf64078f99786"
+  integrity sha512-0Tl8Oi/K0Lo4MZmH0/6IsT3gpGf9eEAznLXEQPKgPq7FscnbUOyopnVpwXlnQdIbCUaojWy1Wd7VMyqfVsRrIw==
   dependencies:
     bluebird "^3.5.3"
     cacache "^12.0.2"
@@ -4435,7 +4435,7 @@ pacote@^9.5.4:
     normalize-package-data "^2.4.0"
     npm-package-arg "^6.1.0"
     npm-packlist "^1.1.12"
-    npm-pick-manifest "^2.2.3"
+    npm-pick-manifest "^3.0.0"
     npm-registry-fetch "^4.0.0"
     osenv "^0.1.5"
     promise-inflight "^1.0.1"
@@ -6328,9 +6328,9 @@ util.promisify@~1.0.0:
     object.getownpropertydescriptors "^2.0.3"
 
 uuid@^3.3.2:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
-  integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.3.tgz#4568f0216e78760ee1dbf3a4d2cf53e224112866"
+  integrity sha512-pW0No1RGHgzlpHJO1nsVrHKpOEIxkGg1xB+v0ZmdNH5OAeAwzAVrCnI2/6Mtx+Uys6iaylxa+D3g4j63IKKjSQ==
 
 v8flags@^3.0.1:
   version "3.1.3"
