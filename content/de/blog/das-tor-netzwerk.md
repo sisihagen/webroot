@@ -1,10 +1,9 @@
 ---
 title: "Das Tor Netzwerk"
 date: 2012-12-01
-tags: Netzwerk
-keywords: "Tor, Tor Netzwerk, Anonym, Netzwerk, Zensur, Staat, Repression, Internet"
+tags: "Computer"
 shorttext: "Tor ist nicht kriminell, Regierungen, Polizei, Geheimdiense, Militärs sind die kriminellen die das Volk durch Repression kriminalisieren ..."
-cover: "network"
+cover: "computer"
 draft: false
 lang: de
 ---

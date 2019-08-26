@@ -1,10 +1,9 @@
 ---
 title: "Google, dont be evil"
 date: 2014-06-27
-tags: "Netzwerk"
-keywords: "Google, Weltmacht, Verlage, Böse, Schrecken, Deutschland, Geld, VG Media"
+tags: "Medien"
 shorttext: "Paranoide und unfähige Medien die das Internet seit der Entstehung als Feind sehen haben eine neue Verschwörung aufgedeckt. Google will Macht...."
-cover: "network"
+cover: "media"
 draft: false
 lang: de
 ---

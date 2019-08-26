@@ -15,10 +15,6 @@
     <meta name="description" content="{{ .Site.Params.description }}">
     {{ end }}
 
-    {{ if .Params.keywords }}
-    <meta name="keywords" content="{{ .Params.keywords }}">
-    {{ end }}
-
     {{ partial "modules/social" . }}
 
     <link rel="preload" href="/static/css/layout.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
