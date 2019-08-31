@@ -16,10 +16,9 @@ if [[ -d $st/js ]]; then
 fi
 
 if [[ -d $st/fonts ]]; then
-  find $st/fonts -type f -delete
-  cp $as/fonts/* $st/fonts
+  cp -ruv $as/fonts/* $st/fonts
 fi
 
 if [[ -d $as/downloads ]]; then
-  mkdir $st/downloads ; cp -r $as/downloads/* $st/downloads
+  cp -ruv $as/downloads/* $st/downloads
 fi
