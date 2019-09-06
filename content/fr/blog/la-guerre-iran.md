@@ -1,0 +1,77 @@
+---
+title: "La Guerre Iran"
+date: 2019-09-08
+tags: "Politique"
+shorttext: "Avec leur guerre économique contre L'Iran, les États-Unis attaquent aussi indirectement L'UE et augmentent sa dépendance."
+cover: "repression"
+draft: false
+lang: fr
+---
+
+Le gouvernement des États-Unis a pleinement mis en œuvre les sanctions contre L'Iran à la suite du retrait illégal International de l'accord nucléaire iranien en mai 2019. Depuis lors, elle poursuit une politique de "pression maximale" à l'égard de l'Iran, qui pourrait éventuellement conduire à une guerre iranienne. En fait, en 2006, au cours de la dernière année du mandat de George W. Bush, la communauté mondiale a été confrontée à une guerre en Iran.
+
+Avec ce projet, ils ont poursuivi l'objectif de consolider et d'étendre la suprématie mondiale absolue des États-Unis au cours de ce siècle. Bien que Barack Obama se soit déplacé à l'intérieur des structures déjà créées, il a réussi à ralentir un peu le projet Néocon du siècle américain.
+
+L'accord nucléaire iranien, qui a finalement été négocié avec succès, a été l'expression de la désescalade de la Confrontation massive des néo-conservateurs états-uniens, et a résulté de la coopération D'Obama avec L'UE et la branche réformatrice iranienne. En conséquence, le monde a ressenti une touche de détente, même L'Iran a été épargné une guerre pour le moment. Il est tout aussi important que, pour la première fois depuis sa création, l'UE ait la possibilité d'exercer un peu d'autonomie en matière de politique étrangère. En fait, l'UE a réussi à prendre la tête dans certains cas en résolvant un conflit mondial.
+
+#### Confrontation
+
+Toutefois, les néoconservateurs américains n'étaient pas aptes à la légère détente mondiale ni à ce que l'État central Iranien ne soit pas affecté en tant que puissance régionale forte défiant les intérêts américains du Moyen-Orient. Les néoconservateurs ne voulaient pas non plus accepter le fait que les forces sceptiques des États-Unis au sein de l'UE se retrouvent sur la voie de l'indépendance en matière de politique étrangère et que l'UE pourrait finalement sortir de toute sa dépendance structurelle vis-à-vis des États-Unis.
+
+Le bouclier nucléaire actuel, la dépendance énergétique-géopolitique et l'agitation monétaire-politique des Alliés occidentaux des États-Unis, rendent l'UE, malgré son importance en tant que plus grande économie du monde, totalement incapable d'action de politique étrangère, même un nombre aérien de politique mondiale. La faiblesse absolue de cet allié états-unien sur la force des États-Unis eux-mêmes. Si les trois dépendances de L'UE disparaissaient, la puissance mondiale concentrée de la suprématie américaine s'effondrerait comme décrit dans le scénario suivant.
+
+{{< youtube "cbiKAEM0rmI" >}}
+
+#### Les dépendances coloniales
+
+La défense nucléaire américaine est essentiellement la base structurelle de l'intégration de l'Europe en matière de sécurité dans l'OTAN. Sans ce bouclier, L'UE serait libre d'établir des structures de sécurité communes avec la Russie à travers l'Europe. Si la communauté mondiale pouvait gérer le chemin de l'énergie fossile à zéro conformément à L'accord de Paris sur la Protection du climat et passer à des sources d'énergie renouvelables décentralisées, alors toute l'infrastructure militaire créée par les États-Unis serait redondante pour la sécurité de l'approvisionnement énergétique des États occidentaux.
+
+Dans un tel cas, la base du commerce du pétrole basé sur le dollar serait également supprimée, et donc la demande croissante pour le Dollar et, enfin, son monopole en tant que monnaie mondiale. Ce scénario, comme indiqué ici, décrit le changement de l'ordre mondial qui est aujourd'hui dirigé par la suprématie américaine dans un nouvel ordre mondial.
+
+Dans un tel ordre mondial, l'humanité serait confrontée à un État-Unis complètement différent: un État-Unis avec un potentiel de puissance militaire nettement inférieur, et un État-Unis qui serait forcé de restructurer sa propre économie, loin des secteurs arriérés vers des secteurs économiques plus durables, sans les avantages économiques de son monopole sur la monnaie mondiale. Ainsi, l'émergence d'un monde multipolaire composé de trois centres, bien sûr, au détriment de l'absolue suprématie américaine, n'a plus d'obstacle.
+
+Une telle perspective avec les États-Unis en tant que puissance mondiale parmi d'autres puissances mondiales est pour l'idéologie super-impérialiste des élites de prisonniers sont, bien sûr, une vision d'horreur, et, par conséquent, inacceptable. De ce point de vue, la dénonciation de l'accord nucléaire iranien et la préparation conséquente de la guerre iranienne semblent être, fondamentalement, L'apanage de L'Amérique-de première ligne-dans son intégralité sous un jour nouveau. Donald Trump, avec sa politique de confrontation avec L'Iran, reprend le fil de la Politique néoconservatrice de domination exclusive des États-Unis exactement là où il a été temporairement interrompu par huit années d'administration Obama.
+
+Les élites du pouvoir au pouvoir dans le complexe militaro-industriel américain, dans le secteur de la finance et de l'énergie, ne pourraient-elles pas tout simplement vouloir tout faire, en fait tout, pour empêcher que la suprématie absolue des États-Unis ne soit lentement mais sûrement perdue dans un avenir proche?
+
+Pour la survie d'un gigantesque secteur de l'armement, alimenté uniquement par des conflits et des guerres mondiales, dépend essentiellement du fait que les États-Unis cimenteront leur suprématie absolue pour les décennies à venir. Il en va de même pour le maintien d'un secteur financier économiquement improductif et florissant uniquement parce qu'il détourne un immense pouvoir d'achat des secteurs productifs, mais qui est à l'origine du chômage, de la pauvreté et de la misère dans le monde entier.
+
+Le secteur de l'énergie nucléaire-fossile, qui n'a pas d'avenir face aux coûts de suivi nucléaire et aux problèmes de sécurité d'une part et au changement climatique d'autre part, ne peut également retarder son déclin que par la force en forçant les États-Unis dans la voie énergétique de la communauté mondiale. Enfin et surtout, les États-Unis sont la seule monnaie mondiale capable de commercialiser le Dollar, qui est l'Arme économique la plus efficace, tant qu'ils sont capables de faire de tous les États pétroliers, y compris L'Iran, en dernier ressort, par des bombes, leurs sujets et de veiller à ce que le commerce du pétrole se fasse dans le monde entier en dollars.
+
+Pour cela, leur suprématie absolue, les États-Unis ont besoin d'un gigantesque appareil militaire et de sécurité avec plus de 800 bases militaires sur la planète, qui dévore la moitié des coûts de la défense mondiale et évoque inévitablement de nouveaux conflits et guerres. En outre, ils ont également besoin de la mobilisation globale des instincts racistes agressifs, qui Trump a maintenant fait la base de sa stratégie politique interne de pouvoir.
+
+#### Erreur avec conséquences
+
+La brève évaluation du rôle des États - Unis dans le monde est le résultat de recherches approfondies et à long terme sur les interdépendances énergétiques mondiales, les interdépendances financières et de pouvoir dans l'histoire de l'économie mondiale capitaliste. Cependant, elle diffère significativement des Analyses populaires qui prévalent dans certaines parties de la gauche, qui contestent une contradiction structurelle entre le capitalisme américain et le capitalisme européen. Il est, bien sûr, indiscutable que les lois du marché, la maximisation du profit et la concurrence brutale sont propres à tous les États capitalistes en tant que mécanismes de régulation économique centrale et en tant que forces motrices.
+
+Toutefois, selon d'autres variables, ces lois économiques peut conduire à l'émergence de différents modèles capitalistes. Ces variables comprennent avant tout la taille du marché intérieur et le pouvoir d'intervention qui en découle sur le marché mondial, les fonctions géopolitiques, la taille du territoire, la puissance militaire, les structures coloniales et, enfin, les traditions culturelles spécifiques.
+
+Le capitalisme scandinave est, en raison de l'interaction de l'emplacement géographique sur le bord de l'Europe, les populations relativement petites et les marchés intérieurs et les caractéristiques culturelles spécifiques épargnées par les guerres dans leur ensemble, un capitalisme d'équilibre sans Expansion impérialiste reconnaissable. Le capitalisme allemand et japonais n'est pas militairement expansionniste en raison de son invasion militaire après la Seconde Guerre mondiale, mais en raison de sa situation géopolitique, de la force de ses populations et de la taille de ses marchés intérieurs, il est un capitalisme économique-impérialiste.
+
+Les deux états sont en mesure de surmonter les déséquilibres économiques internes de manière impérialiste, par exemple en exportant des excédents (ou du chômage) vers le marché mondial. Le capitalisme au Royaume-Uni et en France est similaire à celui de L'Allemagne et du Japon, un impérialiste économique, en raison de son histoire colonialiste, mais aussi un capitalisme militaro-impérialiste.
+
+D'un tout autre calibre, cependant, est le capitalisme américain. Non seulement en raison de la richesse des ressources et de la population ainsi que de sa gigantesque zone territoriale, le capitalisme américain s'est développé en un impérialisme agressif et militariste. Au cours de ses 242 années d'histoire en tant que Nation, les États-Unis n'ont passé que 16 ans en paix après Jimmy Carter.
+
+Le complexe militaro-industriel américain avec ses liens partiellement invisibles dans l'économie, le secteur nucléaire-fossile américain et le secteur énergétique dominé par le monde, et le secteur financier mondial avec le Dollar comme devise principale et un puissant levier de pouvoir ont transformé le capitalisme américain en un complexe de puissance super-impérialiste, en particulier après la Seconde Guerre mondiale, qui a maintenant transformé tous les autres capitalistes
+
+Le fait que les États-Unis représentent 20% du produit intérieur mondial, mais que leurs dépenses en armements représentent environ 50% des dépenses mondiales en armements, souligne de manière impressionnante le statut spécial du capitalisme américain dans le monde. Le projet Néocon du siècle américain ne signifie rien d'autre que de consolider ce statut très spécial des États-Unis au XXIe siècle, quoi qu'il en coûte. 
+
+L'équation du capitalisme américain avec les modèles européens du capitalisme est une erreur avec des conséquences et plutôt le résultat d'une illusion idéologique de la réalité et de la perspective, en ce qui concerne la construction d'un ordre mondial multipolaire plus démocratique, également contre-productif. L'analyse réaliste des structures super-impérialistes du capitalisme américain et des forces motrices du statut mondial spécial des Etats-Unis est la condition préalable pour les stratégies contre les Etats-Unis actuels. les guerres, comme la guerre imminente de L'Iran, pour la mise en application de la transition énergétique mondiale, et une protection efficace du climat et, non des moindres, également pour la construction d'un ordre mondial multilatéral. Tous ces projets ne peuvent pas être réalisés avec, mais seulement contre les néoconservateurs américains et les centres de pouvoir derrière eux.
+
+#### L'ancêtre de L'Amérique D'abord
+
+La Politique d'abord américaine est en réalité l'expression d'une stratégie méticuleusement pensée des trois Centres de pouvoir susmentionnés, afin de ne pas jeter les bases de leur suprématie absolue, à savoir les dépendances quasi colonialistes nucléaires, monétaires et énergétiques de leurs alliés occidentaux.
+
+Le retrait de L'accord de Paris sur la protection du climat, la fin du Traité FNI et la violation de l'accord Iran-nucléaire, qui est légitimé par le droit international, sont tous sur cette ligne. En sortant de l'accord sur le climat, L'élite néo-conservatrice veut avoir les mains libres pour la préservation, et même pour l'expansion des structures de dépendance aux fossiles. En annulant le contrat INF, il vise une nouvelle course aux armements nucléaires. Washington est sous le joug, il semble, en tout cas, tous les scrupules se sont débarrassés, si ouvertement que jamais auparavant utiliser le Dollar comme un levier économique efficace pour la pression maximale contre tous les partenaires commerciaux des États-Unis, y compris leurs propres alliés.
+
+Autre nouveauté, la position du président américain, qui n'hésite pas à violer plus clairement que jamais le droit international, comme dans le conflit avec L'Iran, et à démolir ainsi l'autorité des institutions internationales. Le retrait de L'accord nucléaire iranien, les sanctions iraniennes directes et leur application extraterritoriale, la menace d'une guerre d'agression contre L'Iran, d'autant plus que le président américain a menacé de mort à plusieurs reprises, tout cela représente une violation évidente du droit international selon L'avis des avocats internationaux contre les armes nucléaires (IALANA).
+
+À la lumière de cette analyse des sanctions massives contre la guerre économique menée par L'Iran est également une guerre économique indirecte contre les forces économiques et politiques de l'UE, qui sont placées aux États-Unis sceptiques.
+
+Avec sa politique de sanctions extraterritoriales, le gouvernement américain de l'UE tente d'imposer sa politique agressive de pression maximale sur L'Iran et d'entraîner l'UE dans un conflit militaire avec l'Iran dans le golfe Persique. Cela inclut le Sabotage de L'instrument financier INSTEX créé par L'UE, ainsi que le plan minutieusement esquissé par le conseiller de sécurité américain John Bolton par la saisie du pétrolier iranien Grace 1 à Gibraltar.
+
+La marine iranienne a répondu à la saisie avec l'établissement du pétrolier britannique Stena Impero dans le golfe Persique. En fait, outre les alliés de guerre volontaires au Moyen-Orient, John Bolton a besoin avant tout des états de l'UE, de préférence l'UE en tant qu'allié de guerre des États-Unis contre L'Iran. Il pourrait donc exhorter les sceptiques aux dirigeants américains à accepter la guerre en Iran et à créer le consensus américain interne sur la guerre.
+
+À cette fin, le camp de Bolton incite actuellement les forces et les médias conservateurs et militaristes transatlantiques de l'UE à former une alliance militaire dirigée par les États-Unis. Avec le nouveau Premier ministre britannique, Boris Johnson Bolton a déjà des alliés de guerre loyaux en Europe à ses côtés. C'est la mauvaise nouvelle. La bonne nouvelle, cependant, est que les sociaux-démocrates en Allemagne ont évidemment décidé de ne pas tomber dans le piège de Bolton.
+
+De cette façon, le mouvement international pour la paix dispose d'un levier efficace pour faire tomber le Plan Bolton et, en fin de compte, pour arrêter la machine de guerre contre L'Iran mise en marche. Le mouvement du SPD vers une position anti-guerre en est la preuve impressionnante. Il s'agirait désormais de permettre aux opposants à la guerre en Allemagne et dans l'UE de s'opposer à toute participation de la Marine allemande et de L'UE à une escalade militaire dans le golfe Persique, et de gagner tous les gouvernements de l'UE pour un " non " clair à la guerre en Iran.

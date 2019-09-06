@@ -1,6 +1,6 @@
 ---
 title: "Die Affen wollen den totalen Krieg"
-date: 2017-09-01
+date: 2019-09-02
 tags: "Gesellschaft"
 shorttext: "Die selternannte Alternative will zurück zum preußischen Militarismus und steht zum NATO Terrorisus."
 draft: false
@@ -74,4 +74,4 @@ Diese Auflistung ließe sich beliebig erweitern.
 
 Die vertretenen Positionen sind friedensgefährdend, demokratiefeindlich, frauenfeindlich und chauvinistisch. Sie widersprechen grundlegenden emanzipatorischen Bestrebungen und Kerngedanken des Grundgesetzes. Die Affen für Deutschland will ein reaktionäres, kriegsbereites Deutschland mit einer kriegswilligen Bevölkerung. Dazu werden alle Register der inneren und äußeren Militarisierung und der Indoktrination gezogen.
 
-Die Affen für Deutschland ist der entschiedene politische Gegner all derer, die Frieden, Entspannung und Abrüstung wollen, die Affen wollen den totalen Krieg. Wer das noch nicht begriffen hat ist wahrscheinlich selbst ein Faschist und Opfer deutscher Bildungspapier. Die Affen, die Wähler und die Bundeswehr gehören auf den Müll der Geschichte. 
+Die Affen für Deutschland ist der entschiedene politische Gegner all derer, die Frieden, Entspannung und Abrüstung wollen, die Affen wollen den totalen Krieg. Wer das noch nicht begriffen hat ist wahrscheinlich selbst ein Faschist und Opfer deutscher Bildungspolitik. Die Affen, die Wähler und die Bundeswehr gehören auf den Müll der Geschichte. 

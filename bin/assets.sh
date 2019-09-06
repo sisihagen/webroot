@@ -5,8 +5,7 @@ st="./public/dest/static.silviosiefke.com/htdocs"
 
 # copy static files
 if [[ -d $st/css ]]; then
-  find $st/css -type f -delete
-  cp $as/css/* $st/css
+  rsync -avuz $as/css/ $st/css/
 fi
 
 if [[ -d $st/js ]]; then
@@ -16,9 +15,9 @@ if [[ -d $st/js ]]; then
 fi
 
 if [[ -d $st/fonts ]]; then
-  cp -ruv $as/fonts/* $st/fonts
+  rsync -avuz $as/fonts/ $st/fonts/
 fi
 
 if [[ -d $as/downloads ]]; then
-  cp -ruv $as/downloads/* $st/downloads
+  rsync -avuz $as/downloads/ $st/downloads/
 fi

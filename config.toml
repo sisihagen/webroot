@@ -2,6 +2,7 @@ enableRobotsTXT = true
 pygmentsCodeFences = true
 pygmentsStyle = "vim"
 publishDir = "public/build"
+assetDir = "static"
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:title"
