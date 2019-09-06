@@ -9,7 +9,7 @@ draft: false
 lang: de
 ---
 
-Obama war angetreten als Nachfolger von G. W. Bush. Es besser zu machen als sein Vorgänger, dürfte nicht schwergefallen sein, jeder hätte es besser gemacht. Seinen Wahlkampf hat er mit der schwammigen Aussage „Yes, we can …“ bestritten.
+Obama war angetreten als Nachfolger von G. W. Bush. Es besser zu machen als sein Vorgänger, dürfte nicht schwergefallen sein, jeder hätte es besser gemacht. Seinen Wahlkampf hat er mit der schwammigen Aussage "Yes, we can …" bestritten.
 
 {{< image srcwebp="/static/img/content/2019/89.webp" srcalt="/static/img/content/2019/89.jpg" title="George W. Bush (l.) und Obama (r.)" >}}
 
@@ -40,13 +40,13 @@ Obama hat den Krieg in Afghanistan nicht wie versprochen beendet und auch nicht 
 
 #### Hass geschürt, Terrorismus begünstigt
 
-Auch den „Terrorismus“ wollte Obama, wie schon seine Vorgänger, bekämpfen. Stattdessen hat er den Grundstein für noch mehr Terrorismus geschaffen, indem er die Heimat von unzähligen Menschen auf der Welt zerstört und ihren Hass geschürt hat.
+Auch den "Terrorismus" wollte Obama, wie schon seine Vorgänger, bekämpfen. Stattdessen hat er den Grundstein für noch mehr Terrorismus geschaffen, indem er die Heimat von unzähligen Menschen auf der Welt zerstört und ihren Hass geschürt hat.
 
 Obama hat in Syrien Assad stürzen wollen und er hat damit das Land in einen nicht enden wollenden Krieg gestürzt. Sowohl die [Al-Nusra-Rebellen](https://orbisnjus.com/2017/09/21/usa-unterstuetzen-weiterhin-die-al-nusra/ "USA UNTERSTÜTZEN WEITERHIN DIE AL-NUSRA") wurden mutmaßlich von den USA aufgebaut als auch der sogenannte [Islamische Staat](https://taz.de/!5035404/ "Die doppelte Schuld der USA"), als Speerspitze gegen Präsident Assad. Obama hat geduldet, dass rechtskonservative Republikaner wie Frau [Nuland](https://www.spiegel.de/politik/ausland/diplomatischer-fauxpas-von-obama-beraterin-nuland-fuck-the-eu-a-952005.html "Fuck the EU") in ihrer Funktion als Verantwortliche im State-Department oder wie Samantha Power in der UN Einflussarbeit in anderen Ländern geleistet haben, um dort Regierungen entweder zu stürzen oder zu schützen, je nachdem, ob sie den Falken in den USA in ihr abstruses außenpolitisches Konzept der Weltbeherrschung passen oder nicht. Yes, we can …
 
 {{< youtube "PSf3efRVIFo" >}}
 
-Auch die NATO wurde in seiner Regierungszeit nicht aufgelöst, sondern sogar weiter ausgebaut. Die NATO hat sich „neue Aufgaben gesucht“ und sich, sehr zur Verärgerung der Russen, weiter nach Osten ausgedehnt. Die Beziehungen zu Russland sind so schlecht wie noch nie seit Anfang des Kalten Krieges – und dies, obwohl der russische Präsident Putin sowohl den USA und auch Europa immer wieder die Hand ausgestreckt und zu gemeinsamen Verhandlungen und Friedensmaßnahmen aufgefordert hat. Yes, we can …
+Auch die NATO wurde in seiner Regierungszeit nicht aufgelöst, sondern sogar weiter ausgebaut. Die NATO hat sich "neue Aufgaben gesucht" und sich, sehr zur Verärgerung der Russen, weiter nach Osten ausgedehnt. Die Beziehungen zu Russland sind so schlecht wie noch nie seit Anfang des Kalten Krieges – und dies, obwohl der russische Präsident Putin sowohl den USA und auch Europa immer wieder die Hand ausgestreckt und zu gemeinsamen Verhandlungen und Friedensmaßnahmen aufgefordert hat. Yes, we can …
 
 #### Kein Präsident der Afroamerikaner
 
@@ -64,12 +64,12 @@ Wenn Obama behauptet, die Arbeitslosigkeit in den USA sei seit seinem Amtsantrit
 
 Obama hat persönlich die Ermordung amerikanischer Staatsbürger und Tausender anderer Menschen auf der ganzen Welt durch Drohnen angeordnet, die für Folter verantwortlichen CIA-Mitarbeiter geschützt und befördert, das Gefangenenlager Guantanamo Bay weiterbetrieben, Journalisten verfolgt und Whistleblower eingesperrt, die Polizei militarisiert und die illegale Überwachung elektronischer Kommunikationen ausgeweitet.
 
-Obama hat in seiner ganzen achtjährigen Amtszeit Krieg im Ausland und gegen die Arbeiter im Inland geführt. Zum Wohl des militärisch-industriellen Komplexes, zum Wohl der Aktienbesitzer, des „Establishments“, der Reichen und der Finanzelite.
+Obama hat in seiner ganzen achtjährigen Amtszeit Krieg im Ausland und gegen die Arbeiter im Inland geführt. Zum Wohl des militärisch-industriellen Komplexes, zum Wohl der Aktienbesitzer, des "Establishments", der Reichen und der Finanzelite.
 
 #### Gräben zu Russland vertieft
 
 Zum Schluss machte er sich noch dadurch lächerlich, dass er die Russen für die Wahlniederlage seiner früheren Außenministerin verantwortlich gemacht und neue Sanktionen gegen Russland verhängt hat. Als letzte Amtshandlung sozusagen. Zum letzten Yes, we can …
 
-Wenn es den US-amerikanischen Arbeitern seit Obamas Amtsantritt wirklich so gut wie nie zuvor gegangen wäre, dann soll uns mal einer erklären, warum diese dann so dumm waren, nicht die „tolle“ Frau Clinton als seine Nachfolgerin zu wählen.
+Wenn es den US-amerikanischen Arbeitern seit Obamas Amtsantritt wirklich so gut wie nie zuvor gegangen wäre, dann soll uns mal einer erklären, warum diese dann so dumm waren, nicht die "tolle" Frau Clinton als seine Nachfolgerin zu wählen.
 
 Obama hat nichts gehalten von dem, was er versprochen hat. Aber so richtig versprochen hat er ja nie was. Er hat nur gesagt: Yes, we can. Den Rest haben sich die jetzt Enttäuschten dann selber zurechtgelegt.

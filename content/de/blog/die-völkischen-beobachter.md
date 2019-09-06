@@ -31,7 +31,7 @@ Und so geht es weiter über 43 Minuten öffentlich-rechtlicher Sendezeit. Biswei
 
 In Zeiten von inneren Krisen und gesellschaftlichen Umbrüchen erleben äußere Feindbilder eine besondere Konjunktur. Zumal wenn sie historisch so vertraut und mental tief verwurzelt sind. Es ist opportun, zumindest auf kurze Sicht, das Narrativ über den "Aggressor Russland" zu bedienen. Und Medienprodukte wie "Alte Bündnisse — neue Bedrohungen" sind Reaktion auf eine bestimmte Erwartungshaltung. Doch was passiert auf längere Sicht in einer Gesellschaft, wenn bei existentiellen Fragen wie Krieg und Frieden die großen Medien in ihrer ganzen Bandbreite sich einem einzigen Narrativ verschreiben?
 
-„[Dreckige Lügner](https://twitter.com/JulianRoepcke/status/1066080057934954496 "Roepcke Propaganda auf Twitter")“, die vor Gericht gehören, „russische hybride Kriegsführung“ und schließlich „Feindsender“, ein Begriff aus der tiefsten NS-Kiste, sind nur einige Nettigkeiten, mit denen RT Deutsch unlängst von deutschen Journalisten bedacht wurde.
+"[Dreckige Lügner](https://twitter.com/JulianRoepcke/status/1066080057934954496 "Roepcke Propaganda auf Twitter")", die vor Gericht gehören, "russische hybride Kriegsführung" und schließlich "Feindsender", ein Begriff aus der tiefsten NS-Kiste, sind nur einige Nettigkeiten, mit denen RT Deutsch unlängst von deutschen Journalisten bedacht wurde.
 
 {{< youtube "go2cvlyYVLs" >}}
 
@@ -39,7 +39,7 @@ Von diversen Variationen mit "Propaganda" und deren Derivaten ganz zu schweigen.
 
 Bisweilen nimmt es skurrile Formen an. Es war offenbar ein böses Erwachen für den "politischen Planer für AKK und CDU", so die eigene Twitter-Auskunft, Nico Lange, als er sich eines Tages bei Google nach aktuellen Beiträgen zur Ukraine umschaute — und ihm als erstes ein RT Deutsch-Artikel vom Bildschirm entgegenprangte:
 
-"Wirklich, @GoogleDE? Die relevanten google Alerts zur #Ukraine stammen alle von RT Deutsch, Sputnik Deutschland und Contra Magazin? #DisinfoWeek @apolyakova @geyshapaola #disinformation", twitterte [Nico Lange](https://twitter.com/nicolangecdu/status/1105018888033583104 "Der Troll der nicht die Nachrichten findet die er sucht") empört. „Warum dürfen sie in Deutschland überhaupt senden? Da sollte Politik handeln“, pflichtete ihm der Chef der CDU-nahen PR-Agentur MSL Germany Axel Wallrabenstein bei.
+"Wirklich, @GoogleDE? Die relevanten google Alerts zur #Ukraine stammen alle von RT Deutsch, Sputnik Deutschland und Contra Magazin? #DisinfoWeek @apolyakova @geyshapaola #disinformation", twitterte [Nico Lange](https://twitter.com/nicolangecdu/status/1105018888033583104 "Der Troll der nicht die Nachrichten findet die er sucht") empört. "Warum dürfen sie in Deutschland überhaupt senden? Da sollte Politik handeln", pflichtete ihm der Chef der CDU-nahen PR-Agentur MSL Germany Axel Wallrabenstein bei.
 
 Der Grund war profan und hatte nichts mit einer implizierten klandestinen Kollaboration zwischen Google und den Russen zu tun: RT Deutsch und Sputnik haben berichtet, was alle deutsche Mainstream-Medien ignoriert haben — Tumulte mit Rechtsradikalen nach einem Wahlauftritt Poroschenkos. Die Google-Algorithmen haben offenbar noch nicht den feinen ideologischen Riecher wie Kramp Karrenbauers Medienberater.
 

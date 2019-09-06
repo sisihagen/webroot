@@ -115,12 +115,12 @@ Die Autorin war lange in Russland, hat ja auch die Sprache und Philosophie studi
 
 Nein es nennt sich Existenzminimum, gerichtlich festgestellt. Eine Grundsicherung ist etwas anderes, dass gab es vor ALG2 und Agenda 2010.
 
-> Jeder zweite Langzeitarbeitslose hat keine Berufsausbildung. Und diese werden nicht mit Nachdruck ermuntert oder gar aufgefordert, einen Schulabschluss oder eine Ausbildung zu machen, weil sonst die Unterstützung gestrichen würde. “
+> Jeder zweite Langzeitarbeitslose hat keine Berufsausbildung. Und diese werden nicht mit Nachdruck ermuntert oder gar aufgefordert, einen Schulabschluss oder eine Ausbildung zu machen, weil sonst die Unterstützung gestrichen würde. "
 
 
 Autorin ist in der Tat inkompetent?! Warum soll man das finanzieren, es bringt schlicht nichts. Der Ingenieur findet keine Arbeit, der Architekt nicht, der Maurer auch nicht. es gibt Leute die haben vier Ausbildungen und sitzen zu Hause. Heute wird ein wenig Verwalter, Produktionshelfer und Maschinist gesucht, ein paar dienstleistungsorientierte und das war es..Was soll eine Ausbildung bringen abgesehen von Statistik putzen. viele Fallmanager sagen selbst das wenn nur Helfer oder hoch ausgebildete benötigt werden, am Bau ist es sogar unmöglich etwas zu finden.
 
-> Dabei wird gern übersehen, dass schon für Angehörige des Mittelstands mit einem Bruttomonatseinkommen von 3500 Euro aufgrund des progressiven Steuertarifs die Steuerbelastung bei einer dreiprozentigen Gehaltserhöhung so steigt, dass netto von der Gehaltserhöhung um 105 Euro gerade mal 48 Euro im Geldbeutel bleiben, die Steuerbelastung um 4,8 Prozent steigt und das Nettojahreseinkommen nur um 2,4 Prozent. “
+> Dabei wird gern übersehen, dass schon für Angehörige des Mittelstands mit einem Bruttomonatseinkommen von 3500 Euro aufgrund des progressiven Steuertarifs die Steuerbelastung bei einer dreiprozentigen Gehaltserhöhung so steigt, dass netto von der Gehaltserhöhung um 105 Euro gerade mal 48 Euro im Geldbeutel bleiben, die Steuerbelastung um 4,8 Prozent steigt und das Nettojahreseinkommen nur um 2,4 Prozent. "
 
 
 Wie viel bleibt den Leuten die weit weniger verdienen? 30% arbeiten für weniger als 2000 Euro brutto, die ganzen Leiharbeiter und Aufstocker. die vielen Solo Unternehmer die sich mit myhammer durchschlagen. Programmierer müssen mit 1800 Euro brutto klar kommen. Ich mache mir Sorgen um den Niedriglohnsektor, der täglich politisch und wirtschaftlich in Deutschland durchgesetzt wird.

@@ -30,7 +30,7 @@ Welche Worte kommen uns jetzt in den Sinn? Welche Gefühle sind mit im Spiel? Au
 
 Das tut gut. Doch das ist nur der erste Schritt. Die Mutprobe ist der zweite. Denn hier geht es darum zu erkennen, dass alles, was wir einem anderen vorwerfen, in erster Linie etwas über uns selbst aussagt. So sehr wir es auch versuchen zu drehen und zu wenden: Der Kompass pendelt sich immer wieder in unsere Richtung ein. Wir sind es eben, die die Saiten unseres Instruments in der Hand halten.
 
-Wenn also die Saite „stur“ angeschlagen ist, dann gilt in diesem Spiel die Regel, dass ich mich fragen muss, inwiefern ich selbst mich denn stur verhalte. Wo bin ich unnachgiebig? Was kann ich nicht hören, sehen, annehmen? Wo bin ich ungerecht zu mir selbst und anderen? Wo respektiere ich meine eigenen Grenzen nicht? Wo bin ich selbst übergriffig? ...
+Wenn also die Saite "stur" angeschlagen ist, dann gilt in diesem Spiel die Regel, dass ich mich fragen muss, inwiefern ich selbst mich denn stur verhalte. Wo bin ich unnachgiebig? Was kann ich nicht hören, sehen, annehmen? Wo bin ich ungerecht zu mir selbst und anderen? Wo respektiere ich meine eigenen Grenzen nicht? Wo bin ich selbst übergriffig? ...
 
 Wer jetzt noch liest, der hat die allergrößte Mutprobe schon bestanden. Er öffnet sich dafür, dass nicht die anderen die Ursache seines Übels sind, sondern sein eigenes Verhalten. Was jetzt folgt, ist ein Kinderspiel. Vor uns liegen also Karten mit Worten darauf, die uns das Leben schwer machen. Tatsache ist: Auch wenn wir sie zerknüllen, zerreißen, verbrennen oder wegwerfen, werden wir sie nicht wirklich los. Sie heften sich immer wieder an uns. Also müssen wir es anders machen.
 

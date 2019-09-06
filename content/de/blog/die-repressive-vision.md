@@ -15,7 +15,7 @@ Christine Lagarde, die IWF-Chefin, unter der all diese Papiere entstanden sind, 
 
 Ich spreche von den Erfordernissen einer wirksamen Geldpolitik als Vorwand, weil sich der neuerliche Vorstoß gegen das Bargeld in die Strategie zur trickreichen Bargeldbeseitigung einfügt, die in einem IWF-Papier aus dem Jahr 2017 beschrieben ist. Es lohnt sich, dieses zur Einordnung kurz zu rekapitulieren:
 
-In „[The Macroeconomics of De-Cashing](https://www.imf.org/en/Publications/WP/Issues/2017/03/27/The-Macroeconomics-of-De-Cashing-44768 "The Macroeconomics of De-Cashing")“ wird das Ziel der Bargeldbeseitigung vorausgesetzt und die geldpolitischen Konsequenzen sind dabei nur manche von vielen. Der IWF empfiehlt darin Regierungen, die Bargeld beseitigen wollen, mit harmlos erscheinenden Schritten anzufangen.
+In "[The Macroeconomics of De-Cashing](https://www.imf.org/en/Publications/WP/Issues/2017/03/27/The-Macroeconomics-of-De-Cashing-44768 "The Macroeconomics of De-Cashing")" wird das Ziel der Bargeldbeseitigung vorausgesetzt und die geldpolitischen Konsequenzen sind dabei nur manche von vielen. Der IWF empfiehlt darin Regierungen, die Bargeld beseitigen wollen, mit harmlos erscheinenden Schritten anzufangen.
 
 > Man könne zum Beispiel mit der Abschaffung von großen Geldscheinen und Obergrenzen für Barzahlungen beginnen. Es sei vorzuziehen, den Privatsektor mit harmlos erscheinenden Umstellungen vorzuschicken. Direkte staatliche Eingriffe würden angesichts der Vorliebe der Menschen für Bargeld stärker hinterfragt und die Leute könnten stichhaltige Gegenargumente vorbringen.
 
@@ -25,7 +25,7 @@ Man beachte: Der Autor hält das Misstrauen nicht etwa für verfehlt. Er zählt 
 
 Der Bargeld-Beseitigungsprozess werde besser vorankommen, wenn auf eine Kosten-Nutzen-Abwägung abgestellt werde.
 
-In der Ende April veröffentlichten, 88-seitigen Studie „[Enabling Deep Negative Rates to Fight Recessions: a Guide](https://www.imf.org/~/media/Files/Publications/WP/2019/WPIEA2019084.ashx "Enabling Deep Negative Rates to Fight Recessions: a Guide")“ ist die Kosten-Nutzen-Erwägung, auf die abgestellt wird, eine geldpolitische. Es soll den Notenbanken möglich gemacht werden, die Zinsen tief in den negativen Bereich zu drücken, um die Konjunktur anzukurbeln. Es ist halt ganz zufällig so, dass das voraussetzt, Bargeld zu beseitigen oder unattraktiv zu machen.
+In der Ende April veröffentlichten, 88-seitigen Studie "[Enabling Deep Negative Rates to Fight Recessions: a Guide](https://www.imf.org/~/media/Files/Publications/WP/2019/WPIEA2019084.ashx "Enabling Deep Negative Rates to Fight Recessions: a Guide")" ist die Kosten-Nutzen-Erwägung, auf die abgestellt wird, eine geldpolitische. Es soll den Notenbanken möglich gemacht werden, die Zinsen tief in den negativen Bereich zu drücken, um die Konjunktur anzukurbeln. Es ist halt ganz zufällig so, dass das voraussetzt, Bargeld zu beseitigen oder unattraktiv zu machen.
 
 Bisher verhindert die Existenz von Bargeld, dass die Banken tiefe Negativzinsen an ihre Einlagenkunden weitergeben. Denn diese könnten zur Vermeidung der Negativzinsen ihre Guthaben bar abheben und zum Nullzins im Tresor lagern.
 
@@ -35,7 +35,7 @@ Dass die von der Zentralbank herausgegebenen Banknoten in Europa, wie in den USA
 
 Es soll nämlich dafür gesorgt werden, dass im Fall negativer Zentralbankzinsen Bargeld gegenüber Bankengeld (Giralgeld) beständig abwertet. Ein Euro Bargeld würde also relativ zu einem Euro Guthaben bei einer Bank immer weniger wert. Wer bar bezahlt, müsste (zunehmend) mehr bezahlen als wer per Überweisung oder Karte bezahlt.
 
-Damit das die beabsichtigten Wirkungen hat, soll dafür gesorgt werden, dass alle wesentlichen Preise in digitalem Geld ausgezeichnet werden. Dann sei Bankengeld „das wahre Ding“, die Rechnungseinheit. Wenn etwas mit 10 Euro ausgezeichnet ist, sollen also Barzahler mehr bezahlen, nicht etwa Digitalzahler weniger. Alte Schuldverhältnisse sollen so uminterpretiert werden, dass Rückzahlung in digitalem Geld (Bankengeld) die Schuld tilgt, während bei Barzahlung ein Aufschlag verlangt werden kann.
+Damit das die beabsichtigten Wirkungen hat, soll dafür gesorgt werden, dass alle wesentlichen Preise in digitalem Geld ausgezeichnet werden. Dann sei Bankengeld "das wahre Ding", die Rechnungseinheit. Wenn etwas mit 10 Euro ausgezeichnet ist, sollen also Barzahler mehr bezahlen, nicht etwa Digitalzahler weniger. Alte Schuldverhältnisse sollen so uminterpretiert werden, dass Rückzahlung in digitalem Geld (Bankengeld) die Schuld tilgt, während bei Barzahlung ein Aufschlag verlangt werden kann.
 
 Gesetzliches Zahlungsmittel bedeutet aber, dass man eine Geldschuld mit diesem begleichen kann — es sei denn, auf freiwilliger Basis ist vorher etwas anderes vereinbart worden. Wenn man also jemand 10 Euro schuldet, kann man diese Schuld mit einem 10-Euro-Schein begleichen. Ein allgemeiner Aufschlag gegenüber Bankengeld ist mit dem Status des gesetzlichen Zahlungsmittels nicht vereinbar.
 
@@ -43,13 +43,13 @@ Der saubere Ansatz bringt die geringste Veränderung für das Geldsystem mit sic
 
 Trotzdem kommen die IWF-Autoren zu dem Schluss, dass die vorgeschlagene Abschaffung des gesetzlichen Zahlungsmittels, die am wenigsten einschneidende Politikmaßnahme zur Bewahrung der Funktionsfähigkeit der Geldpolitik sei. Sie bringe die geringste Veränderung für das Geldsystem mit sich und verlange keine neuen Gesetze. Das ist dreiste Rosstäuscherei. Weder ist es eine kleine Änderung, wenn Bürger und Händler mit einem sich laufend — wenn auch stetig — verändernden Wechselkurs zwischen Bargeld und Bankengeld zurechtkommen müssen, noch kann man das gesetzliche Zahlungsmittel ohne Gesetzesänderung abschaffen.
 
-Damit die Durchsetzung von Digitalgeld als neuer Recheneinheit besser klappt, soll nach der Empfehlung des IWF die Bargeldnutzung weiter zurückgedrängt werden. Ein probates Mittel dafür könne auch die Ausgabe eines allen Bürgern zugänglichen digitalen Zentralbankgeldes sein. „Solche Innovationen dürften die Rolle von Bargeld weiter reduzieren“, lobt der IWF.
+Damit die Durchsetzung von Digitalgeld als neuer Recheneinheit besser klappt, soll nach der Empfehlung des IWF die Bargeldnutzung weiter zurückgedrängt werden. Ein probates Mittel dafür könne auch die Ausgabe eines allen Bürgern zugänglichen digitalen Zentralbankgeldes sein. "Solche Innovationen dürften die Rolle von Bargeld weiter reduzieren", lobt der IWF.
 
 Was laut IWF noch fehlt, ist eine Zentralbank, die den Vorreiter macht und damit den Weg für die Abwertung von Bargeld gegenüber Bankengeld auch für andere freiräumt. Dreimal dürfen sie raten, welche Notenbank das sein wird. Natürlich wie üblich, die Schwedische Reichsbank. Diese arbeitet ja schon intensiv an dem digitalen Zentralbankgeld.
 
 #### Die technische Umsetzung
 
-Umgesetzt würde dieser vom IWF bevorzugte „saubere Ansatz“ im Zusammenspiel von Notenbank und Geschäftsbanken. Letztere haben Guthaben in Form von Zentralbankgeld bei der Notenbank. Diese Guthaben sind eine (bisher) nur Banken zugängliche digitale Ausprägung des gesetzlichen Zahlungsmittels. Mit diesen Guthaben gleichen die Banken unter sich Salden im Zahlungsverkehr aus. Sie können sie aber auch jederzeit in Form von Bargeld abheben, um Bargeldwünsche von Kunden zu befriedigen. Umgekehrt können sie überschüssiges Bargeld auf ihr Notenbankkonto einzahlen, beides bisher zum Festkurs von 1 zu 1.
+Umgesetzt würde dieser vom IWF bevorzugte "saubere Ansatz" im Zusammenspiel von Notenbank und Geschäftsbanken. Letztere haben Guthaben in Form von Zentralbankgeld bei der Notenbank. Diese Guthaben sind eine (bisher) nur Banken zugängliche digitale Ausprägung des gesetzlichen Zahlungsmittels. Mit diesen Guthaben gleichen die Banken unter sich Salden im Zahlungsverkehr aus. Sie können sie aber auch jederzeit in Form von Bargeld abheben, um Bargeldwünsche von Kunden zu befriedigen. Umgekehrt können sie überschüssiges Bargeld auf ihr Notenbankkonto einzahlen, beides bisher zum Festkurs von 1 zu 1.
 
 Dieses Kursverhältnis von 1 zu 1 will der IWF aufbrechen. Damit es sich für Banken bei negativen Guthabenzinsen nicht lohnt, ihre Guthaben zur Vermeidung der Negativzinsen bar abzuheben, zu lagern und später wieder einzuzahlen, würde Ihnen beim Wiedereinzahlen weniger gutgeschrieben, als Ihnen beim Abheben vom Kontostand abgezogen wurde. Wenn der EZB-Leitzins zum Beispiel minus 4 Prozent betrüge, würde die EZB ankündigen, dass Banken nach einem Jahr für eingezahltes Bargeld vier Prozent weniger bekommen, als sie heute dafür bezahlen müssen. Nach einem Quartal wäre es ein Prozent weniger. Egal ob die Bank das Geld auf dem Konto lässt, oder bar abhebt und einlagert, es würde sie in beiden Fällen pro Jahr vier Prozent kosten.
 
@@ -61,7 +61,7 @@ Wenn Bargeld nicht mehr ohne weiteres verfügbar ist, oder laufend abwertet, ist
 
 Verräterisch ist im Abschnitt zum digitalen Zentralbankgeld für Jedermann, das einen positiven, aber auch negativen Zins tragen kann, der verschämte Hinweis:
 
-„Um den Menschen die Sicherheit zu geben, dass ihr digitales Zentralbankgeld nicht konfisziert werden wird, wäre es gut, eine ausdrückliche Garantie zu geben, dass der Zins auf dieses digitale Geld nie um mehr als x-Prozentpunkte unterhalb zum Beispiel von der Verzinsung kurzfristiger Staatsanleihen liegen wird.“
+"Um den Menschen die Sicherheit zu geben, dass ihr digitales Zentralbankgeld nicht konfisziert werden wird, wäre es gut, eine ausdrückliche Garantie zu geben, dass der Zins auf dieses digitale Geld nie um mehr als x-Prozentpunkte unterhalb zum Beispiel von der Verzinsung kurzfristiger Staatsanleihen liegen wird."
 
 Hier wird implizit eingeräumt, dass man mit hinreichend tiefen Negativzinsen die Menschen auch enteignen kann. Bei minus 5 Prozent, ein Satz, der in diesen Kreisen oft genannt wird, hat man nach fünf Jahren ein knappes Viertel seines Guthabens verloren.
 
@@ -73,7 +73,7 @@ Wenn es aber nun mal angeblich so ist, dass man Bargeld nur bewahren könnte, we
 
 Um diese Botschaft zu vermitteln, tun die Autoren so, als wäre Zinspolitik mit dem Umweg über die privaten Geschäftsbanken nicht nur ein wirkungsvolles, sondern auch noch das einzig verfügbare Mittel der Geldpolitik. Schon darüber, ob die traditionelle Zinspolitik besonders wirksam ist, kann man in Anbetracht der sehr mäßigen Ergebnisse der letzten zehn Jahre trefflich streiten. Auf keinen Fall aber ist diese Politik alternativlos, was sich mühelos schon daraus erschließt, dass sie erst ein paar Jahrzehnte alt ist.
 
-Im Kapitel „Alternativen zur Negativzins-Politik“ fallen den Autoren aber nur Nichtstun oder andere über die Geschäftsbanken laufende Strategien ein, die in den letzten Jahren schon ausprobiert wurden, wie Anleihekäufe, oder eher geringfügige Änderungen der Zinspolitik, etwa das sogenannte BIP-Niveau-Targeting. Was die Autoren dagegen tunlichst vergessen zu erwähnen, sind Möglichkeiten der Geldpolitik, die Konjunktur direkt zu stabilisieren, ohne nebenher die Geschäftsbanken zu mästen.
+Im Kapitel "Alternativen zur Negativzins-Politik" fallen den Autoren aber nur Nichtstun oder andere über die Geschäftsbanken laufende Strategien ein, die in den letzten Jahren schon ausprobiert wurden, wie Anleihekäufe, oder eher geringfügige Änderungen der Zinspolitik, etwa das sogenannte BIP-Niveau-Targeting. Was die Autoren dagegen tunlichst vergessen zu erwähnen, sind Möglichkeiten der Geldpolitik, die Konjunktur direkt zu stabilisieren, ohne nebenher die Geschäftsbanken zu mästen.
 
 Da gibt es zum Beispiel den Vorschlag des Helikoptergeldes, der immerhin schon von Nobelpreisträger Milton Friedman und vom ehemaligen US-Notenbankchef Ben Bernanke in die Diskussion gebracht wurde — von letzterem ausdrücklich als Alternative, wenn die Zinspolitik an die Nullzinsgrenze stößt. Helikoptergeld bedeutet, dass die Zentralbank das neu geschaffene Geld nicht an die Banken gibt, sondern direkt zur Nachfragestimulierung an die Bürger verteilt. Für diese Politik ist die Nullzinsgrenze kein Thema. Sie ist auch ziemlich unumstritten wirkungsvoll zur Konjunkturstabilisierung.
 
