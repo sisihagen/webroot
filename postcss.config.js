@@ -7,6 +7,6 @@ module.exports = {
       ]
     },
     postcss-flexibility: {[]},
-    postcss-opacity: {[]},
-  },
+    postcss-opacity: {[]}
+  }
 }

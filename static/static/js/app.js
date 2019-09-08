@@ -11,13 +11,13 @@ $(document).ready(function() {
     $('.article__gallery').removeClass('hidden');
 
     // image and links to aside
-    $("article a").each(function (idx, ele) {
+    $('article a').each(function (idx, ele) {
         var newele = $(ele).clone();
         newele.text($(ele).prop("title"));
-        $("aside div.article__source").append(newele);
+        $('aside div.article__source').append(newele);
     });
-    $("article img").each(function (idx, ele) {
-        $("aside div.article__gallery").append($(ele));
+    $('article img').each(function (idx, ele) {
+        $('aside div.article__gallery').append($(ele));
     });
 
     // check if linklist and gallery have values
@@ -35,7 +35,7 @@ $(document).ready(function() {
   $("body").append(back_to_top_button)
 
   // hide the button
-  $(".back-to-top").hide();
+  $('.back-to-top').hide();
 
   // scolling
   $(function () {
