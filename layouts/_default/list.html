@@ -17,7 +17,23 @@
           <h4>{{ .Title }}</h4>
           <span class="icon-calendar" aria-hidden="true"></span>
           <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+          {{ if eq $.Site.Language.LanguageName "English" }}
+            {{ .Date.Format "01/02/2006" }}
+          {{ end }}
+
+          {{ if eq $.Site.Language.LanguageName "Français" }}
+            {{ .Date.Format "02/01/2006" }}
+          {{ end }}
+
+          {{ if eq $.Site.Language.LanguageName "Deutsch" }}
             {{ .Date.Format "02.01.2006" }}
+          {{ end }}
+
+          {{ if eq $.Site.Language.LanguageName "Русский" }}
+            {{ .Date.Format "02.01.2006" }}
+          {{ end }}
+
+
           </time>
         </div>
         <div class="card__content">

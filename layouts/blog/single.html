@@ -10,6 +10,12 @@
     <div class="article__header text-center">
       <h1> {{ .Title }}</h1>
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+        {{ if eq $.Site.Language.LanguageName "English" }}
+        <i class="icon-calendar"></i> {{ .Date.Format "01/02/2006" }}
+        {{ end }}
+        {{ if eq $.Site.Language.LanguageName "Français" }}
+        <i class="icon-calendar"></i> {{ .Date.Format "02/01/2006" }}
+        {{ end }}
         <i class="icon-calendar"></i> {{ .Date.Format "02.01.2006" }}
       </time>
       <span aria-hidden="true"><i class="icon-users"></i> Silvio Siefke</span>
