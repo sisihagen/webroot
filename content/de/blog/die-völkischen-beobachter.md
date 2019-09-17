@@ -2,7 +2,6 @@
 title: "Die völkischen Beobachter"
 date: 2019-08-10
 tags: "Medien"
-keywords: "Russland, Russian Today, RT, Propaganda, Bild, Süddeutsche, BND, Desinformationskampagne, Putin, Kreml, Medien, Nachrichten"
 shorttext: "Die Mainstream-Medien schüren Kriegsstimmung gegen Russland, verbreiten Propaganda und erklären Russia Today zum 'Feindsender'."
 cover: "media"
 draft: false
@@ -31,7 +30,9 @@ Und so geht es weiter über 43 Minuten öffentlich-rechtlicher Sendezeit. Biswei
 
 In Zeiten von inneren Krisen und gesellschaftlichen Umbrüchen erleben äußere Feindbilder eine besondere Konjunktur. Zumal wenn sie historisch so vertraut und mental tief verwurzelt sind. Es ist opportun, zumindest auf kurze Sicht, das Narrativ über den "Aggressor Russland" zu bedienen. Und Medienprodukte wie "Alte Bündnisse — neue Bedrohungen" sind Reaktion auf eine bestimmte Erwartungshaltung. Doch was passiert auf längere Sicht in einer Gesellschaft, wenn bei existentiellen Fragen wie Krieg und Frieden die großen Medien in ihrer ganzen Bandbreite sich einem einzigen Narrativ verschreiben?
 
-"[Dreckige Lügner](https://twitter.com/JulianRoepcke/status/1066080057934954496 "Roepcke Propaganda auf Twitter")", die vor Gericht gehören, "russische hybride Kriegsführung" und schließlich "Feindsender", ein Begriff aus der tiefsten NS-Kiste, sind nur einige Nettigkeiten, mit denen RT Deutsch unlängst von deutschen Journalisten bedacht wurde.
+{{< tweet "1066080057934954496" >}}
+
+"Dreckige Lügner", die vor Gericht gehören, "russische hybride Kriegsführung" und schließlich "Feindsender", ein Begriff aus der tiefsten NS-Kiste, sind nur einige Nettigkeiten, mit denen RT Deutsch unlängst von deutschen Journalisten bedacht wurde.
 
 {{< youtube "go2cvlyYVLs" >}}
 
@@ -39,7 +40,9 @@ Von diversen Variationen mit "Propaganda" und deren Derivaten ganz zu schweigen.
 
 Bisweilen nimmt es skurrile Formen an. Es war offenbar ein böses Erwachen für den "politischen Planer für AKK und CDU", so die eigene Twitter-Auskunft, Nico Lange, als er sich eines Tages bei Google nach aktuellen Beiträgen zur Ukraine umschaute — und ihm als erstes ein RT Deutsch-Artikel vom Bildschirm entgegenprangte:
 
-"Wirklich, @GoogleDE? Die relevanten google Alerts zur #Ukraine stammen alle von RT Deutsch, Sputnik Deutschland und Contra Magazin? #DisinfoWeek @apolyakova @geyshapaola #disinformation", twitterte [Nico Lange](https://twitter.com/nicolangecdu/status/1105018888033583104 "Der Troll der nicht die Nachrichten findet die er sucht") empört. "Warum dürfen sie in Deutschland überhaupt senden? Da sollte Politik handeln", pflichtete ihm der Chef der CDU-nahen PR-Agentur MSL Germany Axel Wallrabenstein bei.
+Nico Lange empört. "Warum dürfen sie in Deutschland überhaupt senden? Da sollte Politik handeln", pflichtete ihm der Chef der CDU-nahen PR-Agentur MSL Germany Axel Wallrabenstein bei.
+
+{{< tweet "1105018888033583104" >}}
 
 Der Grund war profan und hatte nichts mit einer implizierten klandestinen Kollaboration zwischen Google und den Russen zu tun: RT Deutsch und Sputnik haben berichtet, was alle deutsche Mainstream-Medien ignoriert haben — Tumulte mit Rechtsradikalen nach einem Wahlauftritt Poroschenkos. Die Google-Algorithmen haben offenbar noch nicht den feinen ideologischen Riecher wie Kramp Karrenbauers Medienberater.
 
@@ -47,11 +50,17 @@ Der Grund war profan und hatte nichts mit einer implizierten klandestinen Kollab
 
 Richtig bizarr wurde es, als im April dieses Jahres die damalige Justizministerin und SPD-Spitzenkandidatin für die EU-Wahl, Katarina Barley, RT Deutsch am Rande eines Pressegesprächs ein völlig harmloses Interview gegeben hatte — übrigens nicht zum ersten Mal. Es brachen plötzlich alle Dämme:
 
-"Im Gespräch mit der russischen hybriden Kriegsführung gegen freie Gesellschaften lobt Katarina Barley Russland als ,Partner‘. Eine bessere SPD-Spitzenkandidatin für die Europawahl kann man sich im Kreml kaum wünschen", schäumte der BILD-Chef [Julian Reichelt](https://twitter.com/jreichelt/status/1116436479360806920 "Chef der Springer Propaganda").
+"Im Gespräch mit der russischen hybriden Kriegsführung gegen freie Gesellschaften lobt Katarina Barley Russland als ,Partner‘. Eine bessere SPD-Spitzenkandidatin für die Europawahl kann man sich im Kreml kaum wünschen", schäumte der BILD-Chef Julian Reichelt.
 
-"Die deutsche Justizministerin und Spitzenkandidatin zur Europawahl der SPD, Katarina Barley, gibt Putins Propagandakanal ein Interview und stellt das 2-Prozent-Ziel und Deutschlands internationale Verpflichtungen in Frage. Russland frohlockt. Unverfroren? Naiv? Oder dumm? Ich bin sprachlos", [twitterte](https://twitter.com/MAStrackZi/status/1116441922309185536?s=20 "Die rechten kommen aus allen Ecken") die FDP-Bundestagsabgeordnete Strack-Zimmermann.
+{{< tweet "1116436479360806920" >}}
 
-"Während die CDU um jeden Euro kämpft, um Europas Sicherheit zu stärken, gibt die SPD-Europakandidatin Katarina Barley Interviews für russische Staatspropaganda, die 24/7 sendet, um Europa zu schwächen", [schimpfte](https://twitter.com/nicolangecdu/status/1116402193094070275?s=20 "Der schon erwähnte Troll Nico Lange") der schon erwähnte AKK-Berater Nico Lange.
+"Die deutsche Justizministerin und Spitzenkandidatin zur Europawahl der SPD, Katarina Barley, gibt Putins Propagandakanal ein Interview und stellt das 2-Prozent-Ziel und Deutschlands internationale Verpflichtungen in Frage. Russland frohlockt. Unverfroren? Naiv? Oder dumm? Ich bin sprachlos", twitterte die FDP-Bundestagsabgeordnete Strack-Zimmermann.
+
+{{< tweet "1116441922309185536" >}}
+
+"Während die CDU um jeden Euro kämpft, um Europas Sicherheit zu stärken, gibt die SPD-Europakandidatin Katarina Barley Interviews für russische Staatspropaganda, die 24/7 sendet, um Europa zu schwächen", schimpfte der schon erwähnte AKK-Berater Nico Lange.
+
+{{< tweet "1116402193094070275" >}}
 
 Niemand redete über den Inhalt. Es war nicht was Barley sagte, sondern wem sie es sagte, das die Kritiker in Rage trieb.
 

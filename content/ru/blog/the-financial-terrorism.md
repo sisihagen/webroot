@@ -3,7 +3,6 @@ title: "Финансовый терроризм"
 date: 2019-07-24
 tags: "общество"
 shorttext: "Тайная война-экономические санкции приносят невообразимые страдания народу пострадавшей страны."
-keywords: "Иран, Северная Корея, Венесуэла, Сан-Франциско, Министерство финансов США, Хартия американских государств, Трамп, Болтон"
 cover: society
 lang: ru
 draft: false
@@ -49,7 +48,9 @@ draft: false
 
 Исследование” санкции как коллективное наказание: случай Венесуэлы " Джеффри Сакса и Марка Вайсброта для Центра экономических и политических исследований показывает, что сочетание санкций США в 2017 и 2019 годах в Венесуэле, как ожидается, приведет к снижению реального валового внутреннего продукта на поразительные 37,4 процента после падения на 16,7 процента в 2018 году и падения цен на нефть более чем на [60 процентов](https://www.statista.com/statistics/262858/change-in-opec-crude-oil-prices-since-1960/ "Average annual OPEC crude oil price from 1960 to 2019 in U.S. dollars per barrel") с 2012 по 2016 год.
 
-В Северной Корее, население которой составляет 25 миллионов человек, несколько десятилетий [санкций](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea "Sanctions against North Korea") привели к[ недоеданию и обнищанию](https://www.theguardian.com/world/2017/aug/23/north-koreans-fear-more-sanctions-as-drought-pushes-millions-towards-malnutrition "'Too many soldiers to feed': North Koreans fear more sanctions as drought threatens famine") миллионов людей, в дополнение к длительным засухам. Сельским районам, в частности, не хватает медикаментов и [чистой воды](https://twitter.com/UNReliefChief/status/1016781719716974594 "Mark Lowcock on Twitter"). Еще более жесткие санкции, введенные в 2018 году, запретили большую часть экспорта Северной Кореи и ограничили способность [правительства](https://www.nytimes.com/2019/05/15/world/asia/drought-north-korea-food-crisis.html "In North Korea, Worst Drought in Decades Adds to Food Crisis") импортировать продовольствие, чтобы облегчить дефицит.
+В Северной Корее, население которой составляет 25 миллионов человек, несколько десятилетий [санкций](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea "Sanctions against North Korea") привели к[ недоеданию и обнищанию](https://www.theguardian.com/world/2017/aug/23/north-koreans-fear-more-sanctions-as-drought-pushes-millions-towards-malnutrition "'Too many soldiers to feed': North Koreans fear more sanctions as drought threatens famine") миллионов людей, в дополнение к длительным засухам. Сельским районам, в частности, не хватает медикаментов и чистой воды. Еще более жесткие санкции, введенные в 2018 году, запретили большую часть экспорта Северной Кореи и ограничили способность [правительства](https://www.nytimes.com/2019/05/15/world/asia/drought-north-korea-food-crisis.html "In North Korea, Worst Drought in Decades Adds to Food Crisis") импортировать продовольствие, чтобы облегчить дефицит.
+
+{{< tweet "1016781719716974594" >}}
 
 #### Незаконный
 

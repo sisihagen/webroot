@@ -15,10 +15,23 @@ $(document).ready(function() {
         var newele = $(ele).clone();
         newele.text($(ele).prop("title"));
         $('aside div.article__source').append(newele);
+
+        if($('.article__source a[href*="twitter"]').length > 0){
+          $('.article__source a[href*="twitter"]').hide();
+        }
+
+        if($('.article__source a[href*="t.co"]').length > 0){
+          $('.article__source a[href*="t.co"]').hide();
+        }
+
     });
+
     $('article img').each(function (idx, ele) {
         $('aside div.article__gallery').append($(ele));
     });
+
+
+
 
     // check if linklist and gallery have values
     if ($('.article__gallery').children().length <=1) {

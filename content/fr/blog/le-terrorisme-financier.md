@@ -3,7 +3,6 @@ title: "Le terrorisme financier"
 date: 2019-07-26
 tags: "Société"
 shorttext: "La guerre secrète - les sanctions économiques apportent des souffrances inimaginables à la population du pays touché."
-keywords: "Iran, Corée du Nord, Venezuela, Santions, Trésor du département des États-Unis, Charta des États américains, Trump, Bolton"
 cover: society
 lang: fr
 draft: false
@@ -49,7 +48,9 @@ L'industrie pétrolière est responsable de 95 pour cent des recettes étrangèr
 
 L'étude "Sanctions as Collective Punishment: the Case of Venezuela" par Jeffrey Sachs et Mark Weisbrot pour le Center for Economic and Policy Research constate que la combinaison des sanctions américaines en 2017 et 2019 au Venezuela devrait conduire à une baisse du Real produit intérieur brut de 37,4 pour cent, après une baisse de 16,7 pour cent en 2018 et une baisse des prix du pétrole de plus de [60 pour cent](https://www.statista.com/statistics/262858/change-in-opec-crude-oil-prices-since-1960/ "Average annual OPEC crude oil price from 1960 to 2019 in U.S. dollars per barrel") de 2012 à 2016.
 
-En Corée du Nord, qui compte 25 millions d'habitants, plusieurs décennies de [sanctions](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea "Sanctions against North Korea") ont conduit à la [malnutrition et à l'appauvrissement](https://www.theguardian.com/world/2017/aug/23/north-koreans-fear-more-sanctions-as-drought-pushes-millions-towards-malnutrition "'Too many soldiers to feed': North Koreans fear more sanctions as drought threatens famine") de millions de personnes, en plus de sécheresses prolongées. Les zones rurales en particulier manquent de [médicaments](https://twitter.com/UNReliefChief/status/1016781719716974594 "Mark Lowcock on Twitter") et d'eau potable. Des sanctions encore plus sévères imposées en 2018 ont interdit la plupart des exportations de la Corée du Nord et limité la capacité du [gouvernement](https://www.nytimes.com/2019/05/15/world/asia/drought-north-korea-food-crisis.html "In North Korea, Worst Drought in Decades Adds to Food Crisis") d'importer des denrées alimentaires pour pallier la pénurie.
+En Corée du Nord, qui compte 25 millions d'habitants, plusieurs décennies de [sanctions](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea "Sanctions against North Korea") ont conduit à la [malnutrition et à l'appauvrissement](https://www.theguardian.com/world/2017/aug/23/north-koreans-fear-more-sanctions-as-drought-pushes-millions-towards-malnutrition "'Too many soldiers to feed': North Koreans fear more sanctions as drought threatens famine") de millions de personnes, en plus de sécheresses prolongées. Les zones rurales en particulier manquent de médicaments et d'eau potable. Des sanctions encore plus sévères imposées en 2018 ont interdit la plupart des exportations de la Corée du Nord et limité la capacité du [gouvernement](https://www.nytimes.com/2019/05/15/world/asia/drought-north-korea-food-crisis.html "In North Korea, Worst Drought in Decades Adds to Food Crisis") d'importer des denrées alimentaires pour pallier la pénurie.
+
+{{< tweet "1016781719716974594" >}}
 
 #### Illegal
 

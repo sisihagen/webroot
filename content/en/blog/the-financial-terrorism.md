@@ -3,7 +3,6 @@ title: "The financial terrorism"
 date: 2019-07-24
 tags: "society"
 shorttext: "The secret war - economic sanctions bring unimaginable suffering to the people of the affected country."
-keywords: "Iran, North Korea, Venezuela, Santions, US Department Treasury, Charta of American States, Trump, Bolton"
 cover: society
 lang: en
 draft: false
@@ -49,7 +48,9 @@ The oil industry is responsible for 95 percent of Venezuela's foreign revenues b
 
 The study "Sanctions as Collective Punishment: the Case of Venezuela" by Jeffrey Sachs and Mark Weisbrot for the Center for Economic and Policy Research finds that the combination of US sanctions in 2017 and 2019 in Venezuela is expected to lead to a decline in the Real gross domestic product of a striking 37.4 percent, following a 16.7 percent drop in 2018 and a drop in oil prices of more [than 60 percent ](https://www.statista.com/statistics/262858/change-in-opec-crude-oil-prices-since-1960/ "Average annual OPEC crude oil price from 1960 to 2019 in U.S. dollars per barrel") from 2012 to 2016.
 
-In North Korea, which has a population of 25 million, several decades of [sanctions](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea "Sanctions against North Korea") have led to [malnutrition and impoverishment](https://www.theguardian.com/world/2017/aug/23/north-koreans-fear-more-sanctions-as-drought-pushes-millions-towards-malnutrition "'Too many soldiers to feed': North Koreans fear more sanctions as drought threatens famine") of millions of people, in addition to prolonged droughts. Rural areas in particular lack [medicines and clean water](https://twitter.com/UNReliefChief/status/1016781719716974594 "Mark Lowcock on Twitter"). Even tougher sanctions imposed in 2018 banned most of North Korea's exports and limited the [government's](https://www.nytimes.com/2019/05/15/world/asia/drought-north-korea-food-crisis.html "In North Korea, Worst Drought in Decades Adds to Food Crisis") ability to import food to alleviate the shortage.
+In North Korea, which has a population of 25 million, several decades of [sanctions](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea "Sanctions against North Korea") have led to [malnutrition and impoverishment](https://www.theguardian.com/world/2017/aug/23/north-koreans-fear-more-sanctions-as-drought-pushes-millions-towards-malnutrition "'Too many soldiers to feed': North Koreans fear more sanctions as drought threatens famine") of millions of people, in addition to prolonged droughts. Rural areas in particular lack medicines and clean water. Even tougher sanctions imposed in 2018 banned most of North Korea's exports and limited the [government's](https://www.nytimes.com/2019/05/15/world/asia/drought-north-korea-food-crisis.html "In North Korea, Worst Drought in Decades Adds to Food Crisis") ability to import food to alleviate the shortage.
+
+{{< tweet "1016781719716974594" >}}
 
 #### Illegal
 

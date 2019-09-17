@@ -1,12 +1,13 @@
 module.exports = {
   plugins: {
-    autoprefixer: {
-      browsers: [
+    'autoprefixer': {
+      'browsers': [
         "last 2 versions",
         "Explorer >= 8",
       ]
     },
-    postcss-flexibility: {[]},
-    postcss-opacity: {[]}
+    'postcss-flexibility': {},
+    'postcss-opacity': {},
+    'cssnano': {}
   }
 }

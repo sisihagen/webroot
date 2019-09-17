@@ -2,7 +2,6 @@
 title: "Maidan 2013"
 date: 2019-08-17
 tags: "Medien"
-keywords: "Maidan, Ukraine, Klitschko, Euromaidan, Ukraine, Protest, Demonstration, Naziaufmarsch, Nazis, Janukowitsch, Swoboda, Stepan Bandera"
 shorttext: "Bis heute verbreiten die Medien falsches über die blutigen Geschehnisse während des Maidan. Schauen wir auf den Beginn ..."
 cover: "media"
 draft: false

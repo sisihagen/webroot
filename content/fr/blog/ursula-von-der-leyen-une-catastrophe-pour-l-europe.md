@@ -2,7 +2,6 @@
 title: "Ursula von der Leyen, une catastrophe pour l'Europe"
 date: 2019-07-07
 tags: "Politique"
-keywords: "Von der Leyen, Europe, Parlement, Président, Démocrate, Défense, Etats-Unis, Otan, Bas Eickhout, S-D, SPD, Die Gronen, Ska Keller, Parlement européen, Commission de l'Europe, Allemagne"
 shorttext: "L'UE, qui était autrefois lancée comme un projet de paix, menace aujourd'hui la militarisation et la métamorphose finale d'un projet des élites européennes."
 cover: "repression"
 lang: fr^
@@ -45,7 +44,11 @@ La nomination des Leyens comme candidat des chefs d'Etat ou de gouvernement au p
 
 Puis, bien sûr, Ursula von der Leyen est venu comme on l'appelle. Pour les Européens de l'Est réactionnaires, elle doit être vendue comme une archi-conservatrice « mangeur russe », mais pour les Scandinaves libéraux et les Européens de l'Ouest, elle est considérée comme une « femme de pouvoir » et même le chef du gouvernement italien Conti a finalement aimé von der Leyen - il est déjà répandu que le prix sera un commissaire italien au budget. Les compromis ne sont pas toujours bons.
 
-Cependant, il n'est pas clair comment Ursula von der Leyen veut maintenant obtenir la majorité nécessaire au Parlement européen. Elle sera certainement le vote du PPE démocrate-chrétien (CDU et Cie), du Libéral Renew (Macron, FDP et Cie) et du groupe conservateur de droite ECR (y compris le PiS polonais et les Tories britanniques). C'est un total de 352 votes. Cependant, il a besoin de 376 voix pour obtenir la majorité nécessaire. Le SPD a déjà déclaré qu'il ne serait pas soutenu par le Leyen et le groupe S-D au Parlement européen a déjà [exprimé](https://www.socialistsanddemocrats.eu/newsroom/sd-leader-iratxe-garcia-proposal-council-deeply-disappointing "S&D leader Iratxe García: The proposal from the Council is deeply disappointing") son opposition. La situation est similaire pour les Verts. Leurs "meilleurs candidats" [Bas Eickhout](https://twitter.com/BasEickhout/status/1146108209532407814 "Bas Eickhout on Twitter") and [Ska Keller](https://twitter.com/StefanLeifert/status/1146124229844307974 "The green hypocrites are shocked.") et Ska Keller ont même été "choqués" par la proposition du gouvernement.
+{{< tweet "1146108209532407814" >}}
+
+Cependant, il n'est pas clair comment Ursula von der Leyen veut maintenant obtenir la majorité nécessaire au Parlement européen. Elle sera certainement le vote du PPE démocrate-chrétien (CDU et Cie), du Libéral Renew (Macron, FDP et Cie) et du groupe conservateur de droite ECR (y compris le PiS polonais et les Tories britanniques). C'est un total de 352 votes. Cependant, il a besoin de 376 voix pour obtenir la majorité nécessaire. Le SPD a déjà déclaré qu'il ne serait pas soutenu par le Leyen et le groupe S-D au Parlement européen a déjà [exprimé](https://www.socialistsanddemocrats.eu/newsroom/sd-leader-iratxe-garcia-proposal-council-deeply-disappointing "S&D leader Iratxe García: The proposal from the Council is deeply disappointing") son opposition. La situation est similaire pour les Verts. Leurs "meilleurs candidats" Bas Eickhout and Ska Keller et Ska Keller ont même été "choqués" par la proposition du gouvernement.
+
+{{< tweet "1146124229844307974" >}}
 
 Reste à savoir où von der Leyen veut obtenir les votes restants. La gauche ne votera certainement pas pour elle, et le parti « non attaché », en particulier le parti de Nigel Farage pour le Brexit et les Cinq Etoiles italiennes, ont peu de chances de remporter la majorité. Il ne reste plus que le groupe « identité et démocratie », c'est-à-dire les partis communément appelés « populistes de droite ». Sans les voix de la Lega de Salvini, du FPDe Straches, du mouvement de collecte de Le Pen et de l'AfD allemand, von der Leyen aura peu de chances d'être élu par le Parlement.
 

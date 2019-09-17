@@ -2,7 +2,6 @@
 title: "Erheben wir uns"
 date: 2019-08-18
 tags: "Medien"
-keywords: ""
 shorttext: "Julian Assange und die Pressefreiheit schweben in höchster Gefahr — lasst uns gemeinsam handeln, bevor es zu spät ist."
 cover: "media"
 draft: false
@@ -13,8 +12,7 @@ Etwas Ungeheurliches geschiehtund der Aufschrei der Öffentlichkeit gleicht einm
 
 {{< image srcwebp="/static/img/content/2019/125.webp" srcalt="/static/img/content/2019/125.jpg" title="Free Julian Assange" >}}
 
-> Do not forget Julian #Assange. Or you will lose him. 
-I saw him in Belmarsh prison and his health has deteriorated. Treated worse than a murderer, he is isolated, medicated and denied the tools to fight the bogus charges of a US extradition. I now fear for him. Do not forget him. ([John Pilger](https://twitter.com/johnpilger/status/1159101209971761152 "John Pilger on Twitter"))
+{{< tweet "1159101209971761152" >}}
 
 Seit dem 11. April 2019 wird Julian Assange im Hochsicherheitsgefängnis Belmarsh gefangen gehalten. Manche bezeichnen ihn als Geisel einer "Fake Democracy", also einer falschen, vorgetäuschten Demokratie.
 

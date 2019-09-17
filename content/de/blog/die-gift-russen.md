@@ -2,7 +2,6 @@
 title: "Die Gift Russen"
 date: 2019-08-19
 tags: "Medien"
-keywords: "Russland, England, OPWC, Gift, Nowitschok, Theresa May, Skripal, London, BND, Lügen, Propaganda, Fake News, Europa, Trump, MH17, McCourt"
 shorttext: "Der Fall Skripal vom März 2018 ist ein Paradebeispiel perfider Medien-Manipulation."
 cover: "media"
 draft: false
@@ -111,7 +110,7 @@ Die Beschuldigten sollen am helllichten Tag gegen 11 Uhr morgens, ganz ohne Schu
 
 Im [Januar](http://www.mid.ru/ru/press_service/spokesman/briefings/-/asset_publisher/D2wHaWMCU6Od/content/id/3482133 "Брифинг официального представителя МИД России М.В.Захаровой, Москва, 23 января 2019 года") wurde bekannt, dass entgegen der offiziellen Version nicht ein Polizist die Skripals gefunden hat, sondern Abigail McCourt. Sie ist die Tochter von Colonel McCourt, die Krankenschwester der britischen Armee ist und sich ebenfalls am Tatort befand. Dabei sind weder die ältere noch die jüngere McCourt durch die auf die Skripals angewandte Substanz krank geworden. Bemerkenswert dabei: Colonel McCourt ist eine speziell für Giftgaseinsätze ausgebildete Krankenschwester der britischen Armee, die demnach zufällig mit ihrer Tochter vor Ort war, was die Briten aber vorher verschwiegen hatten.
 
-Wie immer bei solchen Fällen spielt die "Enthüllungsplattform" Bellingcat eine Schlüsselrolle. Sie ist es, die viele angebliche Erkenntnisse veröffentlicht hat. Im März gab es dazu einen Artikel im Spiegel, der mit den nötigen Vorkenntnissen viel Erhellendes beitrug. Der Spiegel berichtete nämlich über den Schlüsselpartner von Bellingcat im Fall Skripal, die russische Plattform "The Insider". Und dabei verriet der Spiegel, dass nicht nur Bellingcat von NATO-nahen Organisationen finanziert wird, sondern auch "The Insider" monatlich 10.000 Dollar aus dem Westen [erhält](https://www.anti-spiegel.ru/2019/panne-bei-der-medienkampagne-im-fall-skripal-der-spiegel-nennt-versehentlich-interessante-details/ "Panne bei der Medienkampagne im Fall Skripal: Der Spiegel nennt versehentlich interessante Details"). So viel zu den "unabhängigen" Plattformen.
+Wie immer bei solchen Fällen spielt die "Enthüllungsplattform" Bellingcat eine Schlüsselrolle. Sie ist es, die viele angebliche Erkenntnisse veröffentlicht hat. Im März gab es dazu einen Artikel im Spiegel, der mit den nötigen Vorkenntnissen viel Erhellendes beitrug. Der Spiegel berichtete nämlich über den Schlüsselpartner von Bellingcat im Fall Skripal, die russische Plattform "The Insider". Und dabei verriet der Spiegel, dass nicht nur Bellingcat von NATO-nahen Organisationen finanziert wird, sondern auch "The Insider" monatlich 10.000 Dollar aus dem Westen erhält. So viel zu den "unabhängigen" Plattformen.
 
 2019 gab es auch Neuigkeiten von der Familie Skripal. Seine in Russland lebende Nichte hat berichtet, dass Julia Skripal über Mittelsleute ihre Moskauer Wohnung [verkauft](https://tass.ru/obschestvo/6445136 "Юлия Скрипаль продает квартиру в Москве и ищет нового хозяина для своей собаки") und dass die Skripals aus England einige Male angerufen hätten, es ginge ihnen recht gut und sie seien an einem geheimen Ort.
 

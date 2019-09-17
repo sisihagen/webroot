@@ -2,7 +2,6 @@
 title: "Die westlichen Finanzterroristen"
 date: 2019-07-26
 tags: "Gesellschaft"
-keywords: "Iran, Nordkorea, Venezuela, Santions, US Department Treasury, Charta of American States, Trump, Bolton"
 shorttext: "Sanktionen bringen Leid über die Bevölkerung des betroffenen Landes und sind nachweislich unwirksam. Die Humanität West!"
 draft: false
 lang: de
@@ -49,7 +48,9 @@ Die Erdölindustrie sorgt für 95 Prozent der ausländischen Einnahmen Venezuela
 
 Die Studie "[Sanctions as Collective Punishment: the Case of Venezuela](http://cepr.net/images/stories/reports/venezuela-sanctions-2019-04.pdf "Economic Sanctions as Collective Punishment: The Case of Venezuela")” von Jeffrey Sachs und Mark Weisbrot für das Center for Economic und Policy Research stellt fest, dass das Zusammenwirken der US-Sanktionen von 2017 und 2019 in Venezuela voraussichtlich zu einem Rückgang des realen Bruttoinlandsproduktes von frappierenden 37,4 Prozent führen werden — anknüpfend an einen Absturz von 16,7 Prozent im Jahr 2018 und einen Preisrückgang des Erdöls von über [60 Prozent](https://www.statista.com/statistics/262858/change-in-opec-crude-oil-prices-since-1960/ "Average annual OPEC crude oil price from 1960 to 2019") von 2012 bis 2016.
 
-In Nordkorea mit seinen 25 Millionen Einwohnern haben neben längeren Dürreperioden mehrere [Jahrzehnte der Sanktionen](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea "North Korea") zu [Fehlernährung und Verarmung](https://www.theguardian.com/world/2017/aug/23/north-koreans-fear-more-sanctions-as-drought-pushes-millions-towards-malnutrition "'Too many soldiers to feed': North Koreans fear more sanctions as drought threatens famine") von Millionen von Menschen geführt. Vor allem ländlichen Gegenden fehlt es an [Medikamenten und sauberem Wasser](https://twitter.com/UNReliefChief/status/1016781719716974594 "Mark Lowcock on Twitter"). Noch strengere Sanktionen, die 2018 verhängt wurden, verboten den Großteil der Exporte (Nordkoreas) und schränkten die Möglichkeiten der [Regierung](https://www.nytimes.com/2019/05/15/world/asia/drought-north-korea-food-crisis.html "In North Korea, Worst Drought in Decades Adds to Food Crisis") ein, zur Linderung des Mangels Nahrungsmittel zu importieren.
+In Nordkorea mit seinen 25 Millionen Einwohnern haben neben längeren Dürreperioden mehrere [Jahrzehnte der Sanktionen](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea "North Korea") zu [Fehlernährung und Verarmung](https://www.theguardian.com/world/2017/aug/23/north-koreans-fear-more-sanctions-as-drought-pushes-millions-towards-malnutrition "'Too many soldiers to feed': North Koreans fear more sanctions as drought threatens famine") von Millionen von Menschen geführt. Vor allem ländlichen Gegenden fehlt es an Medikamenten und sauberem Wasser. Noch strengere Sanktionen, die 2018 verhängt wurden, verboten den Großteil der Exporte (Nordkoreas) und schränkten die Möglichkeiten der [Regierung](https://www.nytimes.com/2019/05/15/world/asia/drought-north-korea-food-crisis.html "In North Korea, Worst Drought in Decades Adds to Food Crisis") ein, zur Linderung des Mangels Nahrungsmittel zu importieren.
+
+{{< tweet "1016781719716974594" >}}
 
 #### Illegal
 

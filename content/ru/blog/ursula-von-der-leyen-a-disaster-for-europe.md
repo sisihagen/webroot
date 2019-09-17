@@ -2,7 +2,6 @@
 title: "Ursula von der Leyen, a disaster for Europe"
 date: 2019-07-04
 tags: "штат"
-keywords: "Von der Leyen, Europe, Parliament, President, Democrat, Defense, USA, Nato, Bas Eickhout, S&D, SPD, Die Grünen, Ska Keller, Europe Parliament, Europe Commission, Germany"
 shorttext: "The EU, which was once launched as a peace project, now threatens militarisation and the final metamorphosis of a project of the European elites."
 cover: "repression"
 lang: en
@@ -45,7 +44,11 @@ The nomination of the Leyens as the candidate of the Heads of State or Governmen
 
 Then, of course, Ursula von der Leyen came as called. To the reactionary Eastern Europeans she is to be sold as an arch-conservative "Russian eater", but to the liberal Scandinavians and Western Europeans she is regarded as a "power woman" and even Italy's head of government Conti finally liked von der Leyen – it is already becoming rumoured that the price will be an Italian budget commissioner. Compromises are not always good.
 
-However, it is completely unclear how Ursula von der Leyen now wants to get the necessary majority in the European Parliament. Surely she will be the votes of the Christian Democrat EPP (CDU and Co.), the liberal Renew (Macron, FDP and Co.) and the right-wing conservative ECR group (including the Polish PiS and the British Tories). That's a total of 352 votes. However, it needs 376 votes for a necessary majority. The SPD has already stated that it will not be supported by the Leyen and the S&D Group in the European Parliament has already [expressed](https://www.socialistsanddemocrats.eu/newsroom/sd-leader-iratxe-garcia-proposal-council-deeply-disappointing "S&D leader Iratxe García: The proposal from the Council is deeply disappointing") its opposition. The situation is similar for the Greens. Their "top candidates" [Bas Eickhout](https://twitter.com/BasEickhout/status/1146108209532407814 "Bas Eickhout on Twitter") and [Ska Keller](https://twitter.com/StefanLeifert/status/1146124229844307974 "The green hypocrites are shocked.") were even "shocked" by the government's proposal.
+{{< tweet "1146124229844307974" >}}
+
+However, it is completely unclear how Ursula von der Leyen now wants to get the necessary majority in the European Parliament. Surely she will be the votes of the Christian Democrat EPP (CDU and Co.), the liberal Renew (Macron, FDP and Co.) and the right-wing conservative ECR group (including the Polish PiS and the British Tories). That's a total of 352 votes. However, it needs 376 votes for a necessary majority. The SPD has already stated that it will not be supported by the Leyen and the S&D Group in the European Parliament has already [expressed](https://www.socialistsanddemocrats.eu/newsroom/sd-leader-iratxe-garcia-proposal-council-deeply-disappointing "S&D leader Iratxe García: The proposal from the Council is deeply disappointing") its opposition. The situation is similar for the Greens. Their "top candidates" Bas Eickhout and Ska Keller were even "shocked" by the government's proposal.
+
+{{< tweet "1146108209532407814" >}}
 
 The question remains as to where von der Leyen wants to get the remaining votes needed. The left will certainly not vote for her, and the "non-attached," especially Nigel Farage's Brexit party and the Italian Five Stars, are unlikely to win a majority. All that remains is the 'identity and democracy' group, i.e. the parties commonly referred to as 'right-wing populists'. Without the votes of Salvini's Lega, Straches FPÖ, Le Pen's collection movement and the German AfD, von der Leyen will have little chance of being elected by parliament.
 

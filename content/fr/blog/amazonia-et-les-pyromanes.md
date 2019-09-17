@@ -8,7 +8,11 @@ lang: fr
 cover: "society"
 ---
 
-Il suffisait qu'Emmanuel Macron publie un [tweet alarmant](https://twitter.com/EmmanuelMacron/status/1164617008962527232 "Macron begins consecration") à la veille de la conférence du G7 à Biarritz, dans lequel il décrivait les feux de forêt en Amazonie brésilienne comme le déclencheur d'une crise internationale. [Villas Boas](https://twitter.com/Gen_VillasBoas/status/1164719139413536774 "The general follows the consecration") a symboliquement rappelé que Macron avait lancé une «attaque directe contre la souveraineté brésilienne» qui «inclut objectivement les menaces de la force militaire», a déclaré l'ancien président. Chef de l'armée et stratège en chef par intérim du régime de Bolsonaro.
+{{< tweet "1164617008962527232" >}}
+
+Il suffisait qu'Emmanuel Macron publie un tweet alarmant à la veille de la conférence du G7 à Biarritz, dans lequel il décrivait les feux de forêt en Amazonie brésilienne comme le déclencheur d'une crise internationale. Villas Boas a symboliquement rappelé que Macron avait lancé une «attaque directe contre la souveraineté brésilienne» qui «inclut objectivement les menaces de la force militaire», a déclaré l'ancien président. Chef de l'armée et stratège en chef par intérim du régime de Bolsonaro.
+
+{{< tweet "1164719139413536774" >}}
 
 {{< image srcwebp="/static/img/content/2019/180.webp" srcalt="/static/img/content/2019/180.jpg" title="Brasil" >}}
 

@@ -2,7 +2,6 @@
 title: "Maidan 2014"
 date: 2019-08-18
 tags: "Medien"
-keywords: "Maidan, Ukraine, Klitschko, Euromaidan, Ukraine, Protest, Demonstration, Naziaufmarsch, Nazis, Janukowitsch, Swoboda, Stepan Bandera"
 shorttext: "Bis heute verbreiten die Medien falsches über die blutigen Geschehnisse während des Maidan. Schauen wir auf den Fortgang ..."
 cover: "media"
 draft: false
@@ -95,7 +94,9 @@ Weitere Aufnahmen belegen übrigens, dass da noch mehr mit Gewehren bewaffnete M
 
 Doch dabei blieb es. Der Monitor-Beitrag blieb die Ausnahme. Die Studie des kanadisch-ukrainischen Politikwissenschaftlers Ivan Katchanovski zu dem Massaker ignorierte der Mainstream dann schon wieder komplett.
 
-Direkt auf die Bewaffneten im Hotel angesprochen, reagieren ARD-Korrespondenten bis heute [hochallergisch](https://twitter.com/GolinehAtai/status/976509959105073152 "Golineh Atai") und mit einer krassen Portion Realitätsverweigerung. Maidananhänger als Todesschützen? No News.
+Direkt auf die Bewaffneten im Hotel angesprochen, reagieren ARD-Korrespondenten bis heute hochallergisch und mit einer krassen Portion Realitätsverweigerung. Maidananhänger als Todesschützen? No News.
+
+{{< tweet "976509959105073152" >}}
 
 #### Legal, illegal, scheißegal
 

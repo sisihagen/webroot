@@ -8,7 +8,11 @@ lang: en
 cover: "society"
 ---
 
-It was enough for Emmanuel Macron to post an [alarming tweet](https://twitter.com/EmmanuelMacron/status/1164617008962527232 "Macron begins consecration")  on the eve of the G7 conference in Biarritz, in which he described the forest fires in The Brazilian Amazon as the trigger for "an international crisis." A few hours later, the Brazilian general [Eduardo Villas Boas](https://twitter.com/Gen_VillasBoas/status/1164719139413536774 "The general follows the consecration") shot back symbolically that Macron had launched a "direct attack on Brazilian sovereignty" that "objectively includes threats of military force," the former president said. Army chief and acting chief strategist of the Bolsonaro regime.
+{{< tweet "1164617008962527232" >}}
+
+It was enough for Emmanuel Macron to post an alarming tweet  on the eve of the G7 conference in Biarritz, in which he described the forest fires in The Brazilian Amazon as the trigger for "an international crisis." A few hours later, the Brazilian general Eduardo Villas Boas shot back symbolically that Macron had launched a "direct attack on Brazilian sovereignty" that "objectively includes threats of military force," the former president said. Army chief and acting chief strategist of the Bolsonaro regime.
+
+{{< tweet "1164719139413536774" >}}
 
 {{< image srcwebp="/static/img/content/2019/180.webp" srcalt="/static/img/content/2019/180.jpg" title="Brasil" >}}
 

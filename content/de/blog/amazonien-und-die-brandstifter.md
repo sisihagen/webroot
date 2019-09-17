@@ -8,7 +8,11 @@ lang: de
 cover: "society"
 ---
 
-Es reichte, dass Emmanuel Macron am Vorabend der G7-Konferenz in Biarritz einen [alarmierenden Tweet](https://twitter.com/EmmanuelMacron/status/1164617008962527232 "Macron beginnt die Beweihräucherung") absetzte, in dem er die Waldbrände im brasilianischen Amazonien als Auslöser "einer internationalen Krise” bezeichnete. Wenige Stunden später schoss der brasilianische General a.D. [Eduardo Villas Boas](https://twitter.com/Gen_VillasBoas/status/1164719139413536774 "Der General folgt der Beweihräucherung") sinnbildlich zurück, Macron habe einen "direkten Angriff auf die brasilianische Souveränität” vorgenommen, der "objektiv Androhungen von Militärgewalt umfasst”, empörte sich der ehemalige Heereschef und amtierende Chefstratege des Bolsonaro-Regimes.
+{{< tweet "1164617008962527232" >}}
+
+Es reichte, dass Emmanuel Macron am Vorabend der G7-Konferenz in Biarritz einen alarmierenden Tweet absetzte, in dem er die Waldbrände im brasilianischen Amazonien als Auslöser "einer internationalen Krise” bezeichnete. Wenige Stunden später schoss der brasilianische General a.D. Eduardo Villas Boas sinnbildlich zurück, Macron habe einen "direkten Angriff auf die brasilianische Souveränität” vorgenommen, der "objektiv Androhungen von Militärgewalt umfasst”, empörte sich der ehemalige Heereschef und amtierende Chefstratege des Bolsonaro-Regimes.
+
+{{< tweet "1164719139413536774" >}}
 
 {{< image srcwebp="/static/img/content/2019/180.webp" srcalt="/static/img/content/2019/180.jpg" title="Brasil" >}}
 
