@@ -1,6 +1,6 @@
 ---
 title: "Schlechter Verlierer"
-date: 2019-08-18
+date: 2019-09-18
 tags: "Staat"
 shorttext: "Trump fügt seinem Land erheblichen Schaden zu, weil er die Wirtschaftskraft Chinas noch immer unterschätzt."
 cover: "repression"
@@ -42,7 +42,7 @@ China hat offensichtlich einen Plan, wie es mit den negativen Folgen des Handels
 
 #### Trumps einzige Antwort: Zölle
 
-Trumps einzige Strategie China entgegenzutreten besteht darin, mehr Zölle zu erheben und mit noch mehr Zöllen zu drohen. Er hat wiederholt öffentlich erklärt, dass erhobene Zölle „freies“, von China bezahltes Geld seien.
+Trumps einzige Strategie China entgegenzutreten besteht darin, mehr Zölle zu erheben und mit noch mehr Zöllen zu drohen. Er hat wiederholt öffentlich erklärt, dass erhobene Zölle "freies", von China bezahltes Geld seien.
 
 Irgendjemand muss ihm sagen, dass dieses freie Geld dem US-amerikanischen Konsumenten schadet, weil es die Güter verteuert und die Portemonnaies leert. Das Geld ist nicht umsonst und es kommt auch nicht aus China.
 
@@ -76,7 +76,7 @@ Indem innere Bauteile der Waggons in den USA hergestellt würden, bestünde das 
 
 Doch als der erste Wagen nach Boston geliefert wurde, war der einzige Kommentar des New Yorker Senators Chuck Schumer, dass er sich Sorgen darum mache, China könne die Wagen für die [Spionage](https://www.boston.com/news/local-news/2019/05/19/chuck-schumer-crrc-mbta "Chuck Schumer is calling for a probe of the Chinese company making the new MTA and MBTA cars") gegen die USA nutzen. Jüngst ist Kongressmitglied Harley Rouda noch weiter gegangen, als er eine Gesetzgebung unterstützte, die den Kauf von CRRC-Bahnwaggons mit Bundesgeldern verbieten würde.
 
-[Rouda](https://www.americanmanufacturing.org/press-releases/entry/aam-letter-to-congress-american-taxpayer-dollars-are-not-for-chinese-s "AAM Letter to Congress: American Taxpayer Dollars Are Not for Chinese SOEs") sagte, „das hart verdiente Geld der US-Steuerzahler solle keine chinesischen Unternehmen fördern, die Wirtschaftszweige unterminieren, die wesentlich für unsere nationale Sicherheit sind.“ Er ist entweder verwirrt oder einfach nur ausländerfeindlich, weil US-Amerikaner schon jahrzehntelang keine U-Bahn-Waggons mehr herstellen.
+[Rouda](https://www.americanmanufacturing.org/press-releases/entry/aam-letter-to-congress-american-taxpayer-dollars-are-not-for-chinese-s "AAM Letter to Congress: American Taxpayer Dollars Are Not for Chinese SOEs") sagte, "das hart verdiente Geld der US-Steuerzahler solle keine chinesischen Unternehmen fördern, die Wirtschaftszweige unterminieren, die wesentlich für unsere nationale Sicherheit sind." Er ist entweder verwirrt oder einfach nur ausländerfeindlich, weil US-Amerikaner schon jahrzehntelang keine U-Bahn-Waggons mehr herstellen.
 
 Wenn dies tatsächlich eine Branche ist, die wichtig für die nationale Sicherheit der USA ist, sollte er sich besser beeilen und die Unternehmen auf dem Friedhof wiederbeleben.
 

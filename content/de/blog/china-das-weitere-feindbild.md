@@ -8,7 +8,7 @@ draft: false
 lang: de
 ---
 
-Um die Dinge einordnen zu können, muss man sich ein wenig mit der Geschichte Chinas und seinem Weltbild beschäftigen. Die Geschichte eines Landes prägt die Menschen dort. In Deutschland prägt uns vor allem die NS-Zeit und die deutsche Teilung, auch dreißig Jahre danach reden wir noch von „Ossis“ und Wessis“. Die USA sind von dem „Wilden Westen“ geprägt. Diese Vergangenheit hat dem Land eine kriegerische Tradition gegeben, es geht um „Gut und Böse“ und um das Selbstverständnis, ein überlegenes Land zu sein, „God´s own country“. Das hat seinen Ursprung in den Indianerkriegen und den Kriegen gegen Mexiko, als sich die USA in allen Belangen als überlegen ansahen. Auch moralisch. So werden bis heute alle ihre Kriege mit der angeblich höheren Moral der USA und ihren „Werten“ begründet. Polen ist geprägt davon, dass es Jahrhunderte zwischen Deutschland und Russland aufgeteilt war und das prägt bis heute die Politik gegenüber den beiden Nachbarn. Die Briten haben noch immer nicht verwunden, kein Empire mehr zu sein.
+Um die Dinge einordnen zu können, muss man sich ein wenig mit der Geschichte Chinas und seinem Weltbild beschäftigen. Die Geschichte eines Landes prägt die Menschen dort. In Deutschland prägt uns vor allem die NS-Zeit und die deutsche Teilung, auch dreißig Jahre danach reden wir noch von "Ossis" und Wessis". Die USA sind von dem "Wilden Westen" geprägt. Diese Vergangenheit hat dem Land eine kriegerische Tradition gegeben, es geht um "Gut und Böse" und um das Selbstverständnis, ein überlegenes Land zu sein, "God´s own country". Das hat seinen Ursprung in den Indianerkriegen und den Kriegen gegen Mexiko, als sich die USA in allen Belangen als überlegen ansahen. Auch moralisch. So werden bis heute alle ihre Kriege mit der angeblich höheren Moral der USA und ihren "Werten" begründet. Polen ist geprägt davon, dass es Jahrhunderte zwischen Deutschland und Russland aufgeteilt war und das prägt bis heute die Politik gegenüber den beiden Nachbarn. Die Briten haben noch immer nicht verwunden, kein Empire mehr zu sein.
 
 China hat eine lange Tradition darin, nicht expandieren zu wollen, China ist sich selbst seit Jahrhunderten genug, anstatt zu expandieren, hat es seine Grenzen mit einer Mauer gesichert und sich eingeigelt. China ist stolz auf seine Jahrtausende alte Kultur und man hält sich deshalb auch durchaus den anderen gegenüber für kulturell überlegen. China war mal die führende Seemacht und hätte leicht eine Kolonialmacht wie Spanien werden können, aber dann entschied ein Kaiser sich für eine Politik der Isolation. Während Europa die Welt eroberte, war China sich selbst genug und lehnte sogar den Handel mit dem Ausland weitgehend ab. Erst die Kolonialmächte haben China im 19. Jahrhundert zu einer Öffnung gezwungen.
 
@@ -37,41 +37,41 @@ Man muss diese Sicht nicht teilen, aber es ist wichtig, das zu verstehen.
 
 China setzt trotzdem auf Frieden und hat niemandem mit Krieg gedroht. Natürlich gibt es Konflikte, wenn China im chinesischen Meer Inseln aufschüttet und sie zum eigenen Staatsgebiet erklärt, um sich die dortigen Bodenschätze zu sichern. Das verärgert die Nachbarn, aber es ist keine Aggression gegen irgendwen. Sportlich betrachtet könnte man sagen, dass China eben schneller war, als seine Konkurrenten, die es auch auf diese Vorkommen abgesehen haben.
 
-Natürlich haben die westlichen Politiker und Medien darauf eine andere Sicht. Der Spiegel titelte zum chinesischen Weißbuch „[Chinas Militärstrategie – Inszenierte Friedfertigkeit](https://www.spiegel.de/politik/ausland/chinas-militaerstrategie-die-macht-die-frieden-will-und-konflikte-schafft-a-1278976.html "Inszenierte Friedfertigkeit")“ und schrieb dazu:
+Natürlich haben die westlichen Politiker und Medien darauf eine andere Sicht. Der Spiegel titelte zum chinesischen Weißbuch "[Chinas Militärstrategie – Inszenierte Friedfertigkeit](https://www.spiegel.de/politik/ausland/chinas-militaerstrategie-die-macht-die-frieden-will-und-konflikte-schafft-a-1278976.html "Inszenierte Friedfertigkeit")" und schrieb dazu:
 
-> So wirft China den Vereinigten Staaten und ihren Verbündeten vor, mit ihrem militärischen Vorgehen für zunehmende Unsicherheiten in Asien zu sorgen. „Die chinesische Führung will den Spieß umdrehen und gibt die USA als Aggressor aus, der das globale Gefüge durcheinander bringt“, sagt Legarda. Die USA würden gezielt ihre „Militärallianzen im asiatisch-pazifischen Raum stärken“ und die Präsenz ihrer Streitkräfte ausweiten, heißt es im Weißbuch. Dadurch werde die Sicherheitslage „komplexer“
+> So wirft China den Vereinigten Staaten und ihren Verbündeten vor, mit ihrem militärischen Vorgehen für zunehmende Unsicherheiten in Asien zu sorgen. "Die chinesische Führung will den Spieß umdrehen und gibt die USA als Aggressor aus, der das globale Gefüge durcheinander bringt", sagt Legarda. Die USA würden gezielt ihre "Militärallianzen im asiatisch-pazifischen Raum stärken" und die Präsenz ihrer Streitkräfte ausweiten, heißt es im Weißbuch. Dadurch werde die Sicherheitslage "komplexer"
 
-Nur warum will China angeblich „den Spieß umdrehen„? Was stimmt an der chinesischen Aussage nicht? Es sind die USA, die sich in dem Raum immer breiter aufstellen, es ist ja nicht China, das seine Präsenz in Mexiko oder der Karibik erhöht. Und es sind die USA, die mit Taiwan gerade erst einen Milliarden-Deal über Waffenlieferungen geschlossen haben und nicht etwa China, das Mexiko aufrüstet.
+Nur warum will China angeblich "den Spieß umdrehen"? Was stimmt an der chinesischen Aussage nicht? Es sind die USA, die sich in dem Raum immer breiter aufstellen, es ist ja nicht China, das seine Präsenz in Mexiko oder der Karibik erhöht. Und es sind die USA, die mit Taiwan gerade erst einen Milliarden-Deal über Waffenlieferungen geschlossen haben und nicht etwa China, das Mexiko aufrüstet.
 
 Der Westen nimmt sich das Recht heraus, in jeder Region der Welt die Regeln bestimmen zu wollen und ist ganz verwundert, wenn jemandem das nicht gefällt. Es ist keine drei Wochen her, als Lindner bei einem China-Besuch seine Grenzen aufgezeigt bekam und die Entrüstung war groß.
 
 Aber würde der Westen sich derartige Einmischungen vor seiner Haustür gefallen lassen? Natürlich nicht!
 
-In den Medien lesen wir immer, egal, ob es um den Persischen Golf oder um Taiwan oder andere Regionen geht, dass die freie Schifffahrt nicht bedroht werden darf. Der Westen schickt dafür gerne gleich Flottenverbände in jede Region der Welt, ganz in der alten britischen Tradition der Kanonenboot-Politik und nennt das dann „Deeskalation“.
+In den Medien lesen wir immer, egal, ob es um den Persischen Golf oder um Taiwan oder andere Regionen geht, dass die freie Schifffahrt nicht bedroht werden darf. Der Westen schickt dafür gerne gleich Flottenverbände in jede Region der Welt, ganz in der alten britischen Tradition der Kanonenboot-Politik und nennt das dann "Deeskalation".
 
 {{< youtube "3wgAFHxB3-Y" >}}
 
 Aber für den Westen ist die freie Schifffahrt nur dann wichtig, wenn sie seine Schiffe betrifft weit weg stattfindet, sie gilt nicht für andere und nicht vor westlichen Gewässern.
 
-So schicken die USA immer wieder demonstrativ Kriegsschiffe durch die Straße von Taiwan und begründen das mit der Freiheit der Schifffahrt. Für Chinas Entrüstung gibt es in den westlichen Medien kein Verständnis. Über den letzten derartigen Fall Ende Juli schrieb die „[Zeit](https://www.zeit.de/politik/ausland/2019-07/konflikt-mit-china-us-marine-strasse-von-taiwan "USA schicken Kriegsschiff in Straße von Taiwan")“:
+So schicken die USA immer wieder demonstrativ Kriegsschiffe durch die Straße von Taiwan und begründen das mit der Freiheit der Schifffahrt. Für Chinas Entrüstung gibt es in den westlichen Medien kein Verständnis. Über den letzten derartigen Fall Ende Juli schrieb die "[Zeit](https://www.zeit.de/politik/ausland/2019-07/konflikt-mit-china-us-marine-strasse-von-taiwan "USA schicken Kriegsschiff in Straße von Taiwan")":
 
-> Die USA haben ein Kriegsschiff in die Straße von Taiwan geschickt. „Der Transit durch die Taiwan-Straße zeigt das Engagement der USA für einen freien und offenen Indopazifik“, sagte ein Sprecher der siebten Flotte der US-Marine in Washington. „Die U.S. Navy wird weiterhin fliegen, segeln und operieren, wo immer es das internationale Recht erlaubt.“
+> Die USA haben ein Kriegsschiff in die Straße von Taiwan geschickt. "Der Transit durch die Taiwan-Straße zeigt das Engagement der USA für einen freien und offenen Indopazifik", sagte ein Sprecher der siebten Flotte der US-Marine in Washington. "Die U.S. Navy wird weiterhin fliegen, segeln und operieren, wo immer es das internationale Recht erlaubt."
 
 Aber setzt sich der Westen auch so für die freie Schifffahrt ein, wenn es vor seiner eigenen Haustür passiert?
 
-Die Antwort finden wir schnell. Auf dem Weg vom Mittelmeer in die Ostsee müssen russische Schiffe immer wieder durch den Ärmelkanal. Aber das sehen die Briten als Provokation, wie wir zum Beispiel in der „[Welt](https://www.welt.de/politik/ausland/article172300338/Briten-fangen-russische-Kriegsschiffe-im-Aermelkanal-ab.html "Briten fangen russische Kriegsschiffe ab")“ ausführlich lesen konnten:
+Die Antwort finden wir schnell. Auf dem Weg vom Mittelmeer in die Ostsee müssen russische Schiffe immer wieder durch den Ärmelkanal. Aber das sehen die Briten als Provokation, wie wir zum Beispiel in der "[Welt](https://www.welt.de/politik/ausland/article172300338/Briten-fangen-russische-Kriegsschiffe-im-Aermelkanal-ab.html "Briten fangen russische Kriegsschiffe ab")" ausführlich lesen konnten:
 
-> Eine Fregatte der britischen Marine hat mehrere russische Kriegsschiffe vor der britischen Küste abgefangen und durch den Ärmelkanal eskortiert. Die „HMS Westminster“ habe die russischen Fregatten „RFS Soobrazitelnyy“ und „RFS Boikiy“ sowie zwei Unterstützungsschiffe entlang der englischen Südküste begleitet, teilte das britische Verteidigungsministerium am Montag mit. (…) In einer ungewöhnlich deutlichen Erklärung hatte Verteidigungsminister Gavin Williamson daraufhin erklärt, er werde nicht zögern, „unsere Gewässer zu verteidigen“, und keine Form von Aggression dulden. Großbritannien lasse sich nicht einschüchtern, wenn es darum gehe, „unser Land, unser Volk und unsere nationalen Interessen zu verteidigen“.
+> Eine Fregatte der britischen Marine hat mehrere russische Kriegsschiffe vor der britischen Küste abgefangen und durch den Ärmelkanal eskortiert. Die "HMS Westminster" habe die russischen Fregatten "RFS Soobrazitelnyy" und "RFS Boikiy" sowie zwei Unterstützungsschiffe entlang der englischen Südküste begleitet, teilte das britische Verteidigungsministerium am Montag mit. (…) In einer ungewöhnlich deutlichen Erklärung hatte Verteidigungsminister Gavin Williamson daraufhin erklärt, er werde nicht zögern, "unsere Gewässer zu verteidigen", und keine Form von Aggression dulden. Großbritannien lasse sich nicht einschüchtern, wenn es darum gehe, "unser Land, unser Volk und unsere nationalen Interessen zu verteidigen".
 
 Vor der eigenen Haustür ist die freie Schifffahrt dem Westen lange nicht so heilig, wie vor den Haustüren anderer. Um es mit dem Titel des Spiegel-Artikels zu sagen: Wer inszeniert hier seine Friedfertigkeit?
 
 Das ist nicht alles. Die USA haben den INF-Vertrag gekündigt und seit dem 2. August dürfen sie wieder landgestützte Kurz- und Mittelstreckenraketen aufstellen. Was wir in Europa mit Sorge verfolgen, gefällt auch China nicht, denn die USA haben bereits angekündigt, solche Raketen in Asien aufstellen zu wollen, also in Japan und Südkorea. Das ist eine direkte Aggression gegen China. Es ist ja nicht China, dass solche atomwaffenfähigen Raketen in der Karibik oder Mexiko vor der Tür der USA aufstellt.
 
-> Keine US-Raketen „auf Chinas Türschwelle“: Peking hat mit Drohungen auf US-Pläne reagiert, Mittelstreckenraketen in Asien zu installieren. US-Verteidigungsminister Mark Esper hatte am Samstag angekündigt, schon bald bodengestützte Raketen stationieren zu wollen, die Ziele in bis zu 5000 Kilometer Entfernung erreichen können. (…) Die USA wiederum haben ihre Militärpräsenz in Asien in den vergangenen Jahren stark ausgebaut, um ein Gegengewicht zum erstarkenden China zu bilden. In dem Zusammenhang stehen auch die aktuellen Raketenpläne der Trump-Regierung.
+> Keine US-Raketen "auf Chinas Türschwelle": Peking hat mit Drohungen auf US-Pläne reagiert, Mittelstreckenraketen in Asien zu installieren. US-Verteidigungsminister Mark Esper hatte am Samstag angekündigt, schon bald bodengestützte Raketen stationieren zu wollen, die Ziele in bis zu 5000 Kilometer Entfernung erreichen können. (…) Die USA wiederum haben ihre Militärpräsenz in Asien in den vergangenen Jahren stark ausgebaut, um ein Gegengewicht zum erstarkenden China zu bilden. In dem Zusammenhang stehen auch die aktuellen Raketenpläne der Trump-Regierung.
 
 Weiter heißt es ...
 
-> Wie China genau reagieren will, sagte Fu nicht. Es seien aber „alle Optionen auf dem Tisch“
+> Wie China genau reagieren will, sagte Fu nicht. Es seien aber "alle Optionen auf dem Tisch"
 
 Natürlich wird getreu der westlichen Propaganda die Aussage um wesentliches gekürzt!
 
@@ -81,7 +81,7 @@ Da hat er nicht unrecht. In allen Geschichtsbüchern und Dokus wird uns erzählt
 
 Im Spiegel konnte man weiter lesen:
 
-> Außerdem sagte er, Peking habe keinerlei Interesse an Verhandlungen, dafür seien die eigenen atomaren Bestände und die Reichweiten zu gering. Es sei „weder vernünftig noch fair“ von China zu erwarten, sich an Abrüstungsgesprächen zu beteiligen.
+> Außerdem sagte er, Peking habe keinerlei Interesse an Verhandlungen, dafür seien die eigenen atomaren Bestände und die Reichweiten zu gering. Es sei "weder vernünftig noch fair" von China zu erwarten, sich an Abrüstungsgesprächen zu beteiligen.
 
 Das klingt böse: China will nicht verhandeln! Dabei hat China recht und das auch in seinem Weißbuch geschrieben:
 

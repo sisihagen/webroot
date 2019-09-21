@@ -1,6 +1,6 @@
 ---
 title: "Die SPD-Nachfolgepartei"
-date: 2019-09-20
+date: 2019-09-21
 tags: "Gesellschaft"
 shorttext: "Nach den Wahlen in Brandenburg und Sachsen segelt auch die Partei Die Linke im Windschatten des SPD-Sterbens in eine tiefe Krise."
 draft: false
@@ -28,15 +28,15 @@ Angesichts des sich seit Jahren vollziehenden Niedergangs der Partei können reg
 
 Nach Katja Kipping hätten sich viele Wähler im letzten Augenblick angesichts des bedrohlichen Aufkommens der AfD gegen eine Stimmabgabe für die Linke und zugunsten der sächsischen CDU bzw. der brandenburgischen SPD als führende Regierungsparteien entschieden. Doch zumindest für das Brandenburger Ergebnis kann das nicht gelten. Hier hätten ja die besorgten Wähler durchaus die Linkspartei als verlässlichen Regierungspartner der SPD wählen können, auf diese Weise hätten sie sehr wohl den Fortbestand der Rot-Roten-Regierung in Potsdam sichern können.
 
-Dietmar Bartsch hingegen sah in der langjährigen Beteiligung der Linkspartei an Landesregierungen die Hauptursache für die Niederlagen: DIE LINKE werde nicht mehr als die „Interessenvertretung im Osten“ angesehen, sondern als Teil des Systems. Dann hätte aber das Ergebnis in Sachsen anders ausfallen müssen, denn in diesem Land hat die [Linkspartei](https://www.faz.net/aktuell/politik/inland/nach-den-landtagswahlen-leckt-die-linke-ihre-wunden-16364989.html "Schlachtfest ohne Schlachteplatte") nie mitregiert!
+Dietmar Bartsch hingegen sah in der langjährigen Beteiligung der Linkspartei an Landesregierungen die Hauptursache für die Niederlagen: DIE LINKE werde nicht mehr als die "Interessenvertretung im Osten" angesehen, sondern als Teil des Systems. Dann hätte aber das Ergebnis in Sachsen anders ausfallen müssen, denn in diesem Land hat die [Linkspartei](https://www.faz.net/aktuell/politik/inland/nach-den-landtagswahlen-leckt-die-linke-ihre-wunden-16364989.html "Schlachtfest ohne Schlachteplatte") nie mitregiert!
 
 #### Keine personellen Konsequenzen
 
-Angesichts einer solch desaströsen Gesamtbilanz hätte jede andere Partei längst ihre so offensichtlich gescheiterte Politik aufgegeben und einen anderen Kurs eingeschlagen. Nicht aber die Linkspartei! Zwar kündigt man jetzt zum wiederholten Mal eine Diskussion über die [strategische Ausrichtung](https://www.linksfraktion.de/themen/nachrichten/detail/grundfragen-strategischer-ausrichtung-stellen/ "Grundfragen strategischer Ausrichtung stellen") an, doch die soll erst „im nächsten Jahr“ stattfinden. Ganz offensichtlich setzt man auf einen glimpflichen Wahlausgang Ende Oktober in Thüringen. Damit soll dann der seit Jahren anhaltende Niedergang kaschiert werden.
+Angesichts einer solch desaströsen Gesamtbilanz hätte jede andere Partei längst ihre so offensichtlich gescheiterte Politik aufgegeben und einen anderen Kurs eingeschlagen. Nicht aber die Linkspartei! Zwar kündigt man jetzt zum wiederholten Mal eine Diskussion über die [strategische Ausrichtung](https://www.linksfraktion.de/themen/nachrichten/detail/grundfragen-strategischer-ausrichtung-stellen/ "Grundfragen strategischer Ausrichtung stellen") an, doch die soll erst "im nächsten Jahr" stattfinden. Ganz offensichtlich setzt man auf einen glimpflichen Wahlausgang Ende Oktober in Thüringen. Damit soll dann der seit Jahren anhaltende Niedergang kaschiert werden.
 
 Die Partei hätte sich längst von den für den Abstieg in erster Linie Verantwortlichen trennen müssen. Doch die bereits seit mehr als sieben Jahren amtierenden Parteivorsitzenden Katja Kipping und Bernd Riexinger wollen ganz offensichtlich unverdrossen weitermachen.
 
-Während in der SPD in den letzten Jahren erfolglose Vorsitzende gleich reihenweise ihren Hut nehmen mussten, glaubt man an der Parteispitze der Linkspartei, die Probleme aussitzen zu können. So spielt man im Berliner Karl-Liebknecht-Haus auf Zeit: „Was den Linken nicht helfe, wäre, jetzt in ‚reflexhafte Schuldzuweisungen oder Schlachteplatte‘ zu verfallen“, sagte Kipping.
+Während in der SPD in den letzten Jahren erfolglose Vorsitzende gleich reihenweise ihren Hut nehmen mussten, glaubt man an der Parteispitze der Linkspartei, die Probleme aussitzen zu können. So spielt man im Berliner Karl-Liebknecht-Haus auf Zeit: "Was den Linken nicht helfe, wäre, jetzt in ‚reflexhafte Schuldzuweisungen oder Schlachteplatte‘ zu verfallen", sagte Kipping.
 
 Und so mussten nicht die Vorsitzenden gehen, sondern mit Sahra Wagenknecht ihre wichtigste Kritikerin. Eine absurde Situation! Gegen die Co-Vorsitzende der Bundestagsfraktion wurde eine regelrechte innerparteiliche Treibjagd veranstaltet, sodass sie schließlich im Frühjahr 2019 nach längerer Krankheit entnervt ankündigte, das Amt der Co-Fraktionsvorsitzenden aufgeben zu wollen.
 
@@ -50,7 +50,7 @@ Bereits zwei Jahre zuvor hatte Oskar Lafontaine aus Anlass der Bundestagswahlen 
 
 > Allen Grund nachzudenken hat DIE LINKE trotz ihres guten Ergebnisses darüber, dass nur 11 Prozent der Arbeitslosen sie unterstützt haben — weniger als SPD (23 Prozent), AfD (22 Prozent) und Union (20 Prozent) und gerade mal etwas mehr als FDP und Grüne (je 7 Prozent) — und nur 10 Prozent der Arbeiter (Union 25 Prozent, SPD 24, AfD 21). Das sind zwei Prozent mehr als bei der FDP(!), die von acht Prozent der Arbeiter gewählt wurde. Der Schlüssel für diese mangelnde Unterstützung durch diejenigen, die sich am unteren Ende der Einkommensskala befinden, ist die verfehlte ‚Flüchtlingspolitik.
 
-Die Aufforderung Lafontaines zum Nachdenken wurde seinerzeit in den Wind geschlagen. Und auf dem Leipziger Parteitag im Juni 2018 hielt eine Mehrheit der Delegierten demonstrativ an der Forderung nach „offenen Grenzen“ fest.
+Die Aufforderung Lafontaines zum Nachdenken wurde seinerzeit in den Wind geschlagen. Und auf dem Leipziger Parteitag im Juni 2018 hielt eine Mehrheit der Delegierten demonstrativ an der Forderung nach "offenen Grenzen" fest.
 
 Sahra Wagenknecht wurde zugleich wegen ihrer davon abweichenden Haltung persönlich massiv angegriffen.
 

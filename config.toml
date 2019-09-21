@@ -29,6 +29,21 @@ assetDir = "static"
     weight = 100
     pattern = "2006"
 
+[privacy]
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = true
+  [privacy.vimeo]
+    disable = false
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
 [languages]
     [languages.de]
         baseURL = "http://silviosiefke.de"

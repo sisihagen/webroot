@@ -34,12 +34,12 @@ Und zuletzt Afghanistan. Trump hatte schon im Wahlkampf versprochen, die US-Trup
 
 Es gab also eigentlich bei allen Themen Meinungsverschiedenheiten zwischen Trump und Bolton. Ein Sicherheitsberater muss aber per Definition ein loyaler Mitarbeiter seines Chefs sein. Daher habe ich nie verstanden, warum Trump ihm den Posten gegeben hat.
 
-Am Dienstagabend hat Trump über Twitter mitgeteilt, er habe Bolton gebeten, seinen Rücktritt einzureichen, was Bolton am Morgen auch getan habe. „Das Weiße Haus braucht seine Dienste nicht mehr“ hieß es knapp bei Trump. Und weiter bestätigte er das, was Beobachter wie ich seit Monaten schreiben, nämlich dass es starke Meinungsverschiedenheiten zwischen ihnen gegeben habe. Trump teilte weiter mit, er werde einen Nachfolger nächste Woche ernennen.
+Am Dienstagabend hat Trump über Twitter mitgeteilt, er habe Bolton gebeten, seinen Rücktritt einzureichen, was Bolton am Morgen auch getan habe. "Das Weiße Haus braucht seine Dienste nicht mehr" hieß es knapp bei Trump. Und weiter bestätigte er das, was Beobachter wie ich seit Monaten schreiben, nämlich dass es starke Meinungsverschiedenheiten zwischen ihnen gegeben habe. Trump teilte weiter mit, er werde einen Nachfolger nächste Woche ernennen.
 
 Bolton sieht die Sache anders und schreibt ebenfalls auf Twitter, er hätte seinen Rücktritt angeboten und Trump hätte das am nächsten Tag besprechen wollen.
 
 Was auch immer wahr ist, Fakt ist Bolton ist weg und die Frage ist, wie geht es weiter?
 
-Das werden wir in den nächsten Tagen sehen, jedenfalls ist es spannend, dass der Machtkampf zwischen der „alten Garde“ der Falken und Trump nun anscheinend offen ausgebrochen ist. Ob dieser Machtkampf eskaliert und ob diese Geschichte auch Pompeo das Amt kosten, oder seine Position stärken wird? Wer weiß.
+Das werden wir in den nächsten Tagen sehen, jedenfalls ist es spannend, dass der Machtkampf zwischen der "alten Garde" der Falken und Trump nun anscheinend offen ausgebrochen ist. Ob dieser Machtkampf eskaliert und ob diese Geschichte auch Pompeo das Amt kosten, oder seine Position stärken wird? Wer weiß.
 
 Wer in dem Machtkampf hinter den Kulissen in Washington Oberwasser hat, werden wir vielleicht erraten können, wenn Trump Boltons Nachfolger präsentiert. Wird es wieder ein Falke oder jemand, der Trumps außenpolitische Ziele teilt?
