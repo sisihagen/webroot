@@ -1,8 +1,7 @@
 ---
 title: "Pas de guerre au Venezuela"
 date: 2019-03-31
-tags: "society"
-keywords: "Venezuela, Etats-Unis, guerre, Maduro, aide, droit international, droits de l’homme, NATO, Bloomberg, Cúcuta, Colombia, Cliver Alcalá, Mike pompée, John Boltons, Elliott Abrams, Marco Rubio, refugies"
+tags: "Société"
 shorttext: "Le 22 février dernier, lorsque la machine de propagande terroriste américaine pour traverser la frontière de leur soi-disant \"humanitaire aid\" de la Colombie au Venezuela a couru à pleine vitesse..."
 cover: "society"
 lang: en

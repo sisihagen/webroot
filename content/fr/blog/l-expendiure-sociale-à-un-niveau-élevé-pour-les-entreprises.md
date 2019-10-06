@@ -1,8 +1,7 @@
 ---
 title: "L'expendiure sociale à un niveau élevé pour les entreprises"
 date: 2019-08-23
-tags: "Society"
-keywords: ""
+tags: "Société"
 shorttext: "Le professeur Robert Reich appelle les subventions ouvertes et secrètes aux entreprises par leur nom : il s'agit de dépenses sociales pour les riches."
 draft: false
 lang: fr
