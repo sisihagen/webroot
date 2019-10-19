@@ -8,15 +8,15 @@ lang: en
 cover: "society"
 ---
 
-It is time to take stock: what are the real threats to Europe and the world? For when the world changes rapidly, it is very difficult to see the important thing that calls into question the existence of the world and how the old bonds and relationships, commitments and promises slip out of our hands.
+It is time to think: what are the real threats to Europe and the world? The world changes rapidly, it is very difficult to see the important thing that calls into question the existence of the world and how the old bonds and relationships, commitments and promises slip out of our hands.
 
 Perhaps the most important problems are environmental problems, as environmental activists say, the overpopulation of the planet or greenhouse gas emissions. We cannot deny the obvious: the state of the environment is worrying, but it can hardly be changed by speeches at the UN or the ban on transatlantic flights.
 
 {{< youtube "kSeROYz-IG8" >}}
 
-Perhaps the most important problem is the spread of terrorism, because for the first time in history we have seen the emergence of entire terrorist "states" and an unprecedented increase in extremist groups that have become a factor in big politics. Are. But with the right skills, this is a solvable problem.
+Perhaps the most important problem is the spread of terrorism, because for the first time in history we have seen the emergence of entire terrorist "states" and an unprecedented increase in extremist groups that have become a factor in big politics. But with the right skills, this is a solvable problem.
 
-Perhaps the most important issues are migration, where tens of thousands of migrants from North Africa and the Middle East, with a dark past and no one knows who they are, have gone into hiding in Europe. But, in principle, Europe has digested major invasions. The migratory flows cover up the real problems, wars, environmental damage, economic boycotts, sanctions and the rampage of Western states.
+Perhaps the most important issues are migration, where tens of thousands of migrants from North Africa and the Middle East. But, in principle, Europe has digested major invasions. The migratory flows cover up the real problems, wars, environmental damage, economic boycotts, sanctions and the rampage of Western states.
 
 {{< youtube "Pc3SWj-hjTE" >}}
 
@@ -24,17 +24,23 @@ The critics of Russia, who are seen in the media, are trying to convince the wor
 
 Perhaps the rise of Asia can be seen as particularly dangerous against the backdrop of this loss of Western dominance. Indeed, we are seeing a growing confrontation between the American elites and China, who are concerned about the gradual loss of technological and economic leadership, which will inevitably be followed by the loss of political leadership. Guidance comes and goes, but the earth continues to spin. Why should Russia view these changes as threatening or dangerous? China is a more reliable partner than the West.
 
-We can list threats, constants, and temporary risks for a long time to come, and see how they are connected, how one leads to the other. In this case, we are held by the media, which have been and are supporters of all modern wars and confrontations.
+{{< youtube "kVMgFo_DXg4" >}}
 
-But behind the propaganda are the preparations for a great war, against which all other fears and threats seem ridiculous. That is what the panic-makers in Washington, Brussels, Berlin, Londo and Paris should be talking about. 
+We can list threats, constants, and temporary risks for a long time to come, and see how they are connected, how one leads to the other. In this case, we are held by the media, which been supporters of all modern wars and confrontations.
+
+But behind the propaganda are the preparations for a great war, against which all other fears and threats seem ridiculous. That is what the panic-makers in Washington, Brussels, Berlin, London and Paris should be talking about. 
 
 Let's start with facts and let out differences of opinion. However, these differences and the Increased Competition of the West with China and the growth of the Asia-Pacific region are the main cause of today's threats. There are things that even the most convinced transatlanticist cannot deny: the terrible crisis of the UN as a platform for the prevention of conflict and violence; revisionism and relativism in the interpretation of international law; Plans and activities that objectively increase military risks.
+
+{{< youtube "s1Oe1QODnHY" >}}
 
 Let us first say that (except for a few extreme hawks) no one wants a new global conflict as such. A global conflict likely to arise from a regional conflict is probably not a deliberate goal of any government. But there are fascists who see him as inevitable.
 
 How can this be fixed? For example, official documents of the US military strategy and open discussions about the possible use of nuclear weapons, which is increasingly being brought into play by one party as permissible. There are voices who say that a nuclear war can be won for the first time. At the same time, Russian President Vladimir Putin's proposal to adopt a joint declaration, which once again condemns the war as an inadmissible means and points to the impossibility of winning a nuclear war, was completely praised by the American side. deliberately rejected.
 
-For the first time in many years, Russia is officially named as the main enemy in many military plans. Yes, we may even suspect that the [Russophobia](https://www.vesti.ru/doc.html?id=3191521 "Иванов - о русофобии: за 80 лет ничего не изменилось") sponsors in the EU and the United States. Russia has once again become an official enemy, according to US documents, along with China and Iran (and, of course, the Ebola virus). At the same time, we can doubt that there are plans for regime changes in European countries somewhere in the Russian General Staff. In the US, no military commander is ashamed to talk openly and loudly about such plans.
+For the first time in many years, Russia is officially named as the main enemy in many military plans. Yes, we may even suspect that the Russophobia sponsors in the EU and the United States. Russia has once again become an official enemy, according to US documents, along with China and Iran (and, of course, the Ebola virus). At the same time, we can doubt that there are plans for regime changes in European countries somewhere in the Russian General Staff. In the US, no military commander is ashamed to talk openly and loudly about such plans.
+
+{{< youtube "wbNDM6eXM5I" >}}
 
 For the first time since the old Cold War, which Russia, let us be honest, has lost, one treaty after another is being destroyed, which has laid down the rules in the 'game' around nuclear weapons and their delivery systems. We must be aware that these international treaties were concluded during the Cold War. In other words, even during this tough confrontation, they decided against taking steps towards confrontation and worked out functioning security mechanisms. We have to assume that the reason was in the generation: they were people who could remember what a global conflict meant, people who experienced their youth during the Second World War and during the reconstruction after the war. It was precisely these generals and politicians who knew the price of blood who, during the Cuban Missile Crisis, went to the brink of the abyss and moved away from it again. The new generation of "effective managers" understands how to play war in the theatre and they give orders that are very courageous and often ruthless. They are ready to go to the abyss, but they lack the useful fear of death that previous peoples had, who experienced not only what war means to themselves, but also for their peoples. Today, however, their own peoples are no longer regarded as what one has to protect, but as a playground for the outgrowth of one's own management talents.
 
@@ -46,15 +52,21 @@ In 1987, Ronald Reagan and Mikhail Gorbachev signed the Treaty banning short- an
 
 Apparently, Russia will not be able to convince NATO that the Russian 9M729 missile, which the United States has accused of breaking the treaty, was never planned or tested for prohibited distances. Obviously, we will have to live with the mistrust and also with the fact that the United States will never admit that the MK-41 launch systems, from which it is possible to launch banned types of missiles, were a breach of contract. Russia has said this from the outset, but no one wanted to listen. Even if Russia had not developed a missile, but a non-aircraft-capable wooden board, it would have been described as a breach of contract because the withdrawal from the INF Treaty was planned by the United States, as the tests of new types of missiles were planned a few weeks after the the expiry of the contract.
 
+{{< youtube "ijl-dUR2j8U" >}}
+
 In 1990, when Germany was reunited, Soviet leader Mikhail Gorbachev, on the wave of gratitude, trusted the promise not to expand NATO to the east and not to accept new members from the former Warsaw bloc. The promise was informal, only verbal, and Mikhail Gorbachev was trusting and did not insist on keeping it in a formal agreement. Later, the "partners" claimed that no promises had been made, but many witnesses and negotiators – both Roland Dumas (France's Foreign Minister) and Hans-Dietrich Genscher (German Foreign Minister) – admitted unofficially that such has given talks. Europe and the United States were impressed by the confidence of the USSR and could not resist the temptation to exploit it.
 
 The next document is the NATO-Russia Basic Act of 1997, which is often criticized as being too trusting and too unbinding, but it was concluded as a "fire extinguisher" because NATO did not even intend to talk about its eastward enlargement. The basic act stipulates the obligation not to station permanent contingents on the territory of new NATO members. But we see the construction of military bases in Romania, Poland, the Baltic states, the use of aircraft and armored vehicles, especially against the background of the psychosis of "containing the Russian threat". We are told that tanks and infantry are only rotating there, a small consolation, because no one is saying that they should stay there and retire there and then die of age weakness: of course they rotate, but no one restricts what it means to a great deal of time. permanent stationing.
 
-The so-called "[military Schengen Treaty](https://taz.de/EU-plant-militaerisches-Schengen/!5494949/ "EU plant militärisches Schengen -  Schneller an die Ostfront")", the 2018 agreement between NATO countries, which requires the transfer of armed forces across the continent's borders without having to ask parliaments or executives, and the development of road and road infrastructure, bridges, the construction of depots for weapons, fuels and lubricants. We see that the demand of the "big brother" in NATO to increase military spending to 2 percent is aimed more at supplying orders to the arms industry than at military security. It is unlikely that all these "preparations" are in fact consciously "military", probably aimed at increasing the possibilities of "capacity building". But in combination, they paint a fairly clear picture of rising risks.
+{{< youtube "KjbtjlcRVFE" >}}
+
+The so-called "military Schengen Treaty", the 2018 agreement between NATO countries, which requires the transfer of armed forces across the continent's borders without having to ask parliaments or executives, and the development of road and road infrastructure, bridges, the construction of depots for weapons, fuels and lubricants. We see that the demand of the "big brother" in NATO to increase military spending to 2 percent is aimed more at supplying orders to the arms industry than at military security. It is unlikely that all these "preparations" are in fact consciously "military", probably aimed at increasing the possibilities of "capacity building". But in combination, they paint a fairly clear picture of rising risks.
 
 Whether we should accuse ourselves of being "Eurocentric" or "Western oriented" is a legitimate question, but in Russia, focusing on events and processes in Europe is probably an old habit. Nevertheless, all the world wars have come to Russia from Europe in one way or another. Do we see similar direct threats from the East?
 
-Against this background, Russian President Vladimir Putin's proposal to NATO governments and the alliance itself to establish a common [moratorium](https://www.vesti.ru/doc.html?id=3196060 "Путин предложил Великобритании ввести мораторий на ракеты в Европе") with Russia on the deployment of short- and medium-range missiles on the European continent was a " logical, comprehensible and natural. Finally, the main argument put forward by the envoys from Washington, including the recently dismissed National Security Adviser [John Bolton](https://www.vesti.ru/doc.html?id=3190631 "Уволенный Трампом Болтон начал огрызаться на бывшего шефа"), in Moscow was: 
+{{< youtube "OccAoEan4Ek" >}}
+
+Against this background, Russian President Vladimir Putin's proposal to NATO governments and the alliance itself to establish a common moratorium with Russia on the deployment of short- and medium-range missiles on the European continent was a " logical, comprehensible and natural. Finally, the main argument put forward by the envoys from Washington, including the recently dismissed National Security Adviser [John Bolton](https://www.vesti.ru/doc.html?id=3190631 "Уволенный Трампом Болтон начал огрызаться на бывшего шефа"), in Moscow was: 
 
 > The termination of the INF Treaty is not directed against Russia, we are trying to put pressure on China, which has a large arsenal of these missiles. It is not about Russia.
 

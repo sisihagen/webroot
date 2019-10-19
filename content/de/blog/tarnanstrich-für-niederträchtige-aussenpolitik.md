@@ -60,7 +60,7 @@ Deutschland nutzt die unglückliche Situation des Kosovo im Interesse der eigene
 
 Was kümmert's den "Werte-Westen", was juckt es den Tagesschau-Redakteur? Deutschland fährt doppelten Erfolg ein: Geschäfte mit Kosovo und wirtschaftlichen Druck auf Serbien. Belgrad muss nun eventuell sogar seine Schutzfunktion einschränken, die es für die serbische Minderheit wahrnimmt, die in der Nordwestecke des Kosovo unter ständiger Bedrohung vonseiten der albanisch-stämmigen Bevölkerungsmehrheit lebt.
 
-Deutschland hat im Rahmen seiner restlos verfehlten Außenpolitik für das Kosovo rund 3,5 Milliarden Euro ausgegeben, ohne sichtbare positive Folgen. Dennoch heißt es in der [Regierungsvorlage](http://dip21.bundestag.de/dip21/btd/19/104/1910421.pdf "Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo (KFOR)") zur Verlängerung des Bundeswehr-Mandats typisch politisch aus den Orten wo Honig und Milch fliesen:
+Deutschland hat im Rahmen seiner restlos verfehlten Außenpolitik für das Kosovo rund 3,5 Milliarden Euro ausgegeben, ohne sichtbare positive Folgen. Dennoch heißt es in der [Regierungsvorlage](http://dip21.bundestag.de/dip21/btd/19/104/1910421.pdf "Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo") zur Verlängerung des Bundeswehr-Mandats typisch politisch aus den Orten wo Honig und Milch fliesen:
 
 > Deutschland trägt erheblich zum sozialen und wirtschaftlichen Aufbau in Kosovo bei… Darüber hinaus fördert die Bundesregierung gute Regierungsführung, insbesondere Demokratisierung, Zivilgesellschaft, Justizreform und öffentliche Finanzen.
 
