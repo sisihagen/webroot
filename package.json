@@ -4,22 +4,6 @@
   "description": "Private Website ",
   "main": "index.html",
   "scripts": {
-    "build": "./node_modules/.bin/gulp build",
-    "deploy": "./bin/deploy.sh",
-    "git": "./node_modules/.bin/gulp git",
-    "watch:css": "./node_modules/.bin/onchange './static/static/scss/*.scss' -- npm run scss",
-    "watch:js": "./node_modules/.bin/onchange './static/static/js/site.js' -- npm run build:js",
-    "concat": "./node_modules/.bin/concat ./node_modules/jquery/dist/jquery.js ./node_modules/flexibility/flexibility.js ./static/static/js/app.js -o ./static/static/js/site.js",
-    "uglify": "./node_modules/.bin/uglifyjs ./static/static/js/site.js -o ./static/static/js/site.js",
-    "scss": "./node_modules/.bin/node-sass --output-style compressed -o ./static/static/css ./static/static/scss/layout.scss",
-    "postcss": "./node_modules/.bin/postcss -u autoprefixer postcss-opacity postcss-flexibility cssnano -r ./static/static/css/*",
-    "de": "./node_modules/.bin/html-minifier --collapse-whitespace --remove-comments --remove-optional-tags --remove-redundant-attributes --remove-script-type-attributes --remove-tag-whitespace --quote-character \" --file-ext xml txt --input-dir ./public/build/de/ --output-dir ./public/dest/silviosiefke.de/htdocs",
-    "en": "./node_modules/.bin/html-minifier --collapse-whitespace --remove-comments --remove-optional-tags --remove-redundant-attributes --remove-script-type-attributes --remove-tag-whitespace --quote-character \" --file-ext xml txt --input-dir ./public/build/en/ --output-dir ./public/dest/silviosiefke.com/htdocs",
-    "fr": "./node_modules/.bin/html-minifier --collapse-whitespace --remove-comments --remove-optional-tags --remove-redundant-attributes --remove-script-type-attributes --remove-tag-whitespace --quote-character \" --file-ext xml txt --input-dir ./public/build/fr/ --output-dir ./public/dest/silviosiefke.fr/htdocs",
-    "ru": "./node_modules/.bin/html-minifier --collapse-whitespace --remove-comments --remove-optional-tags --remove-redundant-attributes --remove-script-type-attributes --remove-tag-whitespace --quote-character \" --file-ext xml txt --input-dir ./public/build/ru/ --output-dir ./public/dest/silviosiefke.ru/htdocs",
-    "build:css": "npm run scss && npm run postcss",
-    "build:js": "npm run concat && npm run uglify",
-    "build:html": "npm run de && npm run en && npm run fr && npm run ru"
   },
   "repository": "github.com/sisihagen/webroot",
   "keywords": [

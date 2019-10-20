@@ -1,7 +1,7 @@
 ---
 title: "Mort pour les bénéfices allemands"
 date: 2019-10-07
-tags: "State"
+tags: "politique"
 shorttext: "Une lettre ouverte des organisations de paix appelle à la fin des livraisons d'armes à la coalition militaire dirigée par l'Arabie saoudite."
 cover: "repression"
 draft: false
