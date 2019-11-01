@@ -4,7 +4,7 @@ date: 2019-03-31
 tags: "Société"
 shorttext: "Le 22 février dernier, lorsque la machine de propagande terroriste américaine pour traverser la frontière de leur soi-disant \"humanitaire aid\" de la Colombie au Venezuela a couru à pleine vitesse..."
 cover: "society"
-lang: en
+lang: fr
 draft: false
 ---
 

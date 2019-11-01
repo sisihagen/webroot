@@ -24,7 +24,7 @@ Die [Duma](https://tass.ru/politika/6937181 "Комиссия Госдумы н�
 
 > "Немецкая волна", действуя на территории РФ, нарушила законы, причем нарушила много законов. 
 
-> Die „Deutsche Welle“ hat auf dem Gebiet der Russischen Föderation gegen Gesetze verstoßen und viele Gesetze verletzt.
+> Die "Deutsche Welle" hat auf dem Gebiet der Russischen Föderation gegen Gesetze verstoßen und viele Gesetze verletzt.
 
 Die Duma wird das Ergebnis den Außenministerium mitteilen, dass dann über ein weiteres Vorgehen entscheiden wird. Möglich sind eine Verwarnung, Entzug der Akkreditierung, oder die Schließung.
 

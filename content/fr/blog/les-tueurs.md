@@ -4,7 +4,7 @@ date: 2019-10-17
 tags: "Society"
 shorttext: "Almost unnoticed by the public, the military lists itself as one of the worst environmental offenders."
 draft: false
-lang: en
+lang: fr
 cover: "society"
 ---
 

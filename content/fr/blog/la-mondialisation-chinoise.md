@@ -6,7 +6,7 @@ keywords: "Chine, Amérique latine, IIRSA, concurrence, mondialisation, Side Str
 shorttext: "La Chine attaque, la faim pour les matières premières, le pouvoir et la participation à l’échelle internationale."
 cover: "society"
 draft: false
-lang: en
+lang: fr
 ---
 
 Que ce soit au-delà des Océans: la mondialisation des marchés atteint une nouvelle dimension par la poussée de la Chine. Partout dans le monde, ingénieurs, architectes, mineurs, ogives, Bricklayers, soudeurs et travailleurs simples sous la direction de la Chine sur le projet mammouth "[New Silk Road](http://www.china.org.cn/business/node_7207419.htm "The Silk Road Economic")" un réseau de commerce Intercontinental de l’avenir.

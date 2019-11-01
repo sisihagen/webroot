@@ -6,7 +6,7 @@ keywords: "Libye, Afghanistan, Irak, AFRICOM, OTAN, Intervention, Droit internat
 shorttext: "La guerre en Libye était un crime. Il démontre la volonté de l'Occident de maintenir son importance par la destruction militaire."
 cover: "repression"
 draft: false
-lang: en
+lang: fr
 ---
 
 Suite au déclenchement de l'insurrection en Libye le 17 février 2011, le Conseil de sécurité de l'ONU a adopté à l'unanimité la résolution 1970 le 26 février 2011 et la résolution 1973 plus forte le 17 mars, qui comprenait un embargo sur les armes et une zone d'exclusion aérienne pour la Libye, et le membre de l'ONU les États autorisés à prendre « toutes les mesures nécessaires » pour protéger les civils. L'Allemagne, la Chine, la Russie, l'Inde et le Brésil se sont abstenus cette fois. Dès le 19 mars, la France, la Grande-Bretagne et les États-Unis ont commencé à attaquer la Libye avec des avions de chasse et à tirer des missiles de croisière sur des unités navales. Le 31 mars, l'OTAN a officiellement pris la direction de la guerre contre la Libye sous le nom de code « Opération Unified Protector ». Le 31 octobre 2011, les opérations de l'OTAN ont été officiellement terminées.

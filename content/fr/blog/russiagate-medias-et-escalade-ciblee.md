@@ -5,7 +5,7 @@ tags: "Politique"
 keywords: "Russiagate, Russie, Etats-Unis, élection, Clinton, Sanders, Trump, CIA, NSA, Friedman, 9/11 Scale, Poutine, cybercriminels, cyberattack, Hacking"
 shorttext: "Un accord raté avec l'UE a conduit à la protestation de Maidan en Ukraine et le monde de payer avec la guerre froide à nouveau."
 cover: "repression"
-lang: en
+lang: fr
 draft: false
 ---
 

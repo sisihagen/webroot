@@ -6,7 +6,7 @@ keywords: "Crimea, Yalta, History, Churchill, Roosevelt, Russia, Sanctions, NATO
 shorttext: "The US and the EU claim to punish Putin. Victims are others. The masters of the hypocrisy of human rights, freedom and peace."
 cover: "repression"
 draft: false
-lang: de
+lang: en
 ---
 
 There is not only the "irony of fate" as the famous 1975 film comedy is called, which is still shown on television in Russia every New Year's Eve. There is also the irony of the story – and such a thing is happening at the moment, not in the cinema and not as a pleasure game. On the contrary: in a bitter reality.

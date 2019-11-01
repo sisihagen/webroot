@@ -5,7 +5,7 @@ tags: "Politique"
 shorttext: "Les Verts sont sur la bouche de tout le monde et une fois de plus vous ne remarquez pas les gens à l'écoute, mais décider en fonction de la situation quotidienne, ou Rezo Video."
 cover: "repression"
 draft: false
-lang: en
+lang: fr
 ---
 
 C'est le verdissement si vert: Pendant des mois, les GREENS ont seulement progressé dans les sondages. Et il n'y a pas que les médias allemands qui posent la question de la chancelière. Les machines de vote sont également en proie à la question K. La « tendance allemande », produite par Infratest Dimap pour le compte de « Tagesthemen » et die Welt d'ARD, à une éventuelle coalition GREEN-CDU, n'est guère étonnante : lors d'une élection au Bundestag, les deux partis pouvaient s'attendre à 26 % des voix chacun. Cela se traduirait par une large majorité, qui au Bundestag n'aurait même pas à compter sur le SPD perdant.

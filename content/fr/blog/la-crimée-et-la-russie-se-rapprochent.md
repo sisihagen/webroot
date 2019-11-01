@@ -6,7 +6,7 @@ keywords: "Crimée, Yalta, Histoire, Churchill, Roosevelt, Russie, Sanctions, OT
 shorttext: "Kertch, une ville à l'est de la Crimée, a toujours été axée sur la Russie. Un nouveau pont offre d'autres possibilités."
 cover: "repression"
 draft: false
-lang: en
+lang: fr
 ---
 
 Peu en Europe occidentale sont connus pour le nom de Kertch. Kertch, avec une population d'un peu moins de 150.000, est inférieur à Sébastopol, contrairement à Sébastopol, n'a jamais eu un statut spécial politico-étatique et est situé à l'autre extrémité de la Crimée, à l'extrémité la plus orientale et est, dans une certaine mesure, une ville sur une péninsule de la péninsule.

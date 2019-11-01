@@ -4,7 +4,7 @@ date: 2019-07-04
 tags: "штат"
 shorttext: "The EU, which was once launched as a peace project, now threatens militarisation and the final metamorphosis of a project of the European elites."
 cover: "repression"
-lang: en
+lang: ru
 draft: false
 ---
 

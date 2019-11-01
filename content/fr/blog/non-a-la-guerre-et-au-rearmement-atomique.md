@@ -5,7 +5,7 @@ tags: "Politique"
 shorttext: "Quelqu'un détermine quelque chose qui sonne absolument bien et puis la personne révèle une fois de plus les défauts des systèmes éducatifs"
 keywords: "OTAN, éducation, atomique, guerre, mort, Gun, Yémen, pauvreté, militaire, opérations militaires, Bundeswehr, armée, armée allemande"
 cover: "repression"
-lang: en
+lang: fr
 draft: false
 ---
 

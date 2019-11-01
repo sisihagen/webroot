@@ -4,7 +4,7 @@ date: 2019-09-13
 tags: "Society"
 shorttext: "In Canada, corporations wanted to 'open up' another untouched landscape. A collection of money has successfully prevented this."
 draft: false
-lang: en
+lang: ru
 cover: "society"
 ---
 

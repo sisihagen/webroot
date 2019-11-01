@@ -75,6 +75,6 @@ Was wir brauchen ist:
 
   - Einen umfassenden Abrüstungsprozess, der die Umwelt schont und die materiellen und finanziellen Ressourcen freisetzt zum Schutz und zum Überleben des Planeten und seiner Menschen.
 
-  - Eine umfassende sozial-ökologische Transformation, basierend auf „common goods“, einem Wirtschaften, das den Menschen und nicht den Profit in den Mittelpunkt stellt, sowie nationale und weltweite Konversionspläne zur Umstellung des Militärischen auf das Zivile, mit den Zielen der Schaffung von guter Arbeit. Das Militärische muss gegen Null gefahren werden (degrowth).
+  - Eine umfassende sozial-ökologische Transformation, basierend auf "common goods", einem Wirtschaften, das den Menschen und nicht den Profit in den Mittelpunkt stellt, sowie nationale und weltweite Konversionspläne zur Umstellung des Militärischen auf das Zivile, mit den Zielen der Schaffung von guter Arbeit. Das Militärische muss gegen Null gefahren werden (degrowth).
 
   - Die umfassende, lebendige und aktionsorientierte Zusammenarbeit von Klima/Umwelt und Friedensbewegung: für das Leben und Überleben auf dem Planten in sozialer Gerechtigkeit.

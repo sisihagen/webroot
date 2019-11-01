@@ -8,7 +8,7 @@ draft: false
 lang: de
 ---
 
-Am 25. Mai 2019 hielt US-Vizepräsident Mike Pence eine [Ansprache](https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-west-point-graduation-ceremony/ "Remarks by Vice President Pence at the West Point Graduation Ceremony") vor dem Abschlussjahrgang in West Point. Er sagte den Absolventen, dass sie mit Sicherheit „auf einem Schlachtfeld für die USA landen“ und sich „zum Klang von Gewehren bewegen“ würden.
+Am 25. Mai 2019 hielt US-Vizepräsident Mike Pence eine [Ansprache](https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-west-point-graduation-ceremony/ "Remarks by Vice President Pence at the West Point Graduation Ceremony") vor dem Abschlussjahrgang in West Point. Er sagte den Absolventen, dass sie mit Sicherheit "auf einem Schlachtfeld für die USA landen" und sich "zum Klang von Gewehren bewegen" würden.
 
 Er sagte nicht, für wessen Ziele sie kämpfen würden, ob für die Erdölunternehmen, oder Banken, vielleicht für die Ideologie der US-Weltherrschaft, oder für die Drogengeschäfte der CIA. Tatsächlich werden die West-Point-Absolventen sterben, ohne zu wissen, für wessen Interessen sie kämpften.
 
@@ -36,7 +36,7 @@ Zudem setzte Kennedy ein Vertrauen in die USA, das nach ihm kein Präsident – 
 
 > Wir können eine Entspannung anstreben und gleichzeitig wachsam sein. Und wir brauchen auch keine Drohungen auszustoßen, um zu beweisen, dass wir entschlossen sind. Wir müssen keine Auslandssender blockieren, weil wir fürchten, dass unser Glaube beeinträchtigt werden könnte. Wir wollen unser System niemandem aufzwingen, der es nicht möchte – wir können und wollen jedoch in einen friedlichen Wettstreit mit jedem Land der Erde treten.
 
-Vergleichen Sie das heutige Washington mit Präsident Kennedy, und Sie sehen den totalen Zusammenbruch der USA. Heutzutage versuchen wir, alle Nachrichten zu unterdrücken, die nicht von der sich anbiedernden Presse stammen, die die offiziellen Erklärungen wiederholt. Wir blockieren Auslandssender, indem wir russische Nachrichtensender zwingen, sich als „ausländische Agenten“ registrieren zu lassen. Wir löschen Websites und verbieten die freie Meinungsäußerung auf Facebook und Twitter. Wir kennen keinerlei Diplomatie, nur Drohungen.
+Vergleichen Sie das heutige Washington mit Präsident Kennedy, und Sie sehen den totalen Zusammenbruch der USA. Heutzutage versuchen wir, alle Nachrichten zu unterdrücken, die nicht von der sich anbiedernden Presse stammen, die die offiziellen Erklärungen wiederholt. Wir blockieren Auslandssender, indem wir russische Nachrichtensender zwingen, sich als "ausländische Agenten" registrieren zu lassen. Wir löschen Websites und verbieten die freie Meinungsäußerung auf Facebook und Twitter. Wir kennen keinerlei Diplomatie, nur Drohungen.
 
 Tatsächlich sind Drohungen das Kennzeichen der USA, Kriegsdrohungen, Sanktionsdrohungen. Der Präsident der Vereinigten Staaten verteilt das Territorium anderer Länder und bestimmt den Präsidenten von Venezuela. Die heutigen USA haben eine Todesangst vor friedlichem Wettstreit und erlegen jedem, von Mexiko bis China, Strafzölle auf.
 

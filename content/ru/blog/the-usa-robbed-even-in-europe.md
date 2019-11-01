@@ -5,7 +5,7 @@ tags: "штат"
 shorttext: "Злой русский, он покупает наши предприятия, обеспечивает тысячи безработных, грабит людей за повышенную арендную плату и покупает политику и СМИ. Данный Момент В России? Нет, мы говорим о США!"
 keywords: "BlackRock, Economic, Marshall, USA, Nato, Brexit, Alstom, Daimler, Volkswagen, Deutsche Bank, Siemens, Commerzbank, Иран, Клинтон, дерегулирование, частный капитал, саранча, акции, Корпоративное право, антимонопольное, международное право"
 cover: repression
-lang: en
+lang: ru
 draft: false
 ---
 

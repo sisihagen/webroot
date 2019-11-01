@@ -32,7 +32,7 @@ Der Spiegel lügt mit Zahlen, die 8.300 Opfer sind nicht zu überprüfen, aber n
 
 Von Verhältnissen spricht der Spiegel natürlich nicht. Er hätte berichten können das die [Opfer](https://www.nzz.ch/international/syrien-krieg-fordert-dieses-jahr-rund-39-000-tote-ld.1343375 "Syrien-Krieg fordert dieses Jahr rund 39000 Tote") seit dem Eintritt Russland 2015 deutlich zurück gegangen sind und heute im Land weitgehend Frieden. Das wäre Journalismus! 
 
-> Laut der Beobachtungsstelle wurden ferner rund 5500 Kämpfer der Rebellengruppen sowie mehr als 5200 Anhänger der Terrormiliz „Islamischer Staat“ (IS) getötet. Zivilisten machten somit mehr als 40 Prozent der Todesopfer aus, hieß es weiter.
+> Laut der Beobachtungsstelle wurden ferner rund 5500 Kämpfer der Rebellengruppen sowie mehr als 5200 Anhänger der Terrormiliz "Islamischer Staat" (IS) getötet. Zivilisten machten somit mehr als 40 Prozent der Todesopfer aus, hieß es weiter.
 
 40% zivile Opfer im Gegensatz zum USA Krieg im Irak der 90% [zivile Opfer](https://www.sueddeutsche.de/politik/us-invasion-im-irak-ein-krieg-den-alle-verloren-haben-1.994414 "Ein Krieg, den alle verloren haben") brachte, man fragt sich also wer der Schlächter ist. 
 

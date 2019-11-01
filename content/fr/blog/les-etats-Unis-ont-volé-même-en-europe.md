@@ -5,7 +5,7 @@ tags: "Politique"
 shorttext: "Le mauvais russe, il achète nos affaires, fournit des milliers de chômeurs, plonge les gens sur les loyers accrus et achète la politique et les médias. Le moment de la Russie? Non, nous parlons des USA!"
 keywords: "BlackRock, Economic, Marshall, Etats-Unis, NATO, Brexit, Alstom, Daimler, Volkswagen, Deutsche Bank, Siemens, Commerzbank, Iran, Clinton, déréglementation, Private Equity, criquets, actions, droit des actions, droit des cartels, droit"
 cover: repression
-lang: en
+lang: fr
 draft: false
 ---
 
