@@ -25,29 +25,37 @@ mkdir -p $dst/{css,downloads,fonts,img,js}
 # html clean and minify for all languages
 if [[ -d $sde ]]; then
     if [[ -d $dde ]]; then
-        rsync -avuzq --exclude 'index.xml' --exclude 'static' $sde/ $dde/
-        find $dde -name "*.html" -exec tidy -mq -utf8 '{}' \;
+      find $sde -name "index.xml" -delete
+      rm -r $sde/static
+      minify --type=html -r -o $dde/ $sde/
+      cp $sde/robots.txt $dde/
     fi
 fi
 
 if [[ -d $sen ]]; then
     if [[ -d $den ]]; then
-        rsync -avuzq --exclude 'index.xml' --exclude 'static' $sen/ $den/
-        find $den -name "*.html" -exec tidy -mq -utf8 '{}' \;
+      find $sen -name "index.xml" -delete
+      rm -r $sen/static
+      minify --type=html -r -o $den/ $sen/
+      cp $sen/robots.txt $den/
     fi
 fi
 
 if [[ -d $sfr ]]; then
     if [[ -d $dfr ]]; then
-        rsync -avuzq --exclude 'index.xml' --exclude 'static' $sfr/ $dfr/
-        find $dfr -name "*.html" -exec tidy -mq -utf8 '{}' \;
+      find $sfr -name "index.xml" -delete
+      rm -r $sfr/static
+      minify --type=html -r -o $dfr/ $sfr/
+      cp $sfr/robots.txt $dfr/
     fi
 fi
 
 if [[ -d $sru ]]; then
     if [[ -d $dru ]]; then
-        rsync -avuzq --exclude 'index.xml' --exclude 'static' $sru/ $dru/
-        find $dru -name "*.html" -exec tidy -mq -utf8 '{}' \;
+      find $sru -name "index.xml" -delete
+      rm -r $sru/static
+      minify --type=html -r -o $dru/ $sru/
+      cp $sru/robots.txt $dru/
     fi
 fi
 
@@ -70,8 +78,8 @@ if [[ -d $sst/js ]]; then
   ./node_modules/.bin/uglifyjs $sst/js/site-orig.js > $sst/js/site.js
 
   # copy used js files
-  cp -v $sst/js/site.js $dst/js/site.js
-  cp -v ./node_modules/html5shiv/dist/html5shiv.min.js $dst/js
+  cp $sst/js/site.js $dst/js/site.js
+  cp ./node_modules/html5shiv/dist/html5shiv.min.js $dst/js
 fi
 
 # fonts
@@ -89,7 +97,7 @@ wdir="./static/static/img/"
 odir="./public/dest/static.silviosiefke.com/htdocs/img/"
 jpgo="$(find $wdir -name "*.jpg" -mtime -1 -type f -exec jpegoptim -q {} \;)"
 pngo="$(find $wdir -name "*.png" -mtime -1 -type f -exec pngfix -o -q {} \;)"
-webp="$(find $wdir -iregex ".*\.\(jpg\|png\|jpeg\)$" -mtime -1 -type f | parallel -eta cwebp {} -o {.}.webp)"
+webp="$(find $wdir -iregex ".*\.\(jpg\|png\|jpeg\)$" -mtime -1 -type f | parallel -eta cwebp -quiet {} -o {.}.webp)"
 
 if [[ $jpgo -eq 0 && $pngo -eq 0 && $webp -eq 0  ]] ; then
   rsync -avuzq $wdir $odir

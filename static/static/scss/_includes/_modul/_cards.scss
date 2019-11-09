@@ -38,6 +38,12 @@
 				padding: 0;
 				margin: 0;
 			}
+
+      span.icon-calendar {
+        &:before {
+          padding-right: 0.5rem;
+        }
+      }
 		}
 
 		.card__content {
