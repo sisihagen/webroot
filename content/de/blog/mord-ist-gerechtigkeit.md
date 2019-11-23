@@ -30,9 +30,9 @@ Warum hier nicht der Voyeurismus einer Staatsmacht kritisiert wird entzieht sich
 
 Viele zweifeln auch das hier ein entscheidener Erfolg im Kampf gegen das Bollwerk IS vollzogen wurde und nein es ist nicht nur Russland. Baghdadi sei vielleicht das Gesicht gewesen, gegenüber Strategie, Planer und den ausführenden Organen ist er jedoch nur eine Nebenfigur. Es könnte auch zu einer Straffung der Strukturen innerhalb des Bollwerkes IS führen. Der Mord sei eher eine Befreiung des in Bedrängnis geratenen Trump als ein entscheidener Schlag gegen das Bollwerk IS. 
 
-#### Was hat Trump mit „justice“ gemeint?
+#### Was hat Trump mit "justice" gemeint?
 
-Warum stellen die Medien nicht die wichtigen Fragen? Warum fragt keiner was Trump mit "Baghdadi sei „to justice“ gebracht worden" meint?
+Warum stellen die Medien nicht die wichtigen Fragen? Warum fragt keiner was Trump mit "Baghdadi sei "to justice" gebracht worden" meint?
 
 {{< image srcwebp="/static/img/content/2019/237.webp" srcalt="/static/img/content/2019/237.jpg" title="Kari" >}}
 
